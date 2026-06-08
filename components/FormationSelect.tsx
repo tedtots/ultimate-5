@@ -31,8 +31,7 @@ const ERA_PRESETS = [
   { label: "All-time",  minYear: 1930, maxYear: 2022 },
   { label: "'60s-'70s", minYear: 1962, maxYear: 1979 },
   { label: "'80s-'90s", minYear: 1982, maxYear: 1999 },
-  { label: "'00s+",     minYear: 2002, maxYear: 2022 },
-  { label: "Modern",   minYear: 2014, maxYear: 2022 },
+  { label: "'00s-'20s", minYear: 2002, maxYear: 2022 },
 ];
 
 function posBadgeStyle(pos: string): React.CSSProperties {
