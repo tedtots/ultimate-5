@@ -1,0 +1,169 @@
+{
+  "team": "Belgium",
+  "year": 2018,
+  "nation_code": "BE",
+  "flag": "🇧🇪",
+  "players": [
+    {
+      "id": "belgium_2018_thibaut_courtois",
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "belgium_2018_toby_alderweireld",
+      "name": "Toby Alderweireld",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2018_thomas_vermaelen",
+      "name": "Thomas Vermaelen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "belgium_2018_vincent_kompany",
+      "name": "Vincent Kompany",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "belgium_2018_jan_vertonghen",
+      "name": "Jan Vertonghen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "belgium_2018_axel_witsel",
+      "name": "Axel Witsel",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "belgium_2018_kevin_de_bruyne",
+      "name": "Kevin De Bruyne",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "belgium_2018_marouane_fellaini",
+      "name": "Marouane Fellaini",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "belgium_2018_romelu_lukaku",
+      "name": "Romelu Lukaku",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "belgium_2018_eden_hazard",
+      "name": "Eden Hazard",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2018_yannick_carrasco",
+      "name": "Yannick Carrasco",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "belgium_2018_simon_mignolet",
+      "name": "Simon Mignolet",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2018_koen_casteels",
+      "name": "Koen Casteels",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2018_dries_mertens",
+      "name": "Dries Mertens",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "belgium_2018_thomas_meunier",
+      "name": "Thomas Meunier",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "belgium_2018_thorgan_hazard",
+      "name": "Thorgan Hazard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "belgium_2018_youri_tielemans",
+      "name": "Youri Tielemans",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "belgium_2018_adnan_januzaj",
+      "name": "Adnan Januzaj",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2018_mousa_demb_l",
+      "name": "Mousa Dembélé",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2018_dedryck_boyata",
+      "name": "Dedryck Boyata",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "belgium_2018_michy_batshuayi",
+      "name": "Michy Batshuayi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2018_nacer_chadli",
+      "name": "Nacer Chadli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "belgium_2018_leander_dendoncker",
+      "name": "Leander Dendoncker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    }
+  ]
+}

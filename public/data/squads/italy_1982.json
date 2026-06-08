@@ -1,0 +1,162 @@
+{
+  "team": "Italy",
+  "year": 1982,
+  "nation_code": "IT",
+  "flag": "🇮🇹",
+  "players": [
+    {
+      "id": "italy_1982_dino_zoff",
+      "name": "Dino Zoff",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "italy_1982_franco_baresi",
+      "name": "Franco Baresi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1982_giuseppe_bergomi",
+      "name": "Giuseppe Bergomi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_1982_antonio_cabrini",
+      "name": "Antonio Cabrini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1982_fulvio_collovati",
+      "name": "Fulvio Collovati",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_1982_claudio_gentile",
+      "name": "Claudio Gentile",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1982_gaetano_scirea",
+      "name": "Gaetano Scirea",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1982_pietro_vierchowod",
+      "name": "Pietro Vierchowod",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1982_giancarlo_antognoni",
+      "name": "Giancarlo Antognoni",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1982_giuseppe_dossena",
+      "name": "Giuseppe Dossena",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1982_giampiero_marini",
+      "name": "Giampiero Marini",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1982_ivano_bordon",
+      "name": "Ivano Bordon",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1982_gabriele_oriali",
+      "name": "Gabriele Oriali",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1982_marco_tardelli",
+      "name": "Marco Tardelli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_1982_franco_causio",
+      "name": "Franco Causio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_1982_bruno_conti",
+      "name": "Bruno Conti",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "italy_1982_daniele_massaro",
+      "name": "Daniele Massaro",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "italy_1982_alessandro_altobelli",
+      "name": "Alessandro Altobelli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_1982_francesco_graziani",
+      "name": "Francesco Graziani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_1982_paolo_rossi",
+      "name": "Paolo Rossi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "italy_1982_franco_selvaggi",
+      "name": "Franco Selvaggi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "italy_1982_giovanni_galli",
+      "name": "Giovanni Galli",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    }
+  ]
+}

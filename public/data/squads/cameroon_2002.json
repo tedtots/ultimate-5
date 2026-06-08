@@ -1,0 +1,169 @@
+{
+  "team": "Cameroon",
+  "year": 2002,
+  "nation_code": "cm",
+  "flag": "🇨🇲",
+  "players": [
+    {
+      "id": "cameroon_2002_alioum_boukar",
+      "name": "Alioum Boukar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "cameroon_2002_bill_tchato",
+      "name": "Bill Tchato",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "cameroon_2002_pierre_wom",
+      "name": "Pierre Womé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2002_rigobert_song",
+      "name": "Rigobert Song",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "cameroon_2002_raymond_kalla",
+      "name": "Raymond Kalla",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "cameroon_2002_pierre_njanka",
+      "name": "Pierre Njanka",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "cameroon_2002_joseph_n_do",
+      "name": "Joseph N'Do",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2002_not_applicable_geremi",
+      "name": "Geremi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "cameroon_2002_samuel_eto_o",
+      "name": "Samuel Eto'o",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2002_patrick_m_boma",
+      "name": "Patrick M'Boma",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "cameroon_2002_pius_ndiefi",
+      "name": "Pius Ndiefi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2002_not_applicable_lauren",
+      "name": "Lauren",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2002_lucien_mettomo",
+      "name": "Lucien Mettomo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "cameroon_2002_jo_l_epalle",
+      "name": "Joël Epalle",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2002_nicolas_alnoudji",
+      "name": "Nicolas Alnoudji",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "cameroon_2002_jacques_songo_o",
+      "name": "Jacques Songo'o",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "cameroon_2002_marc_vivien_fo",
+      "name": "Marc-Vivien Foé",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "cameroon_2002_patrick_suffo",
+      "name": "Patrick Suffo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "cameroon_2002_eric_djemba_djemba",
+      "name": "Eric Djemba-Djemba",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "cameroon_2002_salomon_olemb",
+      "name": "Salomon Olembé",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2002_joseph_d_sir_job",
+      "name": "Joseph-Désiré Job",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "cameroon_2002_carlos_kameni",
+      "name": "Carlos Kameni",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "cameroon_2002_daniel_kome",
+      "name": "Daniel Kome",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    }
+  ]
+}

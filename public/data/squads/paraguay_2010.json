@@ -1,0 +1,169 @@
+{
+  "team": "Paraguay",
+  "year": 2010,
+  "nation_code": "py",
+  "flag": "🇵🇾",
+  "players": [
+    {
+      "id": "paraguay_2010_justo_villar",
+      "name": "Justo Villar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "paraguay_2010_dar_o_ver_n",
+      "name": "Darío Verón",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "paraguay_2010_claudio_morel",
+      "name": "Claudio Morel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "paraguay_2010_denis_caniza",
+      "name": "Denis Caniza",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "paraguay_2010_julio_c_sar_c_ceres",
+      "name": "Julio César Cáceres",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "paraguay_2010_carlos_bonet",
+      "name": "Carlos Bonet",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "paraguay_2010_scar_cardozo",
+      "name": "Óscar Cardozo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "paraguay_2010_dgar_barreto",
+      "name": "Édgar Barreto",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "paraguay_2010_roque_santa_cruz",
+      "name": "Roque Santa Cruz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "paraguay_2010_dgar_ben_tez",
+      "name": "Édgar Benítez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "paraguay_2010_jonathan_santana",
+      "name": "Jonathan Santana",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "paraguay_2010_diego_barreto",
+      "name": "Diego Barreto",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "paraguay_2010_enrique_vera",
+      "name": "Enrique Vera",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "paraguay_2010_paulo_da_silva",
+      "name": "Paulo da Silva",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "paraguay_2010_v_ctor_c_ceres",
+      "name": "Víctor Cáceres",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "paraguay_2010_cristian_riveros",
+      "name": "Cristian Riveros",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "paraguay_2010_aureliano_torres",
+      "name": "Aureliano Torres",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "paraguay_2010_nelson_valdez",
+      "name": "Nelson Valdez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "paraguay_2010_lucas_barrios",
+      "name": "Lucas Barrios",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "paraguay_2010_n_stor_ortigoza",
+      "name": "Néstor Ortigoza",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "paraguay_2010_antol_n_alcaraz",
+      "name": "Antolín Alcaraz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "paraguay_2010_aldo_bobadilla",
+      "name": "Aldo Bobadilla",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "paraguay_2010_rodolfo_gamarra",
+      "name": "Rodolfo Gamarra",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    }
+  ]
+}

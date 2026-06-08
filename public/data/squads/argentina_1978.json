@@ -1,0 +1,162 @@
+{
+  "team": "Argentina",
+  "year": 1978,
+  "nation_code": "AR",
+  "flag": "🇦🇷",
+  "players": [
+    {
+      "id": "argentina_1978_norberto_alonso",
+      "name": "Norberto Alonso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "argentina_1978_osvaldo_ardiles",
+      "name": "Osvaldo Ardiles",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_1978_h_ctor_baley",
+      "name": "Héctor Baley",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1978_daniel_bertoni",
+      "name": "Daniel Bertoni",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_1978_ubaldo_fillol",
+      "name": "Ubaldo Fillol",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1978_am_rico_gallego",
+      "name": "Américo Gallego",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_1978_luis_galv_n",
+      "name": "Luis Galván",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1978_rub_n_galv_n",
+      "name": "Rubén Galván",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "argentina_1978_ren_houseman",
+      "name": "René Houseman",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_1978_mario_kempes",
+      "name": "Mario Kempes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "argentina_1978_daniel_killer",
+      "name": "Daniel Killer",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "argentina_1978_omar_larrosa",
+      "name": "Omar Larrosa",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_1978_ricardo_la_volpe",
+      "name": "Ricardo La Volpe",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_1978_leopoldo_luque",
+      "name": "Leopoldo Luque",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_1978_jorge_olgu_n",
+      "name": "Jorge Olguín",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_1978_oscar_ortiz",
+      "name": "Oscar Ortiz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1978_miguel_oviedo",
+      "name": "Miguel Oviedo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1978_rub_n_pagnanini",
+      "name": "Rubén Pagnanini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_1978_daniel_passarella",
+      "name": "Daniel Passarella",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1978_alberto_tarantini",
+      "name": "Alberto Tarantini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "argentina_1978_jos_daniel_valencia",
+      "name": "José Daniel Valencia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_1978_ricardo_villa",
+      "name": "Ricardo Villa",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

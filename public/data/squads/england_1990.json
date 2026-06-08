@@ -1,0 +1,162 @@
+{
+  "team": "England",
+  "year": 1990,
+  "nation_code": "GB-ENG",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_1990_peter_shilton",
+      "name": "Peter Shilton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1990_gary_stevens",
+      "name": "Gary Stevens",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1990_stuart_pearce",
+      "name": "Stuart Pearce",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1990_neil_webb",
+      "name": "Neil Webb",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "england_1990_des_walker",
+      "name": "Des Walker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1990_terry_butcher",
+      "name": "Terry Butcher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1990_bryan_robson",
+      "name": "Bryan Robson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_1990_chris_waddle",
+      "name": "Chris Waddle",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1990_peter_beardsley",
+      "name": "Peter Beardsley",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1990_gary_lineker",
+      "name": "Gary Lineker",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "england_1990_john_barnes",
+      "name": "John Barnes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1990_paul_parker",
+      "name": "Paul Parker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_1990_chris_woods",
+      "name": "Chris Woods",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_1990_mark_wright",
+      "name": "Mark Wright",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1990_tony_dorigo",
+      "name": "Tony Dorigo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1990_steve_mcmahon",
+      "name": "Steve McMahon",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1990_david_platt",
+      "name": "David Platt",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_1990_steve_hodge",
+      "name": "Steve Hodge",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1990_paul_gascoigne",
+      "name": "Paul Gascoigne",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "england_1990_trevor_steven",
+      "name": "Trevor Steven",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1990_steve_bull",
+      "name": "Steve Bull",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1990_david_seaman",
+      "name": "David Seaman",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

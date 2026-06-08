@@ -1,0 +1,162 @@
+{
+  "team": "England",
+  "year": 1970,
+  "nation_code": "gb-eng",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_1970_gordon_banks",
+      "name": "Gordon Banks",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1970_keith_newton",
+      "name": "Keith Newton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1970_terry_cooper",
+      "name": "Terry Cooper",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1970_alan_mullery",
+      "name": "Alan Mullery",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1970_brian_labone",
+      "name": "Brian Labone",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1970_bobby_moore",
+      "name": "Bobby Moore",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1970_francis_lee",
+      "name": "Francis Lee",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "england_1970_alan_ball",
+      "name": "Alan Ball",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1970_bobby_charlton",
+      "name": "Bobby Charlton",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_1970_geoff_hurst",
+      "name": "Geoff Hurst",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1970_martin_peters",
+      "name": "Martin Peters",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1970_peter_bonetti",
+      "name": "Peter Bonetti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1970_alex_stepney",
+      "name": "Alex Stepney",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1970_tommy_wright",
+      "name": "Tommy Wright",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1970_nobby_stiles",
+      "name": "Nobby Stiles",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1970_emlyn_hughes",
+      "name": "Emlyn Hughes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1970_jack_charlton",
+      "name": "Jack Charlton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1970_norman_hunter",
+      "name": "Norman Hunter",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_1970_colin_bell",
+      "name": "Colin Bell",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1970_peter_osgood",
+      "name": "Peter Osgood",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1970_allan_clarke",
+      "name": "Allan Clarke",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1970_jeff_astle",
+      "name": "Jeff Astle",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

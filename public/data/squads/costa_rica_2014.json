@@ -1,0 +1,169 @@
+{
+  "team": "Costa Rica",
+  "year": 2014,
+  "nation_code": "cr",
+  "flag": "🇨🇷",
+  "players": [
+    {
+      "id": "costa_rica_2014_keylor_navas",
+      "name": "Keylor Navas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "costa_rica_2014_jhonny_acosta",
+      "name": "Jhonny Acosta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_giancarlo_gonz_lez",
+      "name": "Giancarlo González",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "costa_rica_2014_michael_uma_a",
+      "name": "Michael Umaña",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "costa_rica_2014_celso_borges",
+      "name": "Celso Borges",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_scar_duarte",
+      "name": "Óscar Duarte",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_christian_bola_os",
+      "name": "Christian Bolaños",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_david_myrie",
+      "name": "David Myrie",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "costa_rica_2014_joel_campbell",
+      "name": "Joel Campbell",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_bryan_ruiz",
+      "name": "Bryan Ruiz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "costa_rica_2014_michael_barrantes",
+      "name": "Michael Barrantes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_waylon_francis",
+      "name": "Waylon Francis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "costa_rica_2014_scar_granados",
+      "name": "Óscar Granados",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "costa_rica_2014_randall_brenes",
+      "name": "Randall Brenes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "costa_rica_2014_j_nior_d_az",
+      "name": "Júnior Díaz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "costa_rica_2014_cristian_gamboa",
+      "name": "Cristian Gamboa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "costa_rica_2014_yeltsin_tejeda",
+      "name": "Yeltsin Tejeda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "costa_rica_2014_patrick_pemberton",
+      "name": "Patrick Pemberton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "costa_rica_2014_roy_miller",
+      "name": "Roy Miller",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "costa_rica_2014_diego_calvo",
+      "name": "Diego Calvo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "costa_rica_2014_marco_ure_a",
+      "name": "Marco Ureña",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "costa_rica_2014_jos_miguel_cubero",
+      "name": "José Miguel Cubero",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "costa_rica_2014_daniel_cambronero",
+      "name": "Daniel Cambronero",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 67
+    }
+  ]
+}

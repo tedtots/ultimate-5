@@ -1,0 +1,169 @@
+{
+  "team": "England",
+  "year": 2010,
+  "nation_code": "gb-eng",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_2010_david_james",
+      "name": "David James",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_2010_glen_johnson",
+      "name": "Glen Johnson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_2010_ashley_cole",
+      "name": "Ashley Cole",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_2010_steven_gerrard",
+      "name": "Steven Gerrard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2010_michael_dawson",
+      "name": "Michael Dawson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2010_john_terry",
+      "name": "John Terry",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2010_aaron_lennon",
+      "name": "Aaron Lennon",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2010_frank_lampard",
+      "name": "Frank Lampard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_2010_peter_crouch",
+      "name": "Peter Crouch",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2010_wayne_rooney",
+      "name": "Wayne Rooney",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_2010_joe_cole",
+      "name": "Joe Cole",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_2010_robert_green",
+      "name": "Robert Green",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_2010_stephen_warnock",
+      "name": "Stephen Warnock",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2010_gareth_barry",
+      "name": "Gareth Barry",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_2010_matthew_upson",
+      "name": "Matthew Upson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_2010_james_milner",
+      "name": "James Milner",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_2010_shaun_wright_phillips",
+      "name": "Shaun Wright-Phillips",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_2010_jamie_carragher",
+      "name": "Jamie Carragher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2010_jermain_defoe",
+      "name": "Jermain Defoe",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_2010_ledley_king",
+      "name": "Ledley King",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "england_2010_emile_heskey",
+      "name": "Emile Heskey",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2010_michael_carrick",
+      "name": "Michael Carrick",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_2010_joe_hart",
+      "name": "Joe Hart",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    }
+  ]
+}

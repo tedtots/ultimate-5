@@ -1,0 +1,162 @@
+{
+  "team": "Scotland",
+  "year": 1982,
+  "nation_code": "gb-sct",
+  "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "players": [
+    {
+      "id": "scotland_1982_alan_rough",
+      "name": "Alan Rough",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1982_danny_mcgrain",
+      "name": "Danny McGrain",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "scotland_1982_frank_gray",
+      "name": "Frank Gray",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1982_graeme_souness",
+      "name": "Graeme Souness",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1982_alan_hansen",
+      "name": "Alan Hansen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1982_willie_miller",
+      "name": "Willie Miller",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1982_gordon_strachan",
+      "name": "Gordon Strachan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "scotland_1982_kenny_dalglish",
+      "name": "Kenny Dalglish",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1982_alan_brazil",
+      "name": "Alan Brazil",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1982_john_wark",
+      "name": "John Wark",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1982_john_robertson",
+      "name": "John Robertson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1982_george_wood",
+      "name": "George Wood",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1982_alex_mcleish",
+      "name": "Alex McLeish",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "scotland_1982_david_narey",
+      "name": "David Narey",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "scotland_1982_joe_jordan",
+      "name": "Joe Jordan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "scotland_1982_asa_hartford",
+      "name": "Asa Hartford",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1982_allan_evans",
+      "name": "Allan Evans",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 63
+    },
+    {
+      "id": "scotland_1982_steve_archibald",
+      "name": "Steve Archibald",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "scotland_1982_paul_sturrock",
+      "name": "Paul Sturrock",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1982_davie_provan",
+      "name": "Davie Provan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1982_george_burley",
+      "name": "George Burley",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "scotland_1982_jim_leighton",
+      "name": "Jim Leighton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    }
+  ]
+}

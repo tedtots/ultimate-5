@@ -1,0 +1,162 @@
+{
+  "team": "France",
+  "year": 1998,
+  "nation_code": "FR",
+  "flag": "🇫🇷",
+  "players": [
+    {
+      "id": "france_1998_bernard_lama",
+      "name": "Bernard Lama",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "france_1998_vincent_candela",
+      "name": "Vincent Candela",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "france_1998_bixente_lizarazu",
+      "name": "Bixente Lizarazu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_1998_patrick_vieira",
+      "name": "Patrick Vieira",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_1998_laurent_blanc",
+      "name": "Laurent Blanc",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_1998_youri_djorkaeff",
+      "name": "Youri Djorkaeff",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_1998_didier_deschamps",
+      "name": "Didier Deschamps",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_1998_marcel_desailly",
+      "name": "Marcel Desailly",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "france_1998_st_phane_guivarc_h",
+      "name": "Stéphane Guivarc'h",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_1998_zinedine_zidane",
+      "name": "Zinedine Zidane",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "france_1998_robert_pires",
+      "name": "Robert Pires",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_1998_thierry_henry",
+      "name": "Thierry Henry",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_1998_bernard_diom_de",
+      "name": "Bernard Diomède",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_1998_alain_boghossian",
+      "name": "Alain Boghossian",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_1998_lilian_thuram",
+      "name": "Lilian Thuram",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_1998_fabien_barthez",
+      "name": "Fabien Barthez",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "france_1998_emmanuel_petit",
+      "name": "Emmanuel Petit",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "france_1998_frank_leboeuf",
+      "name": "Frank Leboeuf",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "france_1998_christian_karembeu",
+      "name": "Christian Karembeu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "france_1998_david_trezeguet",
+      "name": "David Trezeguet",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "france_1998_christophe_dugarry",
+      "name": "Christophe Dugarry",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "france_1998_lionel_charbonnier",
+      "name": "Lionel Charbonnier",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "team": "Brazil",
+  "year": 1958,
+  "nation_code": "br",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_1958_carlos_jos_castilho",
+      "name": "Carlos José Castilho",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_hilderaldo_bellini",
+      "name": "Hilderaldo Bellini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_not_applicable_gilmar",
+      "name": "Gilmar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_djalma_santos",
+      "name": "Djalma Santos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1958_dino_sani",
+      "name": "Dino Sani",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1958_not_applicable_didi",
+      "name": "Didi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_m_rio_zagallo",
+      "name": "Mário Zagallo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1958_not_applicable_oreco",
+      "name": "Oreco",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1958_not_applicable_z_zimo",
+      "name": "Zózimo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_not_applicable_pel",
+      "name": "Pelé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1958_not_applicable_garrincha",
+      "name": "Garrincha",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_n_lton_santos",
+      "name": "Nílton Santos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1958_not_applicable_moacir",
+      "name": "Moacir",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1958_de_sordi",
+      "name": "De Sordi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "brazil_1958_not_applicable_orlando",
+      "name": "Orlando",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "brazil_1958_mauro_ramos",
+      "name": "Mauro Ramos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1958_joel_ant_nio_martins",
+      "name": "Joel Antônio Martins",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1958_jos_altafini",
+      "name": "José Altafini",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1958_not_applicable_zito",
+      "name": "Zito",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1958_not_applicable_vav",
+      "name": "Vavá",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1958_not_applicable_dida",
+      "name": "Dida",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1958_not_applicable_pepe",
+      "name": "Pepe",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

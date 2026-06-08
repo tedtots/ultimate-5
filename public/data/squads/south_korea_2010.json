@@ -1,0 +1,169 @@
+{
+  "team": "South Korea",
+  "year": 2010,
+  "nation_code": "kr",
+  "flag": "🇰🇷",
+  "players": [
+    {
+      "id": "south_korea_2010_woon_jae_lee",
+      "name": "Woon-jae Lee",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "south_korea_2010_beom_seok_oh",
+      "name": "Beom-seok Oh",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "south_korea_2010_hyung_il_kim",
+      "name": "Hyung-il Kim",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "south_korea_2010_yong_hyung_cho",
+      "name": "Yong-hyung Cho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "south_korea_2010_nam_il_kim",
+      "name": "Nam-il Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "south_korea_2010_bo_kyung_kim",
+      "name": "Bo-kyung Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2010_ji_sung_park",
+      "name": "Ji-sung Park",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2010_jung_woo_kim",
+      "name": "Jung-woo Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "south_korea_2010_jung_hwan_ahn",
+      "name": "Jung-hwan Ahn",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2010_chu_young_park",
+      "name": "Chu-young Park",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "south_korea_2010_seung_yeoul_lee",
+      "name": "Seung-yeoul Lee",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "south_korea_2010_young_pyo_lee",
+      "name": "Young-pyo Lee",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "south_korea_2010_jae_sung_kim",
+      "name": "Jae-sung Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2010_jung_soo_lee",
+      "name": "Jung-soo Lee",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "south_korea_2010_dong_jin_kim",
+      "name": "Dong-jin Kim",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "south_korea_2010_sung_yueng_ki",
+      "name": "Sung-yueng Ki",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "south_korea_2010_chung_yong_lee",
+      "name": "Chung-yong Lee",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "south_korea_2010_sung_ryong_jung",
+      "name": "Sung-ryong Jung",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "south_korea_2010_ki_hun_yeom",
+      "name": "Ki-hun Yeom",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "south_korea_2010_dong_gook_lee",
+      "name": "Dong-gook Lee",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "south_korea_2010_young_kwang_kim",
+      "name": "Young-kwang Kim",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2010_du_ri_cha",
+      "name": "Du-ri Cha",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "south_korea_2010_min_soo_kang",
+      "name": "Min-soo Kang",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "team": "Senegal",
+  "year": 2002,
+  "nation_code": "SN",
+  "flag": "🇸🇳",
+  "players": [
+    {
+      "id": "senegal_2002_tony_sylva",
+      "name": "Tony Sylva",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "senegal_2002_omar_daf",
+      "name": "Omar Daf",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "senegal_2002_pape_sarr",
+      "name": "Pape Sarr",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "senegal_2002_pape_malick_diop",
+      "name": "Pape Malick Diop",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "senegal_2002_alassane_n_dour",
+      "name": "Alassane N'Dour",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2002_aliou_ciss",
+      "name": "Aliou Cissé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "senegal_2002_henri_camara",
+      "name": "Henri Camara",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "senegal_2002_amara_traor",
+      "name": "Amara Traoré",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "senegal_2002_souleymane_camara",
+      "name": "Souleymane Camara",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "senegal_2002_khalilou_fadiga",
+      "name": "Khalilou Fadiga",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "senegal_2002_el_hadji_diouf",
+      "name": "El Hadji Diouf",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "senegal_2002_amdy_faye",
+      "name": "Amdy Faye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2002_lamine_diatta",
+      "name": "Lamine Diatta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2002_moussa_n_diaye",
+      "name": "Moussa N'Diaye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "senegal_2002_salif_diao",
+      "name": "Salif Diao",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "senegal_2002_omar_diallo",
+      "name": "Omar Diallo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2002_ferdinand_coly",
+      "name": "Ferdinand Coly",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2002_pape_thiaw",
+      "name": "Pape Thiaw",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "senegal_2002_papa_bouba_diop",
+      "name": "Papa Bouba Diop",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "senegal_2002_sylvain_n_diaye",
+      "name": "Sylvain N'Diaye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "senegal_2002_habib_beye",
+      "name": "Habib Beye",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2002_kalidou_cissokho",
+      "name": "Kalidou Cissokho",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2002_makhtar_n_diaye",
+      "name": "Makhtar N'Diaye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "team": "Netherlands",
+  "year": 1978,
+  "nation_code": "NL",
+  "flag": "🇳🇱",
+  "players": [
+    {
+      "id": "netherlands_1978_piet_schrijvers",
+      "name": "Piet Schrijvers",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "netherlands_1978_jan_poortvliet",
+      "name": "Jan Poortvliet",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "netherlands_1978_dick_schoenaker",
+      "name": "Dick Schoenaker",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "netherlands_1978_adrie_van_kraay",
+      "name": "Adrie van Kraay",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_1978_ruud_krol",
+      "name": "Ruud Krol",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "netherlands_1978_wim_jansen",
+      "name": "Wim Jansen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "netherlands_1978_piet_wildschut",
+      "name": "Piet Wildschut",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_1978_jan_jongbloed",
+      "name": "Jan Jongbloed",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "netherlands_1978_arie_haan",
+      "name": "Arie Haan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_1978_ren_van_de_kerkhof",
+      "name": "René van de Kerkhof",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "netherlands_1978_willy_van_de_kerkhof",
+      "name": "Willy van de Kerkhof",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_1978_rob_rensenbrink",
+      "name": "Rob Rensenbrink",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_1978_johan_neeskens",
+      "name": "Johan Neeskens",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "netherlands_1978_johan_boskamp",
+      "name": "Johan Boskamp",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_1978_hugo_hovenkamp",
+      "name": "Hugo Hovenkamp",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_1978_johnny_rep",
+      "name": "Johnny Rep",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_1978_wim_rijsbergen",
+      "name": "Wim Rijsbergen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_1978_dick_nanninga",
+      "name": "Dick Nanninga",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "netherlands_1978_pim_doesburg",
+      "name": "Pim Doesburg",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_1978_wim_suurbier",
+      "name": "Wim Suurbier",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "netherlands_1978_harry_lubse",
+      "name": "Harry Lubse",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_1978_ernie_brandts",
+      "name": "Ernie Brandts",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

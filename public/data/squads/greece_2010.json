@@ -1,0 +1,169 @@
+{
+  "team": "Greece",
+  "year": 2010,
+  "nation_code": "gr",
+  "flag": "🇬🇷",
+  "players": [
+    {
+      "id": "greece_2010_kostas_chalkias",
+      "name": "Kostas Chalkias",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "greece_2010_giourkas_seitaridis",
+      "name": "Giourkas Seitaridis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "greece_2010_christos_patsatzoglou",
+      "name": "Christos Patsatzoglou",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "greece_2010_nikos_spyropoulos",
+      "name": "Nikos Spyropoulos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "greece_2010_vangelis_moras",
+      "name": "Vangelis Moras",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "greece_2010_alexandros_tziolis",
+      "name": "Alexandros Tziolis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "greece_2010_georgios_samaras",
+      "name": "Georgios Samaras",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "greece_2010_avraam_papadopoulos",
+      "name": "Avraam Papadopoulos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "greece_2010_angelos_charisteas",
+      "name": "Angelos Charisteas",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "greece_2010_giorgos_karagounis",
+      "name": "Giorgos Karagounis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "greece_2010_loukas_vyntra",
+      "name": "Loukas Vyntra",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 64
+    },
+    {
+      "id": "greece_2010_alexandros_tzorvas",
+      "name": "Alexandros Tzorvas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "greece_2010_michalis_sifakis",
+      "name": "Michalis Sifakis",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "greece_2010_dimitris_salpingidis",
+      "name": "Dimitris Salpingidis",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "greece_2010_vasilis_torosidis",
+      "name": "Vasilis Torosidis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 64
+    },
+    {
+      "id": "greece_2010_sotirios_kyrgiakos",
+      "name": "Sotirios Kyrgiakos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 62
+    },
+    {
+      "id": "greece_2010_theofanis_gekas",
+      "name": "Theofanis Gekas",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "greece_2010_sotiris_ninis",
+      "name": "Sotiris Ninis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 64
+    },
+    {
+      "id": "greece_2010_sokratis_papastathopoulos",
+      "name": "Sokratis Papastathopoulos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "greece_2010_pantelis_kapetanos",
+      "name": "Pantelis Kapetanos",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "greece_2010_kostas_katsouranis",
+      "name": "Kostas Katsouranis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "greece_2010_stelios_malezas",
+      "name": "Stelios Malezas",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "greece_2010_sakis_prittas",
+      "name": "Sakis Prittas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    }
+  ]
+}

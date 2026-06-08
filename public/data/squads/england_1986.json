@@ -1,0 +1,162 @@
+{
+  "team": "England",
+  "year": 1986,
+  "nation_code": "gb-eng",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_1986_peter_shilton",
+      "name": "Peter Shilton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1986_gary_stevens",
+      "name": "Gary Stevens",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1986_kenny_sansom",
+      "name": "Kenny Sansom",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1986_glenn_hoddle",
+      "name": "Glenn Hoddle",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1986_alvin_martin",
+      "name": "Alvin Martin",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_1986_terry_butcher",
+      "name": "Terry Butcher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_1986_bryan_robson",
+      "name": "Bryan Robson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1986_ray_wilkins",
+      "name": "Ray Wilkins",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_1986_mark_hateley",
+      "name": "Mark Hateley",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1986_gary_lineker",
+      "name": "Gary Lineker",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "england_1986_chris_waddle",
+      "name": "Chris Waddle",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_1986_viv_anderson",
+      "name": "Viv Anderson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_1986_chris_woods",
+      "name": "Chris Woods",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1986_terry_fenwick",
+      "name": "Terry Fenwick",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1986_gary_stevens_ii",
+      "name": "Gary Stevens",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1986_peter_reid",
+      "name": "Peter Reid",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1986_trevor_steven",
+      "name": "Trevor Steven",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_1986_steve_hodge",
+      "name": "Steve Hodge",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1986_john_barnes",
+      "name": "John Barnes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_1986_peter_beardsley",
+      "name": "Peter Beardsley",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1986_kerry_dixon",
+      "name": "Kerry Dixon",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1986_gary_bailey",
+      "name": "Gary Bailey",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

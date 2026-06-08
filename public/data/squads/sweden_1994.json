@@ -1,0 +1,162 @@
+{
+  "team": "Sweden",
+  "year": 1994,
+  "nation_code": "SE",
+  "flag": "🇸🇪",
+  "players": [
+    {
+      "id": "sweden_1994_thomas_ravelli",
+      "name": "Thomas Ravelli",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1994_roland_nilsson",
+      "name": "Roland Nilsson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "sweden_1994_patrik_andersson",
+      "name": "Patrik Andersson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1994_joachim_bj_rklund",
+      "name": "Joachim Björklund",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1994_roger_ljung",
+      "name": "Roger Ljung",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "sweden_1994_stefan_schwarz",
+      "name": "Stefan Schwarz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "sweden_1994_henrik_larsson",
+      "name": "Henrik Larsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1994_klas_ingesson",
+      "name": "Klas Ingesson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "sweden_1994_jonas_thern",
+      "name": "Jonas Thern",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "sweden_1994_martin_dahlin",
+      "name": "Martin Dahlin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "sweden_1994_tomas_brolin",
+      "name": "Tomas Brolin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "sweden_1994_lars_eriksson",
+      "name": "Lars Eriksson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1994_mikael_nilsson",
+      "name": "Mikael Nilsson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1994_pontus_k_mark",
+      "name": "Pontus Kåmark",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "sweden_1994_teddy_lu_i",
+      "name": "Teddy Lučić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1994_anders_limpar",
+      "name": "Anders Limpar",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "sweden_1994_stefan_rehn",
+      "name": "Stefan Rehn",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "sweden_1994_h_kan_mild",
+      "name": "Håkan Mild",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1994_kennet_andersson",
+      "name": "Kennet Andersson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "sweden_1994_magnus_erlingmark",
+      "name": "Magnus Erlingmark",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "sweden_1994_jesper_blomqvist",
+      "name": "Jesper Blomqvist",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1994_magnus_hedman",
+      "name": "Magnus Hedman",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    }
+  ]
+}

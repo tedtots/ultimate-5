@@ -1,0 +1,190 @@
+{
+  "team": "Argentina",
+  "year": 2022,
+  "nation_code": "AR",
+  "flag": "🇦🇷",
+  "players": [
+    {
+      "id": "argentina_2022_franco_armani",
+      "name": "Franco Armani",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "argentina_2022_juan_foyth",
+      "name": "Juan Foyth",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2022_nicol_s_tagliafico",
+      "name": "Nicolás Tagliafico",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_2022_gonzalo_montiel",
+      "name": "Gonzalo Montiel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2022_leandro_paredes",
+      "name": "Leandro Paredes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "argentina_2022_germ_n_pezzella",
+      "name": "Germán Pezzella",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2022_rodrigo_de_paul",
+      "name": "Rodrigo De Paul",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2022_marcos_acu_a",
+      "name": "Marcos Acuña",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2022_juli_n_lvarez",
+      "name": "Julián Álvarez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2022_lionel_messi",
+      "name": "Lionel Messi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 98
+    },
+    {
+      "id": "argentina_2022_ngel_di_mar_a",
+      "name": "Ángel Di María",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_2022_ger_nimo_rulli",
+      "name": "Gerónimo Rulli",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2022_cristian_romero",
+      "name": "Cristian Romero",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_2022_exequiel_palacios",
+      "name": "Exequiel Palacios",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2022_ngel_correa",
+      "name": "Ángel Correa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2022_thiago_almada",
+      "name": "Thiago Almada",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2022_papu_g_mez",
+      "name": "Papu Gómez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2022_guido_rodr_guez",
+      "name": "Guido Rodríguez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2022_nicol_s_otamendi",
+      "name": "Nicolás Otamendi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2022_alexis_mac_allister",
+      "name": "Alexis Mac Allister",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2022_paulo_dybala",
+      "name": "Paulo Dybala",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2022_lautaro_mart_nez",
+      "name": "Lautaro Martínez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2022_emiliano_mart_nez",
+      "name": "Emiliano Martínez",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2022_enzo_fern_ndez",
+      "name": "Enzo Fernández",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2022_lisandro_mart_nez",
+      "name": "Lisandro Martínez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2022_nahuel_molina",
+      "name": "Nahuel Molina",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

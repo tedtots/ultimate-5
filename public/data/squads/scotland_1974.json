@@ -1,0 +1,162 @@
+{
+  "team": "Scotland",
+  "year": 1974,
+  "nation_code": "gb-sct",
+  "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "players": [
+    {
+      "id": "scotland_1974_david_harvey",
+      "name": "David Harvey",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1974_sandy_jardine",
+      "name": "Sandy Jardine",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "scotland_1974_danny_mcgrain",
+      "name": "Danny McGrain",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "scotland_1974_billy_bremner",
+      "name": "Billy Bremner",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1974_jim_holton",
+      "name": "Jim Holton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "scotland_1974_john_blackley",
+      "name": "John Blackley",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1974_jimmy_johnstone",
+      "name": "Jimmy Johnstone",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1974_kenny_dalglish",
+      "name": "Kenny Dalglish",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "scotland_1974_joe_jordan",
+      "name": "Joe Jordan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "scotland_1974_david_hay",
+      "name": "David Hay",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1974_peter_lorimer",
+      "name": "Peter Lorimer",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1974_thomson_allan",
+      "name": "Thomson Allan",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1974_jim_stewart",
+      "name": "Jim Stewart",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1974_martin_buchan",
+      "name": "Martin Buchan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "scotland_1974_peter_cormack",
+      "name": "Peter Cormack",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "scotland_1974_willie_donachie",
+      "name": "Willie Donachie",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1974_donald_ford",
+      "name": "Donald Ford",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "scotland_1974_tommy_hutchison",
+      "name": "Tommy Hutchison",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "scotland_1974_denis_law",
+      "name": "Denis Law",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "scotland_1974_willie_morgan",
+      "name": "Willie Morgan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "scotland_1974_gordon_mcqueen",
+      "name": "Gordon McQueen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "scotland_1974_erich_schaedler",
+      "name": "Erich Schaedler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "team": "England",
+  "year": 2018,
+  "nation_code": "GB-ENG",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_2018_jordan_pickford",
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2018_kyle_walker",
+      "name": "Kyle Walker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_2018_danny_rose",
+      "name": "Danny Rose",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_2018_eric_dier",
+      "name": "Eric Dier",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_2018_john_stones",
+      "name": "John Stones",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "england_2018_harry_maguire",
+      "name": "Harry Maguire",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2018_jesse_lingard",
+      "name": "Jesse Lingard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_2018_jordan_henderson",
+      "name": "Jordan Henderson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2018_harry_kane",
+      "name": "Harry Kane",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_2018_raheem_sterling",
+      "name": "Raheem Sterling",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_2018_jamie_vardy",
+      "name": "Jamie Vardy",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_2018_kieran_trippier",
+      "name": "Kieran Trippier",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2018_jack_butland",
+      "name": "Jack Butland",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_2018_danny_welbeck",
+      "name": "Danny Welbeck",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2018_gary_cahill",
+      "name": "Gary Cahill",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_2018_phil_jones",
+      "name": "Phil Jones",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2018_fabian_delph",
+      "name": "Fabian Delph",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2018_ashley_young",
+      "name": "Ashley Young",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_2018_marcus_rashford",
+      "name": "Marcus Rashford",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_2018_dele_alli",
+      "name": "Dele Alli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_2018_ruben_loftus_cheek",
+      "name": "Ruben Loftus-Cheek",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2018_trent_alexander_arnold",
+      "name": "Trent Alexander-Arnold",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_2018_nick_pope",
+      "name": "Nick Pope",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "team": "Brazil",
+  "year": 2014,
+  "nation_code": "BR",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_2014_not_applicable_jefferson",
+      "name": "Jefferson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_2014_dani_alves",
+      "name": "Dani Alves",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2014_thiago_silva",
+      "name": "Thiago Silva",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_2014_david_luiz",
+      "name": "David Luiz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2014_not_applicable_fernandinho",
+      "name": "Fernandinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_2014_not_applicable_marcelo",
+      "name": "Marcelo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2014_not_applicable_hulk",
+      "name": "Hulk",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2014_not_applicable_paulinho",
+      "name": "Paulinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2014_not_applicable_fred",
+      "name": "Fred",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_2014_not_applicable_neymar",
+      "name": "Neymar",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "brazil_2014_not_applicable_oscar",
+      "name": "Oscar",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_2014_j_lio_c_sar",
+      "name": "Júlio César",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2014_not_applicable_dante",
+      "name": "Dante",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2014_not_applicable_maxwell",
+      "name": "Maxwell",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "brazil_2014_not_applicable_henrique",
+      "name": "Henrique",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "brazil_2014_not_applicable_ramires",
+      "name": "Ramires",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "brazil_2014_luiz_gustavo",
+      "name": "Luiz Gustavo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2014_not_applicable_hernanes",
+      "name": "Hernanes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2014_not_applicable_willian",
+      "name": "Willian",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2014_not_applicable_bernard",
+      "name": "Bernard",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2014_not_applicable_j",
+      "name": "Jô",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2014_not_applicable_victor",
+      "name": "Victor",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2014_not_applicable_maicon",
+      "name": "Maicon",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    }
+  ]
+}

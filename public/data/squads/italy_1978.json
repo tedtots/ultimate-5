@@ -1,0 +1,162 @@
+{
+  "team": "Italy",
+  "year": 1978,
+  "nation_code": "it",
+  "flag": "🇮🇹",
+  "players": [
+    {
+      "id": "italy_1978_dino_zoff",
+      "name": "Dino Zoff",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1978_mauro_bellugi",
+      "name": "Mauro Bellugi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_1978_antonio_cabrini",
+      "name": "Antonio Cabrini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1978_antonello_cuccureddu",
+      "name": "Antonello Cuccureddu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "italy_1978_claudio_gentile",
+      "name": "Claudio Gentile",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "italy_1978_aldo_maldera",
+      "name": "Aldo Maldera",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1978_lionello_manfredonia",
+      "name": "Lionello Manfredonia",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "italy_1978_gaetano_scirea",
+      "name": "Gaetano Scirea",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "italy_1978_giancarlo_antognoni",
+      "name": "Giancarlo Antognoni",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "italy_1978_romeo_benetti",
+      "name": "Romeo Benetti",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "italy_1978_eraldo_pecci",
+      "name": "Eraldo Pecci",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1978_paolo_conti",
+      "name": "Paolo Conti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1978_patrizio_sala",
+      "name": "Patrizio Sala",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1978_marco_tardelli",
+      "name": "Marco Tardelli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "italy_1978_renato_zaccarelli",
+      "name": "Renato Zaccarelli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1978_franco_causio",
+      "name": "Franco Causio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "italy_1978_claudio_sala",
+      "name": "Claudio Sala",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "italy_1978_roberto_bettega",
+      "name": "Roberto Bettega",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "italy_1978_francesco_graziani",
+      "name": "Francesco Graziani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "italy_1978_paolo_pulici",
+      "name": "Paolo Pulici",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1978_paolo_rossi",
+      "name": "Paolo Rossi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "italy_1978_ivano_bordon",
+      "name": "Ivano Bordon",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    }
+  ]
+}

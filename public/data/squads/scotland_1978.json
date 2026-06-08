@@ -1,0 +1,162 @@
+{
+  "team": "Scotland",
+  "year": 1978,
+  "nation_code": "gb-sct",
+  "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "players": [
+    {
+      "id": "scotland_1978_alan_rough",
+      "name": "Alan Rough",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "scotland_1978_sandy_jardine",
+      "name": "Sandy Jardine",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "scotland_1978_willie_donachie",
+      "name": "Willie Donachie",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1978_martin_buchan",
+      "name": "Martin Buchan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "scotland_1978_gordon_mcqueen",
+      "name": "Gordon McQueen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1978_bruce_rioch",
+      "name": "Bruce Rioch",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "scotland_1978_don_masson",
+      "name": "Don Masson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1978_kenny_dalglish",
+      "name": "Kenny Dalglish",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "scotland_1978_joe_jordan",
+      "name": "Joe Jordan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "scotland_1978_asa_hartford",
+      "name": "Asa Hartford",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "scotland_1978_willie_johnston",
+      "name": "Willie Johnston",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1978_jim_blyth",
+      "name": "Jim Blyth",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "scotland_1978_stuart_kennedy",
+      "name": "Stuart Kennedy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "scotland_1978_tom_forsyth",
+      "name": "Tom Forsyth",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "scotland_1978_archie_gemmill",
+      "name": "Archie Gemmill",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "scotland_1978_lou_macari",
+      "name": "Lou Macari",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "scotland_1978_derek_johnstone",
+      "name": "Derek Johnstone",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "scotland_1978_graeme_souness",
+      "name": "Graeme Souness",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "scotland_1978_john_robertson",
+      "name": "John Robertson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "scotland_1978_bobby_clark",
+      "name": "Bobby Clark",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "scotland_1978_joe_harper",
+      "name": "Joe Harper",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "scotland_1978_kenny_burns",
+      "name": "Kenny Burns",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "team": "Romania",
+  "year": 1994,
+  "nation_code": "ro",
+  "flag": "🇷🇴",
+  "players": [
+    {
+      "id": "romania_1994_florin_prunea",
+      "name": "Florin Prunea",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "romania_1994_dan_petrescu",
+      "name": "Dan Petrescu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "romania_1994_daniel_prodan",
+      "name": "Daniel Prodan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "romania_1994_miodrag_belodedici",
+      "name": "Miodrag Belodedici",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "romania_1994_ioan_lupescu",
+      "name": "Ioan Lupescu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "romania_1994_gheorghe_popescu",
+      "name": "Gheorghe Popescu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "romania_1994_dorinel_munteanu",
+      "name": "Dorinel Munteanu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "romania_1994_iulian_chiri",
+      "name": "Iulian Chiriță",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "romania_1994_florin_r_ducioiu",
+      "name": "Florin Răducioiu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "romania_1994_gheorghe_hagi",
+      "name": "Gheorghe Hagi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "romania_1994_ilie_dumitrescu",
+      "name": "Ilie Dumitrescu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "romania_1994_bogdan_stelea",
+      "name": "Bogdan Stelea",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "romania_1994_tibor_selymes",
+      "name": "Tibor Selymes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "romania_1994_gheorghe_mihali",
+      "name": "Gheorghe Mihali",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "romania_1994_basarab_panduru",
+      "name": "Basarab Panduru",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "romania_1994_ion_vl_doiu",
+      "name": "Ion Vlădoiu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "romania_1994_viorel_moldovan",
+      "name": "Viorel Moldovan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "romania_1994_constantin_g_lc",
+      "name": "Constantin Gâlcă",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "romania_1994_corneliu_papur",
+      "name": "Corneliu Papură",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "romania_1994_ovidiu_st_ng",
+      "name": "Ovidiu Stîngă",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "romania_1994_marian_ivan",
+      "name": "Marian Ivan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "romania_1994_tefan_preda",
+      "name": "Ștefan Preda",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    }
+  ]
+}

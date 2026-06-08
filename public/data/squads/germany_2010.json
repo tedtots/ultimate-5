@@ -1,0 +1,169 @@
+{
+  "team": "Germany",
+  "year": 2010,
+  "nation_code": "DE",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_2010_manuel_neuer",
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2010_marcell_jansen",
+      "name": "Marcell Jansen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_2010_arne_friedrich",
+      "name": "Arne Friedrich",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "germany_2010_dennis_aogo",
+      "name": "Dennis Aogo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_2010_serdar_tasci",
+      "name": "Serdar Tasci",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2010_sami_khedira",
+      "name": "Sami Khedira",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "germany_2010_bastian_schweinsteiger",
+      "name": "Bastian Schweinsteiger",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2010_mesut_zil",
+      "name": "Mesut Özil",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2010_stefan_kie_ling",
+      "name": "Stefan Kießling",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2010_lukas_podolski",
+      "name": "Lukas Podolski",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2010_miroslav_klose",
+      "name": "Miroslav Klose",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2010_tim_wiese",
+      "name": "Tim Wiese",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2010_thomas_m_ller",
+      "name": "Thomas Müller",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2010_holger_badstuber",
+      "name": "Holger Badstuber",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "germany_2010_piotr_trochowski",
+      "name": "Piotr Trochowski",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2010_philipp_lahm",
+      "name": "Philipp Lahm",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2010_per_mertesacker",
+      "name": "Per Mertesacker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2010_toni_kroos",
+      "name": "Toni Kroos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_2010_not_applicable_cacau",
+      "name": "Cacau",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2010_j_r_me_boateng",
+      "name": "Jérôme Boateng",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "germany_2010_marko_marin",
+      "name": "Marko Marin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2010_hans_j_rg_butt",
+      "name": "Hans-Jörg Butt",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2010_mario_g_mez",
+      "name": "Mario Gómez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

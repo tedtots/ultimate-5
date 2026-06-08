@@ -1,0 +1,162 @@
+{
+  "team": "Brazil",
+  "year": 1982,
+  "nation_code": "BR",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_1982_waldir_peres",
+      "name": "Waldir Peres",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "brazil_1982_not_applicable_leandro",
+      "name": "Leandro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1982_not_applicable_oscar",
+      "name": "Oscar",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1982_not_applicable_luizinho",
+      "name": "Luizinho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_1982_toninho_cerezo",
+      "name": "Toninho Cerezo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1982_not_applicable_j_nior",
+      "name": "Júnior",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1982_paulo_isidoro",
+      "name": "Paulo Isidoro",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1982_not_applicable_s_crates",
+      "name": "Sócrates",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1982_not_applicable_serginho",
+      "name": "Serginho",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1982_not_applicable_zico",
+      "name": "Zico",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1982_not_applicable_der",
+      "name": "Éder",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1982_paulo_s_rgio",
+      "name": "Paulo Sérgio",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "brazil_1982_not_applicable_edevaldo",
+      "name": "Edevaldo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_1982_not_applicable_juninho",
+      "name": "Juninho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "brazil_1982_not_applicable_falc_o",
+      "name": "Falcão",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1982_not_applicable_edinho",
+      "name": "Edinho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1982_not_applicable_pedrinho",
+      "name": "Pedrinho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "brazil_1982_not_applicable_batista",
+      "name": "Batista",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1982_not_applicable_renato",
+      "name": "Renato",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "brazil_1982_roberto_dinamite",
+      "name": "Roberto Dinamite",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "brazil_1982_not_applicable_dirceu",
+      "name": "Dirceu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_1982_not_applicable_carlos",
+      "name": "Carlos",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    }
+  ]
+}

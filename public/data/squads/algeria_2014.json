@@ -1,0 +1,169 @@
+{
+  "team": "Algeria",
+  "year": 2014,
+  "nation_code": "dz",
+  "flag": "🇩🇿",
+  "players": [
+    {
+      "id": "algeria_2014_c_dric_si_mohamed",
+      "name": "Cédric Si Mohamed",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "algeria_2014_madjid_bougherra",
+      "name": "Madjid Bougherra",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "algeria_2014_faouzi_ghoulam",
+      "name": "Faouzi Ghoulam",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "algeria_2014_essa_d_belkalem",
+      "name": "Essaïd Belkalem",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "algeria_2014_rafik_halliche",
+      "name": "Rafik Halliche",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "algeria_2014_djamel_mesbah",
+      "name": "Djamel Mesbah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "algeria_2014_hassan_yebda",
+      "name": "Hassan Yebda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "algeria_2014_mehdi_lacen",
+      "name": "Mehdi Lacen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "algeria_2014_nabil_ghilas",
+      "name": "Nabil Ghilas",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "algeria_2014_sofiane_feghouli",
+      "name": "Sofiane Feghouli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "algeria_2014_yacine_brahimi",
+      "name": "Yacine Brahimi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "algeria_2014_carl_medjani",
+      "name": "Carl Medjani",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "algeria_2014_islam_slimani",
+      "name": "Islam Slimani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "algeria_2014_nabil_bentaleb",
+      "name": "Nabil Bentaleb",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "algeria_2014_hillal_soudani",
+      "name": "Hillal Soudani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "algeria_2014_mohamed_zemmamouche",
+      "name": "Mohamed Zemmamouche",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "algeria_2014_liassine_cadamuro_benta_ba",
+      "name": "Liassine Cadamuro-Bentaïba",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "algeria_2014_abdelmoumene_djabou",
+      "name": "Abdelmoumene Djabou",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "algeria_2014_saphir_ta_der",
+      "name": "Saphir Taïder",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "algeria_2014_a_ssa_mandi",
+      "name": "Aïssa Mandi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 63
+    },
+    {
+      "id": "algeria_2014_riyad_mahrez",
+      "name": "Riyad Mahrez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "algeria_2014_mehdi_mostefa",
+      "name": "Mehdi Mostefa",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "algeria_2014_ra_s_m_bolhi",
+      "name": "Raïs M'Bolhi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 65
+    }
+  ]
+}

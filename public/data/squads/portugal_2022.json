@@ -1,0 +1,190 @@
+{
+  "team": "Portugal",
+  "year": 2022,
+  "nation_code": "PT",
+  "flag": "🇵🇹",
+  "players": [
+    {
+      "id": "portugal_2022_rui_patr_cio",
+      "name": "Rui Patrício",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "portugal_2022_diogo_dalot",
+      "name": "Diogo Dalot",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "portugal_2022_not_applicable_pepe",
+      "name": "Pepe",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_r_ben_dias",
+      "name": "Rúben Dias",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "portugal_2022_rapha_l_guerreiro",
+      "name": "Raphaël Guerreiro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "portugal_2022_jo_o_palhinha",
+      "name": "João Palhinha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2022_cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "portugal_2022_bruno_fernandes",
+      "name": "Bruno Fernandes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_andr_silva",
+      "name": "André Silva",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "portugal_2022_bernardo_silva",
+      "name": "Bernardo Silva",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2022_jo_o_f_lix",
+      "name": "João Félix",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "portugal_2022_jos_s",
+      "name": "José Sá",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_danilo_pereira",
+      "name": "Danilo Pereira",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_william_carvalho",
+      "name": "William Carvalho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_rafael_le_o",
+      "name": "Rafael Leão",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "portugal_2022_not_applicable_vitinha",
+      "name": "Vitinha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "portugal_2022_jo_o_m_rio",
+      "name": "João Mário",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "portugal_2022_r_ben_neves",
+      "name": "Rúben Neves",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "portugal_2022_nuno_mendes",
+      "name": "Nuno Mendes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "portugal_2022_jo_o_cancelo",
+      "name": "João Cancelo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2022_ricardo_horta",
+      "name": "Ricardo Horta",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2022_diogo_costa",
+      "name": "Diogo Costa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2022_matheus_nunes",
+      "name": "Matheus Nunes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "portugal_2022_ant_nio_silva",
+      "name": "António Silva",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "portugal_2022_not_applicable_ot_vio",
+      "name": "Otávio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "portugal_2022_gon_alo_ramos",
+      "name": "Gonçalo Ramos",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    }
+  ]
+}

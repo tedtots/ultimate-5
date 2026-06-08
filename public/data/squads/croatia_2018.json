@@ -1,0 +1,169 @@
+{
+  "team": "Croatia",
+  "year": 2018,
+  "nation_code": "HR",
+  "flag": "🇭🇷",
+  "players": [
+    {
+      "id": "croatia_2018_dominik_livakovi",
+      "name": "Dominik Livaković",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "croatia_2018_ime_vrsaljko",
+      "name": "Šime Vrsaljko",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "croatia_2018_ivan_strini",
+      "name": "Ivan Strinić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "croatia_2018_ivan_peri_i",
+      "name": "Ivan Perišić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "croatia_2018_vedran_orluka",
+      "name": "Vedran Ćorluka",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "croatia_2018_dejan_lovren",
+      "name": "Dejan Lovren",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "croatia_2018_ivan_rakiti",
+      "name": "Ivan Rakitić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "croatia_2018_mateo_kova_i",
+      "name": "Mateo Kovačić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "croatia_2018_andrej_kramari",
+      "name": "Andrej Kramarić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "croatia_2018_luka_modri",
+      "name": "Luka Modrić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "croatia_2018_marcelo_brozovi",
+      "name": "Marcelo Brozović",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "croatia_2018_lovre_kalini",
+      "name": "Lovre Kalinić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "croatia_2018_tin_jedvaj",
+      "name": "Tin Jedvaj",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "croatia_2018_filip_bradari",
+      "name": "Filip Bradarić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "croatia_2018_duje_aleta_car",
+      "name": "Duje Ćaleta-Car",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "croatia_2018_nikola_kalini",
+      "name": "Nikola Kalinić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "croatia_2018_mario_mand_uki",
+      "name": "Mario Mandžukić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "croatia_2018_ante_rebi",
+      "name": "Ante Rebić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "croatia_2018_milan_badelj",
+      "name": "Milan Badelj",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "croatia_2018_marko_pjaca",
+      "name": "Marko Pjaca",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "croatia_2018_domagoj_vida",
+      "name": "Domagoj Vida",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "croatia_2018_josip_pivari",
+      "name": "Josip Pivarić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "croatia_2018_danijel_suba_i",
+      "name": "Danijel Subašić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    }
+  ]
+}

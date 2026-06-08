@@ -1,0 +1,190 @@
+{
+  "team": "Tunisia",
+  "year": 2022,
+  "nation_code": "tn",
+  "flag": "🇹🇳",
+  "players": [
+    {
+      "id": "tunisia_2022_aymen_mathlouthi",
+      "name": "Aymen Mathlouthi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "tunisia_2022_bilel_ifa",
+      "name": "Bilel Ifa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "tunisia_2022_montassar_talbi",
+      "name": "Montassar Talbi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "tunisia_2022_yassine_meriah",
+      "name": "Yassine Meriah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_nader_ghandri",
+      "name": "Nader Ghandri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "tunisia_2022_dylan_bronn",
+      "name": "Dylan Bronn",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "tunisia_2022_youssef_msakni",
+      "name": "Youssef Msakni",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "tunisia_2022_hannibal_mejbri",
+      "name": "Hannibal Mejbri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "tunisia_2022_issam_jebali",
+      "name": "Issam Jebali",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "tunisia_2022_wahbi_khazri",
+      "name": "Wahbi Khazri",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "tunisia_2022_taha_yassine_khenissi",
+      "name": "Taha Yassine Khenissi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "tunisia_2022_ali_ma_loul",
+      "name": "Ali Maâloul",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 64
+    },
+    {
+      "id": "tunisia_2022_ferjani_sassi",
+      "name": "Ferjani Sassi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "tunisia_2022_a_ssa_la_douni",
+      "name": "Aïssa Laïdouni",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "tunisia_2022_mohamed_ali_ben_romdhane",
+      "name": "Mohamed Ali Ben Romdhane",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "tunisia_2022_aymen_dahmen",
+      "name": "Aymen Dahmen",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "tunisia_2022_ellyes_skhiri",
+      "name": "Ellyes Skhiri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_ghailene_chaalali",
+      "name": "Ghailene Chaalali",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "tunisia_2022_seifeddine_jaziri",
+      "name": "Seifeddine Jaziri",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_mohamed_dr_ger",
+      "name": "Mohamed Dräger",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_wajdi_kechrida",
+      "name": "Wajdi Kechrida",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 63
+    },
+    {
+      "id": "tunisia_2022_bechir_ben_sa_d",
+      "name": "Bechir Ben Saïd",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_na_m_sliti",
+      "name": "Naïm Sliti",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "tunisia_2022_ali_abdi",
+      "name": "Ali Abdi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "tunisia_2022_anis_ben_slimane",
+      "name": "Anis Ben Slimane",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "tunisia_2022_mouez_hassen",
+      "name": "Mouez Hassen",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 64
+    }
+  ]
+}

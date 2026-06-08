@@ -1,0 +1,169 @@
+{
+  "team": "Mexico",
+  "year": 2018,
+  "nation_code": "mx",
+  "flag": "🇲🇽",
+  "players": [
+    {
+      "id": "mexico_2018_jos_de_jes_s_corona",
+      "name": "José de Jesús Corona",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2018_hugo_ayala",
+      "name": "Hugo Ayala",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2018_carlos_salcedo",
+      "name": "Carlos Salcedo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2018_rafael_m_rquez",
+      "name": "Rafael Márquez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2018_rick_guti_rrez",
+      "name": "Érick Gutiérrez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2018_jonathan_dos_santos",
+      "name": "Jonathan dos Santos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "mexico_2018_miguel_lay_n",
+      "name": "Miguel Layún",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2018_marco_fabi_n",
+      "name": "Marco Fabián",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "mexico_2018_ra_l_jim_nez",
+      "name": "Raúl Jiménez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2018_giovani_dos_santos",
+      "name": "Giovani dos Santos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "mexico_2018_carlos_vela",
+      "name": "Carlos Vela",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2018_alfredo_talavera",
+      "name": "Alfredo Talavera",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2018_guillermo_ochoa",
+      "name": "Guillermo Ochoa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "mexico_2018_javier_hern_ndez",
+      "name": "Javier Hernández",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_2018_h_ctor_moreno",
+      "name": "Héctor Moreno",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "mexico_2018_h_ctor_herrera",
+      "name": "Héctor Herrera",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "mexico_2018_jes_s_manuel_corona",
+      "name": "Jesús Manuel Corona",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2018_andr_s_guardado",
+      "name": "Andrés Guardado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "mexico_2018_oribe_peralta",
+      "name": "Oribe Peralta",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2018_javier_aquino",
+      "name": "Javier Aquino",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "mexico_2018_edson_lvarez",
+      "name": "Edson Álvarez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2018_hirving_lozano",
+      "name": "Hirving Lozano",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2018_jes_s_gallardo",
+      "name": "Jesús Gallardo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    }
+  ]
+}

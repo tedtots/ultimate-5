@@ -1,0 +1,162 @@
+{
+  "team": "Sweden",
+  "year": 1978,
+  "nation_code": "se",
+  "flag": "🇸🇪",
+  "players": [
+    {
+      "id": "sweden_1978_ronnie_hellstr_m",
+      "name": "Ronnie Hellström",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "sweden_1978_hasse_borg",
+      "name": "Hasse Borg",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1978_roy_andersson",
+      "name": "Roy Andersson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "sweden_1978_bj_rn_nordqvist",
+      "name": "Björn Nordqvist",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "sweden_1978_ingemar_erlandsson",
+      "name": "Ingemar Erlandsson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "sweden_1978_staffan_tapper",
+      "name": "Staffan Tapper",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "sweden_1978_anders_linderoth",
+      "name": "Anders Linderoth",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "sweden_1978_bo_larsson",
+      "name": "Bo Larsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "sweden_1978_lennart_larsson",
+      "name": "Lennart Larsson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "sweden_1978_thomas_sj_berg",
+      "name": "Thomas Sjöberg",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "sweden_1978_benny_wendt",
+      "name": "Benny Wendt",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "sweden_1978_g_ran_hagberg",
+      "name": "Göran Hagberg",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "sweden_1978_magnus_andersson",
+      "name": "Magnus Andersson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "sweden_1978_ronald_hman",
+      "name": "Ronald Åhman",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "sweden_1978_torbj_rn_nilsson",
+      "name": "Torbjörn Nilsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "sweden_1978_conny_torstensson",
+      "name": "Conny Torstensson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "sweden_1978_jan_m_ller",
+      "name": "Jan Möller",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "sweden_1978_olle_nordin",
+      "name": "Olle Nordin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "sweden_1978_kent_karlsson",
+      "name": "Kent Karlsson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "sweden_1978_roland_andersson",
+      "name": "Roland Andersson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "sweden_1978_sanny_slund",
+      "name": "Sanny Åslund",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1978_ralf_edstr_m",
+      "name": "Ralf Edström",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

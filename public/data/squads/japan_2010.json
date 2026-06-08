@@ -1,0 +1,169 @@
+{
+  "team": "Japan",
+  "year": 2010,
+  "nation_code": "jp",
+  "flag": "🇯🇵",
+  "players": [
+    {
+      "id": "japan_2010_seigo_narazaki",
+      "name": "Seigo Narazaki",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "japan_2010_yuki_abe",
+      "name": "Yuki Abe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2010_y_ichi_komano",
+      "name": "Yūichi Komano",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2010_marcus_tulio_tanaka",
+      "name": "Marcus Tulio Tanaka",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2010_yuto_nagatomo",
+      "name": "Yuto Nagatomo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2010_atsuto_uchida",
+      "name": "Atsuto Uchida",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "japan_2010_yasuhito_end",
+      "name": "Yasuhito Endō",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2010_daisuke_matsui",
+      "name": "Daisuke Matsui",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2010_shinji_okazaki",
+      "name": "Shinji Okazaki",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2010_shunsuke_nakamura",
+      "name": "Shunsuke Nakamura",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "japan_2010_keiji_tamada",
+      "name": "Keiji Tamada",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2010_kisho_yano",
+      "name": "Kisho Yano",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "japan_2010_daiki_iwamasa",
+      "name": "Daiki Iwamasa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2010_kengo_nakamura",
+      "name": "Kengo Nakamura",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2010_yasuyuki_konno",
+      "name": "Yasuyuki Konno",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "japan_2010_yoshito_kubo",
+      "name": "Yoshito Ōkubo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2010_makoto_hasebe",
+      "name": "Makoto Hasebe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2010_keisuke_honda",
+      "name": "Keisuke Honda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "japan_2010_takayuki_morimoto",
+      "name": "Takayuki Morimoto",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "japan_2010_junichi_inamoto",
+      "name": "Junichi Inamoto",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "japan_2010_eiji_kawashima",
+      "name": "Eiji Kawashima",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "japan_2010_yuji_nakazawa",
+      "name": "Yuji Nakazawa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "japan_2010_yoshikatsu_kawaguchi",
+      "name": "Yoshikatsu Kawaguchi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    }
+  ]
+}

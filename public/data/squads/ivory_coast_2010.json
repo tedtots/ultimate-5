@@ -1,0 +1,169 @@
+{
+  "team": "Ivory Coast",
+  "year": 2010,
+  "nation_code": "ci",
+  "flag": "🇨🇮",
+  "players": [
+    {
+      "id": "ivory_coast_2010_boubacar_barry",
+      "name": "Boubacar Barry",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "ivory_coast_2010_benjamin_angoua",
+      "name": "Benjamin Angoua",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "ivory_coast_2010_arthur_boka",
+      "name": "Arthur Boka",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "ivory_coast_2010_kolo_tour",
+      "name": "Kolo Touré",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "ivory_coast_2010_didier_zokora",
+      "name": "Didier Zokora",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "ivory_coast_2010_steve_gohouri",
+      "name": "Steve Gohouri",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "ivory_coast_2010_seydou_doumbia",
+      "name": "Seydou Doumbia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "ivory_coast_2010_salomon_kalou",
+      "name": "Salomon Kalou",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "ivory_coast_2010_cheick_tiot",
+      "name": "Cheick Tioté",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ivory_coast_2010_not_applicable_gervinho",
+      "name": "Gervinho",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "ivory_coast_2010_didier_drogba",
+      "name": "Didier Drogba",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "ivory_coast_2010_jean_jacques_gosso",
+      "name": "Jean-Jacques Gosso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ivory_coast_2010_not_applicable_romaric",
+      "name": "Romaric",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "ivory_coast_2010_emmanuel_kon",
+      "name": "Emmanuel Koné",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ivory_coast_2010_aruna_dindane",
+      "name": "Aruna Dindane",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "ivory_coast_2010_aristide_zogbo",
+      "name": "Aristide Zogbo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "ivory_coast_2010_siaka_ti_n",
+      "name": "Siaka Tiéné",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "ivory_coast_2010_abdul_kader_ke_ta",
+      "name": "Abdul Kader Keïta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "ivory_coast_2010_yaya_tour",
+      "name": "Yaya Touré",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "ivory_coast_2010_guy_demel",
+      "name": "Guy Demel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "ivory_coast_2010_emmanuel_ebou",
+      "name": "Emmanuel Eboué",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "ivory_coast_2010_sol_bamba",
+      "name": "Sol Bamba",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "ivory_coast_2010_daniel_yeboah",
+      "name": "Daniel Yeboah",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

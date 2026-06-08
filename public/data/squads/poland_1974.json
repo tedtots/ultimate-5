@@ -1,0 +1,162 @@
+{
+  "team": "Poland",
+  "year": 1974,
+  "nation_code": "PL",
+  "flag": "🇵🇱",
+  "players": [
+    {
+      "id": "poland_1974_andrzej_fischer",
+      "name": "Andrzej Fischer",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "poland_1974_jan_tomaszewski",
+      "name": "Jan Tomaszewski",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "poland_1974_zygmunt_kalinowski",
+      "name": "Zygmunt Kalinowski",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "poland_1974_antoni_szymanowski",
+      "name": "Antoni Szymanowski",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "poland_1974_zbigniew_gut",
+      "name": "Zbigniew Gut",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "poland_1974_jerzy_gorgo",
+      "name": "Jerzy Gorgoń",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "poland_1974_henryk_wieczorek",
+      "name": "Henryk Wieczorek",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "poland_1974_miros_aw_bulzacki",
+      "name": "Mirosław Bulzacki",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "poland_1974_w_adys_aw_muda",
+      "name": "Władysław Żmuda",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "poland_1974_adam_musia",
+      "name": "Adam Musiał",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "poland_1974_les_aw_mikiewicz",
+      "name": "Lesław Ćmikiewicz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "poland_1974_kazimierz_deyna",
+      "name": "Kazimierz Deyna",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "poland_1974_henryk_kasperczak",
+      "name": "Henryk Kasperczak",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "poland_1974_zygmunt_maszczyk",
+      "name": "Zygmunt Maszczyk",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "poland_1974_roman_jak_bczak",
+      "name": "Roman Jakóbczak",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "poland_1974_grzegorz_lato",
+      "name": "Grzegorz Lato",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "poland_1974_andrzej_szarmach",
+      "name": "Andrzej Szarmach",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "poland_1974_robert_gadocha",
+      "name": "Robert Gadocha",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "poland_1974_jan_domarski",
+      "name": "Jan Domarski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "poland_1974_zdzis_aw_kapka",
+      "name": "Zdzisław Kapka",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "poland_1974_kazimierz_kmiecik",
+      "name": "Kazimierz Kmiecik",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "poland_1974_marek_kusto",
+      "name": "Marek Kusto",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "team": "Japan",
+  "year": 2018,
+  "nation_code": "jp",
+  "flag": "🇯🇵",
+  "players": [
+    {
+      "id": "japan_2018_eiji_kawashima",
+      "name": "Eiji Kawashima",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2018_naomichi_ueda",
+      "name": "Naomichi Ueda",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "japan_2018_gen_shoji",
+      "name": "Gen Shoji",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2018_keisuke_honda",
+      "name": "Keisuke Honda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "japan_2018_yuto_nagatomo",
+      "name": "Yuto Nagatomo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2018_wataru_endo",
+      "name": "Wataru Endo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "japan_2018_gaku_shibasaki",
+      "name": "Gaku Shibasaki",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "japan_2018_genki_haraguchi",
+      "name": "Genki Haraguchi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2018_shinji_okazaki",
+      "name": "Shinji Okazaki",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2018_shinji_kagawa",
+      "name": "Shinji Kagawa",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2018_takashi_usami",
+      "name": "Takashi Usami",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2018_masaaki_higashiguchi",
+      "name": "Masaaki Higashiguchi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "japan_2018_yoshinori_muto",
+      "name": "Yoshinori Muto",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "japan_2018_takashi_inui",
+      "name": "Takashi Inui",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2018_yuya_osako",
+      "name": "Yuya Osako",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "japan_2018_hotaru_yamaguchi",
+      "name": "Hotaru Yamaguchi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "japan_2018_makoto_hasebe",
+      "name": "Makoto Hasebe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2018_ryota_oshima",
+      "name": "Ryota Oshima",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "japan_2018_hiroki_sakai",
+      "name": "Hiroki Sakai",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2018_tomoaki_makino",
+      "name": "Tomoaki Makino",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "japan_2018_g_toku_sakai",
+      "name": "Gōtoku Sakai",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "japan_2018_maya_yoshida",
+      "name": "Maya Yoshida",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "japan_2018_kosuke_nakamura",
+      "name": "Kosuke Nakamura",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 70
+    }
+  ]
+}

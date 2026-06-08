@@ -1,0 +1,162 @@
+{
+  "team": "Soviet Union",
+  "year": 1986,
+  "nation_code": "ru",
+  "flag": "🇷🇺",
+  "players": [
+    {
+      "id": "soviet_union_1986_rinat_dasayev",
+      "name": "Rinat Dasayev",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1986_volodymyr_bezsonov",
+      "name": "Volodymyr Bezsonov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1986_aleksandr_chivadze",
+      "name": "Aleksandr Chivadze",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1986_gennady_morozov",
+      "name": "Gennady Morozov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1986_anatoliy_demyanenko",
+      "name": "Anatoliy Demyanenko",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1986_aleksandr_bubnov",
+      "name": "Aleksandr Bubnov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1986_ivan_yaremchuk",
+      "name": "Ivan Yaremchuk",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1986_pavel_yakovenko",
+      "name": "Pavel Yakovenko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1986_oleksandr_zavarov",
+      "name": "Oleksandr Zavarov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "soviet_union_1986_oleh_kuznetsov",
+      "name": "Oleh Kuznetsov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1986_oleh_blokhin",
+      "name": "Oleh Blokhin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "soviet_union_1986_andriy_bal",
+      "name": "Andriy Bal",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1986_gennadiy_litovchenko",
+      "name": "Gennadiy Litovchenko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "soviet_union_1986_sergey_rodionov",
+      "name": "Sergey Rodionov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1986_nikolay_larionov",
+      "name": "Nikolay Larionov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1986_viktor_chanov",
+      "name": "Viktor Chanov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1986_vadym_yevtushenko",
+      "name": "Vadym Yevtushenko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1986_oleh_protasov",
+      "name": "Oleh Protasov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1986_ihor_belanov",
+      "name": "Ihor Belanov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "soviet_union_1986_sergei_aleinikov",
+      "name": "Sergei Aleinikov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1986_vasyl_rats",
+      "name": "Vasyl Rats",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "soviet_union_1986_serhiy_krakovskiy",
+      "name": "Serhiy Krakovskiy",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    }
+  ]
+}

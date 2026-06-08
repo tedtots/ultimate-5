@@ -1,26 +1,117 @@
 @import "tailwindcss";
 
+/* ── Design tokens — dark (default) ──────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-page:        #0f0f0f;
+  --bg-surface:     #111111;
+  --bg-card:        #1a1a1a;
+  --bg-hover:       #222222;
+  --border:         #2a2a2a;
+  --border-subtle:  #1e1e1e;
+  --border-mid:     #444444;
+  --text:           #ffffff;
+  --text-muted:     #888888;
+  --text-dim:       #555555;
+  --text-dimmer:    #444444;
+
+  /* FIFA WC26 accent (bright green) */
+  --accent:         #00C038;
+  --accent-dim:     #009428;
+  /* CTA button green — always vibrant regardless of light/dark theme */
+  --accent-btn:     #00C038;
+
+  /* Pre-computed accent opacity blends (dark bg) */
+  --accent-5:       rgba(0, 192, 56, 0.05);
+  --accent-10:      rgba(0, 192, 56, 0.10);
+  --accent-15:      rgba(0, 192, 56, 0.15);
+  --accent-20:      rgba(0, 192, 56, 0.20);
+  --accent-30:      rgba(0, 192, 56, 0.30);
+  --accent-border:  rgba(0, 192, 56, 0.30);
+
+  /* FIFA WC26 position palette */
+  --pos-gk:       #F0D800;   /* FIFA yellow  */
+  --pos-gk-fg:    #000000;
+  --pos-def:      #2850C0;   /* FIFA royal blue */
+  --pos-def-fg:   #ffffff;
+  --pos-mid:      #00B0C0;   /* FIFA cyan    */
+  --pos-mid-fg:   #000000;
+  --pos-fwd:      #E0121A;   /* FIFA red     */
+  --pos-fwd-fg:   #ffffff;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* ── Light mode overrides ─────────────────────────────────────── */
+html.light {
+  --bg-page:        #f2f2f2;
+  --bg-surface:     #ffffff;
+  --bg-card:        #f8f8f8;
+  --bg-hover:       #ededed;
+  --border:         #d4d4d4;
+  --border-subtle:  #e8e8e8;
+  --border-mid:     #bbbbbb;
+  --text:           #0a0a0a;
+  --text-muted:     #5a5a5a;
+  --text-dim:       #888888;
+  --text-dimmer:    #aaaaaa;
+
+  --accent:         #006E24;
+  --accent-dim:     #005018;
+  --accent-5:       rgba(0, 110, 36, 0.05);
+  --accent-10:      rgba(0, 110, 36, 0.10);
+  --accent-15:      rgba(0, 110, 36, 0.15);
+  --accent-20:      rgba(0, 110, 36, 0.20);
+  --accent-30:      rgba(0, 110, 36, 0.30);
+  --accent-border:  rgba(0, 110, 36, 0.30);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ── Base styles ──────────────────────────────────────────────── */
+* {
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--bg-page);
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+  min-height: 100dvh;
+  overflow-x: hidden;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  max-width: 430px;
+  margin: 0 auto;
+}
+
+::-webkit-scrollbar { display: none; }
+
+/* ── Era slider thumb ─────────────────────────────────────────── */
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--bg-page);
+  cursor: pointer;
+  box-shadow: 0 0 0 3px var(--accent-border);
+}
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--bg-page);
+  cursor: pointer;
+}
+input[type="range"] { -webkit-appearance: none; appearance: none; }
+
+/* ── Animations ───────────────────────────────────────────────── */
+@keyframes reel-spin {
+  0%   { transform: translateY(0); }
+  100% { transform: translateY(-66.66%); }
+}
+
+@keyframes pulse-ring {
+  0%, 100% { box-shadow: 0 0 0 0  rgba(0, 192, 56, 0.5); }
+  50%       { box-shadow: 0 0 0 10px rgba(0, 192, 56, 0); }
 }

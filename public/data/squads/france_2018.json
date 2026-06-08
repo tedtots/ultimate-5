@@ -1,0 +1,169 @@
+{
+  "team": "France",
+  "year": 2018,
+  "nation_code": "FR",
+  "flag": "🇫🇷",
+  "players": [
+    {
+      "id": "france_2018_hugo_lloris",
+      "name": "Hugo Lloris",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2018_benjamin_pavard",
+      "name": "Benjamin Pavard",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "france_2018_presnel_kimpembe",
+      "name": "Presnel Kimpembe",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_2018_rapha_l_varane",
+      "name": "Raphaël Varane",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "france_2018_samuel_umtiti",
+      "name": "Samuel Umtiti",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_2018_paul_pogba",
+      "name": "Paul Pogba",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2018_antoine_griezmann",
+      "name": "Antoine Griezmann",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "france_2018_thomas_lemar",
+      "name": "Thomas Lemar",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "france_2018_olivier_giroud",
+      "name": "Olivier Giroud",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "france_2018_kylian_mbapp",
+      "name": "Kylian Mbappé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "france_2018_ousmane_demb_l",
+      "name": "Ousmane Dembélé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_2018_corentin_tolisso",
+      "name": "Corentin Tolisso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_2018_n_golo_kant",
+      "name": "N'Golo Kanté",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_2018_blaise_matuidi",
+      "name": "Blaise Matuidi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2018_steven_nzonzi",
+      "name": "Steven Nzonzi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "france_2018_steve_mandanda",
+      "name": "Steve Mandanda",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_2018_adil_rami",
+      "name": "Adil Rami",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2018_nabil_fekir",
+      "name": "Nabil Fekir",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2018_djibril_sidib",
+      "name": "Djibril Sidibé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "france_2018_florian_thauvin",
+      "name": "Florian Thauvin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "france_2018_lucas_hernandez",
+      "name": "Lucas Hernandez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2018_benjamin_mendy",
+      "name": "Benjamin Mendy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2018_alphonse_areola",
+      "name": "Alphonse Areola",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    }
+  ]
+}

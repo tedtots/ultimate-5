@@ -1,0 +1,169 @@
+{
+  "team": "Germany",
+  "year": 2002,
+  "nation_code": "de",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_2002_oliver_kahn",
+      "name": "Oliver Kahn",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2002_thomas_linke",
+      "name": "Thomas Linke",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_2002_marko_rehmer",
+      "name": "Marko Rehmer",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2002_frank_baumann",
+      "name": "Frank Baumann",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "germany_2002_carsten_ramelow",
+      "name": "Carsten Ramelow",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2002_christian_ziege",
+      "name": "Christian Ziege",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2002_oliver_neuville",
+      "name": "Oliver Neuville",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2002_dietmar_hamann",
+      "name": "Dietmar Hamann",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2002_carsten_jancker",
+      "name": "Carsten Jancker",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2002_lars_ricken",
+      "name": "Lars Ricken",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2002_miroslav_klose",
+      "name": "Miroslav Klose",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "germany_2002_jens_lehmann",
+      "name": "Jens Lehmann",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "germany_2002_michael_ballack",
+      "name": "Michael Ballack",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_2002_gerald_asamoah",
+      "name": "Gerald Asamoah",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "germany_2002_sebastian_kehl",
+      "name": "Sebastian Kehl",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2002_jens_jeremies",
+      "name": "Jens Jeremies",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2002_marco_bode",
+      "name": "Marco Bode",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2002_j_rg_b_hme",
+      "name": "Jörg Böhme",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2002_bernd_schneider",
+      "name": "Bernd Schneider",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2002_oliver_bierhoff",
+      "name": "Oliver Bierhoff",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2002_christoph_metzelder",
+      "name": "Christoph Metzelder",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "germany_2002_torsten_frings",
+      "name": "Torsten Frings",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2002_hans_j_rg_butt",
+      "name": "Hans-Jörg Butt",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

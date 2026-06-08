@@ -1,0 +1,169 @@
+{
+  "team": "Ghana",
+  "year": 2010,
+  "nation_code": "gh",
+  "flag": "🇬🇭",
+  "players": [
+    {
+      "id": "ghana_2010_daniel_agyei",
+      "name": "Daniel Agyei",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "ghana_2010_hans_sarpei",
+      "name": "Hans Sarpei",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "ghana_2010_asamoah_gyan",
+      "name": "Asamoah Gyan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "ghana_2010_john_paintsil",
+      "name": "John Paintsil",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "ghana_2010_john_mensah",
+      "name": "John Mensah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ghana_2010_anthony_annan",
+      "name": "Anthony Annan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "ghana_2010_samuel_inkoom",
+      "name": "Samuel Inkoom",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "ghana_2010_jonathan_mensah",
+      "name": "Jonathan Mensah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ghana_2010_derek_boateng",
+      "name": "Derek Boateng",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ghana_2010_stephen_appiah",
+      "name": "Stephen Appiah",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ghana_2010_sulley_muntari",
+      "name": "Sulley Muntari",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "ghana_2010_prince_tagoe",
+      "name": "Prince Tagoe",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ghana_2010_andr_ayew",
+      "name": "André Ayew",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "ghana_2010_matthew_amoah",
+      "name": "Matthew Amoah",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "ghana_2010_isaac_vorsah",
+      "name": "Isaac Vorsah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ghana_2010_stephen_ahorlu",
+      "name": "Stephen Ahorlu",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "ghana_2010_ibrahim_ayew",
+      "name": "Ibrahim Ayew",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "ghana_2010_dominic_adiyiah",
+      "name": "Dominic Adiyiah",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "ghana_2010_lee_addy",
+      "name": "Lee Addy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "ghana_2010_quincy_owusu_abeyie",
+      "name": "Quincy Owusu-Abeyie",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "ghana_2010_kwadwo_asamoah",
+      "name": "Kwadwo Asamoah",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ghana_2010_richard_kingson",
+      "name": "Richard Kingson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "ghana_2010_kevin_prince_boateng",
+      "name": "Kevin-Prince Boateng",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

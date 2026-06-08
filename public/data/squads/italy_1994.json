@@ -1,0 +1,162 @@
+{
+  "team": "Italy",
+  "year": 1994,
+  "nation_code": "IT",
+  "flag": "🇮🇹",
+  "players": [
+    {
+      "id": "italy_1994_gianluca_pagliuca",
+      "name": "Gianluca Pagliuca",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1994_luigi_apolloni",
+      "name": "Luigi Apolloni",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "italy_1994_antonio_benarrivo",
+      "name": "Antonio Benarrivo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1994_alessandro_costacurta",
+      "name": "Alessandro Costacurta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_1994_paolo_maldini",
+      "name": "Paolo Maldini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "italy_1994_franco_baresi",
+      "name": "Franco Baresi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "italy_1994_lorenzo_minotti",
+      "name": "Lorenzo Minotti",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1994_roberto_mussi",
+      "name": "Roberto Mussi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "italy_1994_mauro_tassotti",
+      "name": "Mauro Tassotti",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1994_roberto_baggio",
+      "name": "Roberto Baggio",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "italy_1994_demetrio_albertini",
+      "name": "Demetrio Albertini",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "italy_1994_luca_marchegiani",
+      "name": "Luca Marchegiani",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "italy_1994_dino_baggio",
+      "name": "Dino Baggio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "italy_1994_nicola_berti",
+      "name": "Nicola Berti",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "italy_1994_antonio_conte",
+      "name": "Antonio Conte",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1994_roberto_donadoni",
+      "name": "Roberto Donadoni",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "italy_1994_alberigo_evani",
+      "name": "Alberigo Evani",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_1994_pierluigi_casiraghi",
+      "name": "Pierluigi Casiraghi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_1994_daniele_massaro",
+      "name": "Daniele Massaro",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "italy_1994_giuseppe_signori",
+      "name": "Giuseppe Signori",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_1994_gianfranco_zola",
+      "name": "Gianfranco Zola",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_1994_luca_bucci",
+      "name": "Luca Bucci",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

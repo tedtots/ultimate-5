@@ -1,0 +1,169 @@
+{
+  "team": "USA",
+  "year": 2014,
+  "nation_code": "us",
+  "flag": "🇺🇸",
+  "players": [
+    {
+      "id": "usa_2014_tim_howard",
+      "name": "Tim Howard",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2014_deandre_yedlin",
+      "name": "DeAndre Yedlin",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2014_omar_gonzalez",
+      "name": "Omar Gonzalez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "usa_2014_michael_bradley",
+      "name": "Michael Bradley",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2014_matt_besler",
+      "name": "Matt Besler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "usa_2014_john_brooks",
+      "name": "John Brooks",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "usa_2014_damarcus_beasley",
+      "name": "DaMarcus Beasley",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "usa_2014_clint_dempsey",
+      "name": "Clint Dempsey",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "usa_2014_aron_j_hannsson",
+      "name": "Aron Jóhannsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "usa_2014_mix_diskerud",
+      "name": "Mix Diskerud",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "usa_2014_alejandro_bedoya",
+      "name": "Alejandro Bedoya",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2014_brad_guzan",
+      "name": "Brad Guzan",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "usa_2014_jermaine_jones",
+      "name": "Jermaine Jones",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "usa_2014_brad_davis",
+      "name": "Brad Davis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "usa_2014_kyle_beckerman",
+      "name": "Kyle Beckerman",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "usa_2014_julian_green",
+      "name": "Julian Green",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "usa_2014_jozy_altidore",
+      "name": "Jozy Altidore",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "usa_2014_chris_wondolowski",
+      "name": "Chris Wondolowski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "usa_2014_graham_zusi",
+      "name": "Graham Zusi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "usa_2014_geoff_cameron",
+      "name": "Geoff Cameron",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "usa_2014_timothy_chandler",
+      "name": "Timothy Chandler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "usa_2014_nick_rimando",
+      "name": "Nick Rimando",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "usa_2014_fabian_johnson",
+      "name": "Fabian Johnson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    }
+  ]
+}

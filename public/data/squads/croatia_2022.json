@@ -1,0 +1,190 @@
+{
+  "team": "Croatia",
+  "year": 2022,
+  "nation_code": "HR",
+  "flag": "🇭🇷",
+  "players": [
+    {
+      "id": "croatia_2022_dominik_livakovi",
+      "name": "Dominik Livaković",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "croatia_2022_josip_stani_i",
+      "name": "Josip Stanišić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "croatia_2022_borna_bari_i",
+      "name": "Borna Barišić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "croatia_2022_ivan_peri_i",
+      "name": "Ivan Perišić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "croatia_2022_martin_erli",
+      "name": "Martin Erlić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "croatia_2022_dejan_lovren",
+      "name": "Dejan Lovren",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "croatia_2022_lovro_majer",
+      "name": "Lovro Majer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "croatia_2022_mateo_kova_i",
+      "name": "Mateo Kovačić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "croatia_2022_andrej_kramari",
+      "name": "Andrej Kramarić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "croatia_2022_luka_modri",
+      "name": "Luka Modrić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "croatia_2022_marcelo_brozovi",
+      "name": "Marcelo Brozović",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "croatia_2022_ivo_grbi",
+      "name": "Ivo Grbić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "croatia_2022_nikola_vla_i",
+      "name": "Nikola Vlašić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "croatia_2022_marko_livaja",
+      "name": "Marko Livaja",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "croatia_2022_mario_pa_ali",
+      "name": "Mario Pašalić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "croatia_2022_bruno_petkovi",
+      "name": "Bruno Petković",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "croatia_2022_ante_budimir",
+      "name": "Ante Budimir",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "croatia_2022_mislav_or_i",
+      "name": "Mislav Oršić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "croatia_2022_borna_sosa",
+      "name": "Borna Sosa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "croatia_2022_jo_ko_gvardiol",
+      "name": "Joško Gvardiol",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "croatia_2022_domagoj_vida",
+      "name": "Domagoj Vida",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "croatia_2022_josip_juranovi",
+      "name": "Josip Juranović",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "croatia_2022_ivica_ivu_i",
+      "name": "Ivica Ivušić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "croatia_2022_josip_utalo",
+      "name": "Josip Šutalo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "croatia_2022_luka_su_i",
+      "name": "Luka Sučić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "croatia_2022_kristijan_jaki",
+      "name": "Kristijan Jakić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

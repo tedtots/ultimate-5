@@ -1,0 +1,169 @@
+{
+  "team": "Uruguay",
+  "year": 2010,
+  "nation_code": "UY",
+  "flag": "🇺🇾",
+  "players": [
+    {
+      "id": "uruguay_2010_fernando_muslera",
+      "name": "Fernando Muslera",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "uruguay_2010_diego_lugano",
+      "name": "Diego Lugano",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "uruguay_2010_diego_god_n",
+      "name": "Diego Godín",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "uruguay_2010_jorge_fucile",
+      "name": "Jorge Fucile",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "uruguay_2010_walter_gargano",
+      "name": "Walter Gargano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "uruguay_2010_mauricio_victorino",
+      "name": "Mauricio Victorino",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "uruguay_2010_edinson_cavani",
+      "name": "Edinson Cavani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "uruguay_2010_sebasti_n_eguren",
+      "name": "Sebastián Eguren",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "uruguay_2010_luis_su_rez",
+      "name": "Luis Suárez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "uruguay_2010_diego_forl_n",
+      "name": "Diego Forlán",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "uruguay_2010_lvaro_pereira",
+      "name": "Álvaro Pereira",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "uruguay_2010_juan_castillo",
+      "name": "Juan Castillo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "uruguay_2010_sebasti_n_abreu",
+      "name": "Sebastián Abreu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "uruguay_2010_nicol_s_lodeiro",
+      "name": "Nicolás Lodeiro",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "uruguay_2010_diego_p_rez",
+      "name": "Diego Pérez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "uruguay_2010_maxi_pereira",
+      "name": "Maxi Pereira",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "uruguay_2010_egidio_ar_valo_r_os",
+      "name": "Egidio Arévalo Ríos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "uruguay_2010_ignacio_gonz_lez",
+      "name": "Ignacio González",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "uruguay_2010_andr_s_scotti",
+      "name": "Andrés Scotti",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "uruguay_2010_lvaro_fern_ndez",
+      "name": "Álvaro Fernández",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "uruguay_2010_sebasti_n_fern_ndez",
+      "name": "Sebastián Fernández",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "uruguay_2010_mart_n_c_ceres",
+      "name": "Martín Cáceres",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "uruguay_2010_mart_n_silva",
+      "name": "Martín Silva",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    }
+  ]
+}

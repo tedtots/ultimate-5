@@ -1,0 +1,162 @@
+{
+  "team": "Nigeria",
+  "year": 1998,
+  "nation_code": "ng",
+  "flag": "🇳🇬",
+  "players": [
+    {
+      "id": "nigeria_1998_peter_rufai",
+      "name": "Peter Rufai",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "nigeria_1998_mobi_oparaku",
+      "name": "Mobi Oparaku",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "nigeria_1998_celestine_babayaro",
+      "name": "Celestine Babayaro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "nigeria_1998_nwankwo_kanu",
+      "name": "Nwankwo Kanu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "nigeria_1998_uche_okechukwu",
+      "name": "Uche Okechukwu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "nigeria_1998_taribo_west",
+      "name": "Taribo West",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "nigeria_1998_finidi_george",
+      "name": "Finidi George",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "nigeria_1998_mutiu_adepoju",
+      "name": "Mutiu Adepoju",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "nigeria_1998_rashidi_yekini",
+      "name": "Rashidi Yekini",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "nigeria_1998_jay_jay_okocha",
+      "name": "Jay-Jay Okocha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "nigeria_1998_garba_lawal",
+      "name": "Garba Lawal",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "nigeria_1998_willy_okpara",
+      "name": "Willy Okpara",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "nigeria_1998_tijani_babangida",
+      "name": "Tijani Babangida",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "nigeria_1998_daniel_amokachi",
+      "name": "Daniel Amokachi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "nigeria_1998_sunday_oliseh",
+      "name": "Sunday Oliseh",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "nigeria_1998_uche_okafor",
+      "name": "Uche Okafor",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "nigeria_1998_augustine_eguavoen",
+      "name": "Augustine Eguavoen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "nigeria_1998_wilson_oruma",
+      "name": "Wilson Oruma",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "nigeria_1998_benedict_iroha",
+      "name": "Benedict Iroha",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "nigeria_1998_victor_ikpeba",
+      "name": "Victor Ikpeba",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "nigeria_1998_godwin_okpara",
+      "name": "Godwin Okpara",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "nigeria_1998_abiodun_baruwa",
+      "name": "Abiodun Baruwa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    }
+  ]
+}

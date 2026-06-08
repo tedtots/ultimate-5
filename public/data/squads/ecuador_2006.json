@@ -1,0 +1,169 @@
+{
+  "team": "Ecuador",
+  "year": 2006,
+  "nation_code": "ec",
+  "flag": "🇪🇨",
+  "players": [
+    {
+      "id": "ecuador_2006_edwin_villafuerte",
+      "name": "Edwin Villafuerte",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "ecuador_2006_jorge_guagua",
+      "name": "Jorge Guagua",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "ecuador_2006_iv_n_hurtado",
+      "name": "Iván Hurtado",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_ulises_de_la_cruz",
+      "name": "Ulises de la Cruz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_jos_luis_perlaza",
+      "name": "José Luis Perlaza",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_patricio_urrutia",
+      "name": "Patricio Urrutia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_christian_lara",
+      "name": "Christian Lara",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "ecuador_2006_dison_m_ndez",
+      "name": "Édison Méndez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "ecuador_2006_f_lix_borja",
+      "name": "Félix Borja",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "ecuador_2006_iv_n_kaviedes",
+      "name": "Iván Kaviedes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_agust_n_delgado",
+      "name": "Agustín Delgado",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "ecuador_2006_cristian_mora",
+      "name": "Cristian Mora",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "ecuador_2006_pa_l_ambrosi",
+      "name": "Paúl Ambrosi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "ecuador_2006_segundo_castillo",
+      "name": "Segundo Castillo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "ecuador_2006_marlon_ayov",
+      "name": "Marlon Ayoví",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "ecuador_2006_antonio_valencia",
+      "name": "Antonio Valencia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "ecuador_2006_giovanny_espinoza",
+      "name": "Giovanny Espinoza",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "ecuador_2006_n_icer_reasco",
+      "name": "Néicer Reasco",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "ecuador_2006_luis_saritama",
+      "name": "Luis Saritama",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "ecuador_2006_edwin_tenorio",
+      "name": "Edwin Tenorio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "ecuador_2006_carlos_tenorio",
+      "name": "Carlos Tenorio",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "ecuador_2006_dami_n_lanza",
+      "name": "Damián Lanza",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "ecuador_2006_christian_ben_tez",
+      "name": "Christian Benítez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

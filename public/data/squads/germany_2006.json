@@ -1,0 +1,169 @@
+{
+  "team": "Germany",
+  "year": 2006,
+  "nation_code": "DE",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_2006_jens_lehmann",
+      "name": "Jens Lehmann",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2006_marcell_jansen",
+      "name": "Marcell Jansen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2006_arne_friedrich",
+      "name": "Arne Friedrich",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2006_robert_huth",
+      "name": "Robert Huth",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_2006_sebastian_kehl",
+      "name": "Sebastian Kehl",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_2006_jens_nowotny",
+      "name": "Jens Nowotny",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_2006_bastian_schweinsteiger",
+      "name": "Bastian Schweinsteiger",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "germany_2006_torsten_frings",
+      "name": "Torsten Frings",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2006_mike_hanke",
+      "name": "Mike Hanke",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2006_oliver_neuville",
+      "name": "Oliver Neuville",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_2006_miroslav_klose",
+      "name": "Miroslav Klose",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2006_oliver_kahn",
+      "name": "Oliver Kahn",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2006_michael_ballack",
+      "name": "Michael Ballack",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "germany_2006_gerald_asamoah",
+      "name": "Gerald Asamoah",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_2006_thomas_hitzlsperger",
+      "name": "Thomas Hitzlsperger",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2006_philipp_lahm",
+      "name": "Philipp Lahm",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2006_per_mertesacker",
+      "name": "Per Mertesacker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "germany_2006_tim_borowski",
+      "name": "Tim Borowski",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2006_bernd_schneider",
+      "name": "Bernd Schneider",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_2006_lukas_podolski",
+      "name": "Lukas Podolski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2006_christoph_metzelder",
+      "name": "Christoph Metzelder",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2006_david_odonkor",
+      "name": "David Odonkor",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2006_timo_hildebrand",
+      "name": "Timo Hildebrand",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

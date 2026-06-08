@@ -1,0 +1,169 @@
+{
+  "team": "Spain",
+  "year": 2002,
+  "nation_code": "es",
+  "flag": "🇪🇸",
+  "players": [
+    {
+      "id": "spain_2002_iker_casillas",
+      "name": "Iker Casillas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2002_curro_torres",
+      "name": "Curro Torres",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "spain_2002_not_applicable_juanfran",
+      "name": "Juanfran",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2002_iv_n_helguera",
+      "name": "Iván Helguera",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2002_carles_puyol",
+      "name": "Carles Puyol",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "spain_2002_fernando_hierro",
+      "name": "Fernando Hierro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2002_not_applicable_ra_l",
+      "name": "Raúl",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "spain_2002_rub_n_baraja",
+      "name": "Rubén Baraja",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2002_fernando_morientes",
+      "name": "Fernando Morientes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2002_diego_trist_n",
+      "name": "Diego Tristán",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "spain_2002_javier_de_pedro",
+      "name": "Javier de Pedro",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2002_albert_luque",
+      "name": "Albert Luque",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "spain_2002_not_applicable_ricardo",
+      "name": "Ricardo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2002_david_albelda",
+      "name": "David Albelda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "spain_2002_enrique_romero",
+      "name": "Enrique Romero",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "spain_2002_gaizka_mendieta",
+      "name": "Gaizka Mendieta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2002_juan_carlos_valer_n",
+      "name": "Juan Carlos Valerón",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "spain_2002_not_applicable_sergio",
+      "name": "Sergio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2002_not_applicable_xavi",
+      "name": "Xavi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2002_miguel_ngel_nadal",
+      "name": "Miguel Ángel Nadal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "spain_2002_luis_enrique",
+      "name": "Luis Enrique",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "spain_2002_not_applicable_joaqu_n",
+      "name": "Joaquín",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2002_pedro_contreras",
+      "name": "Pedro Contreras",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    }
+  ]
+}

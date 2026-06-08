@@ -1,0 +1,162 @@
+{
+  "team": "West Germany",
+  "year": 1966,
+  "nation_code": "de",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "west_germany_1966_hans_tilkowski",
+      "name": "Hans Tilkowski",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "west_germany_1966_horst_dieter_h_ttges",
+      "name": "Horst-Dieter Höttges",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "west_germany_1966_karl_heinz_schnellinger",
+      "name": "Karl-Heinz Schnellinger",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "west_germany_1966_franz_beckenbauer",
+      "name": "Franz Beckenbauer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "west_germany_1966_willi_schulz",
+      "name": "Willi Schulz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "west_germany_1966_wolfgang_weber",
+      "name": "Wolfgang Weber",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "west_germany_1966_albert_br_lls",
+      "name": "Albert Brülls",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "west_germany_1966_helmut_haller",
+      "name": "Helmut Haller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "west_germany_1966_uwe_seeler",
+      "name": "Uwe Seeler",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "west_germany_1966_sigfried_held",
+      "name": "Sigfried Held",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "west_germany_1966_lothar_emmerich",
+      "name": "Lothar Emmerich",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "west_germany_1966_wolfgang_overath",
+      "name": "Wolfgang Overath",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "west_germany_1966_heinz_hornig",
+      "name": "Heinz Hornig",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "west_germany_1966_friedel_lutz",
+      "name": "Friedel Lutz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "west_germany_1966_bernd_patzke",
+      "name": "Bernd Patzke",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "west_germany_1966_max_lorenz",
+      "name": "Max Lorenz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "west_germany_1966_wolfgang_paul",
+      "name": "Wolfgang Paul",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "west_germany_1966_klaus_dieter_sieloff",
+      "name": "Klaus-Dieter Sieloff",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "west_germany_1966_werner_kr_mer",
+      "name": "Werner Krämer",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "west_germany_1966_j_rgen_grabowski",
+      "name": "Jürgen Grabowski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "west_germany_1966_g_nter_bernard",
+      "name": "Günter Bernard",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "west_germany_1966_sepp_maier",
+      "name": "Sepp Maier",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "team": "Soviet Union",
+  "year": 1966,
+  "nation_code": "ru",
+  "flag": "🇷🇺",
+  "players": [
+    {
+      "id": "soviet_union_1966_lev_yashin",
+      "name": "Lev Yashin",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1966_viktor_serebryanikov",
+      "name": "Viktor Serebryanikov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "soviet_union_1966_leonid_ostrovskiy",
+      "name": "Leonid Ostrovskiy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "soviet_union_1966_vladimir_ponomaryov",
+      "name": "Vladimir Ponomaryov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1966_valentin_afonin",
+      "name": "Valentin Afonin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1966_albert_shesternyov",
+      "name": "Albert Shesternyov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1966_murtaz_khurtsilava",
+      "name": "Murtaz Khurtsilava",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1966_yozhef_sabo",
+      "name": "Yozhef Sabo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "soviet_union_1966_viktor_getmanov",
+      "name": "Viktor Getmanov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1966_vasiliy_danilov",
+      "name": "Vasiliy Danilov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "soviet_union_1966_igor_chislenko",
+      "name": "Igor Chislenko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1966_valery_voronin",
+      "name": "Valery Voronin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1966_alexey_korneyev",
+      "name": "Alexey Korneyev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "soviet_union_1966_georgi_sichinava",
+      "name": "Georgi Sichinava",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "soviet_union_1966_galimzyan_khusainov",
+      "name": "Galimzyan Khusainov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "soviet_union_1966_slava_metreveli",
+      "name": "Slava Metreveli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1966_valeriy_porkujan",
+      "name": "Valeriy Porkujan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "soviet_union_1966_anatoliy_banishevskiy",
+      "name": "Anatoliy Banishevskiy",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "soviet_union_1966_eduard_malofeyev",
+      "name": "Eduard Malofeyev",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "soviet_union_1966_eduard_markarov",
+      "name": "Eduard Markarov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1966_anzor_kavazashvili",
+      "name": "Anzor Kavazashvili",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1966_viktor_bannikov",
+      "name": "Viktor Bannikov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    }
+  ]
+}

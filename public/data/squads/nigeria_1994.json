@@ -1,0 +1,162 @@
+{
+  "team": "Nigeria",
+  "year": 1994,
+  "nation_code": "ng",
+  "flag": "🇳🇬",
+  "players": [
+    {
+      "id": "nigeria_1994_peter_rufai",
+      "name": "Peter Rufai",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "nigeria_1994_augustine_eguavoen",
+      "name": "Augustine Eguavoen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "nigeria_1994_benedict_iroha",
+      "name": "Benedict Iroha",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "nigeria_1994_stephen_keshi",
+      "name": "Stephen Keshi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "nigeria_1994_uche_okechukwu",
+      "name": "Uche Okechukwu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "nigeria_1994_chidi_nwanu",
+      "name": "Chidi Nwanu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "nigeria_1994_finidi_george",
+      "name": "Finidi George",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "nigeria_1994_thompson_oliha",
+      "name": "Thompson Oliha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "nigeria_1994_rashidi_yekini",
+      "name": "Rashidi Yekini",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "nigeria_1994_jay_jay_okocha",
+      "name": "Jay-Jay Okocha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "nigeria_1994_emmanuel_amunike",
+      "name": "Emmanuel Amunike",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "nigeria_1994_samson_siasia",
+      "name": "Samson Siasia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "nigeria_1994_emeka_ezeugo",
+      "name": "Emeka Ezeugo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "nigeria_1994_daniel_amokachi",
+      "name": "Daniel Amokachi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "nigeria_1994_sunday_oliseh",
+      "name": "Sunday Oliseh",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "nigeria_1994_alloysius_agu",
+      "name": "Alloysius Agu",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "nigeria_1994_victor_ikpeba",
+      "name": "Victor Ikpeba",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "nigeria_1994_efan_ekoku",
+      "name": "Efan Ekoku",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "nigeria_1994_michael_emenalo",
+      "name": "Michael Emenalo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "nigeria_1994_uche_okafor",
+      "name": "Uche Okafor",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "nigeria_1994_mutiu_adepoju",
+      "name": "Mutiu Adepoju",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "nigeria_1994_wilfred_agbonavbare",
+      "name": "Wilfred Agbonavbare",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    }
+  ]
+}

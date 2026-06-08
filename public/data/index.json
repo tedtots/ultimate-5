@@ -1,0 +1,992 @@
+[
+  {
+    "key": "brazil_2002",
+    "team": "Brazil",
+    "year": 2002,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_1970",
+    "team": "Brazil",
+    "year": 1970,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_1994",
+    "team": "Brazil",
+    "year": 1994,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_1982",
+    "team": "Brazil",
+    "year": 1982,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_2006",
+    "team": "Brazil",
+    "year": 2006,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_2014",
+    "team": "Brazil",
+    "year": 2014,
+    "nation_code": "BR",
+    "flag": "🇧🇷",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "argentina_1986",
+    "team": "Argentina",
+    "year": 1986,
+    "nation_code": "AR",
+    "flag": "🇦🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "argentina_2022",
+    "team": "Argentina",
+    "year": 2022,
+    "nation_code": "AR",
+    "flag": "🇦🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "argentina_1978",
+    "team": "Argentina",
+    "year": 1978,
+    "nation_code": "AR",
+    "flag": "🇦🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "argentina_2014",
+    "team": "Argentina",
+    "year": 2014,
+    "nation_code": "AR",
+    "flag": "🇦🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "argentina_2006",
+    "team": "Argentina",
+    "year": 2006,
+    "nation_code": "AR",
+    "flag": "🇦🇷",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "france_1998",
+    "team": "France",
+    "year": 1998,
+    "nation_code": "FR",
+    "flag": "🇫🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "france_2018",
+    "team": "France",
+    "year": 2018,
+    "nation_code": "FR",
+    "flag": "🇫🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "france_2006",
+    "team": "France",
+    "year": 2006,
+    "nation_code": "FR",
+    "flag": "🇫🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "france_2022",
+    "team": "France",
+    "year": 2022,
+    "nation_code": "FR",
+    "flag": "🇫🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "germany_2014",
+    "team": "Germany",
+    "year": 2014,
+    "nation_code": "DE",
+    "flag": "🇩🇪",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "germany_1974",
+    "team": "Germany",
+    "year": 1974,
+    "nation_code": "DE",
+    "flag": "🇩🇪",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "germany_1990",
+    "team": "Germany",
+    "year": 1990,
+    "nation_code": "DE",
+    "flag": "🇩🇪",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "germany_2010",
+    "team": "Germany",
+    "year": 2010,
+    "nation_code": "DE",
+    "flag": "🇩🇪",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "germany_2006",
+    "team": "Germany",
+    "year": 2006,
+    "nation_code": "DE",
+    "flag": "🇩🇪",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "italy_2006",
+    "team": "Italy",
+    "year": 2006,
+    "nation_code": "IT",
+    "flag": "🇮🇹",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "italy_1982",
+    "team": "Italy",
+    "year": 1982,
+    "nation_code": "IT",
+    "flag": "🇮🇹",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "italy_1970",
+    "team": "Italy",
+    "year": 1970,
+    "nation_code": "IT",
+    "flag": "🇮🇹",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "italy_1994",
+    "team": "Italy",
+    "year": 1994,
+    "nation_code": "IT",
+    "flag": "🇮🇹",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "spain_2010",
+    "team": "Spain",
+    "year": 2010,
+    "nation_code": "ES",
+    "flag": "🇪🇸",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "spain_2014",
+    "team": "Spain",
+    "year": 2014,
+    "nation_code": "ES",
+    "flag": "🇪🇸",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "spain_2022",
+    "team": "Spain",
+    "year": 2022,
+    "nation_code": "ES",
+    "flag": "🇪🇸",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "netherlands_1974",
+    "team": "Netherlands",
+    "year": 1974,
+    "nation_code": "NL",
+    "flag": "🇳🇱",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "netherlands_2010",
+    "team": "Netherlands",
+    "year": 2010,
+    "nation_code": "NL",
+    "flag": "🇳🇱",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "netherlands_1978",
+    "team": "Netherlands",
+    "year": 1978,
+    "nation_code": "NL",
+    "flag": "🇳🇱",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_1966",
+    "team": "England",
+    "year": 1966,
+    "nation_code": "GB-ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "england_1990",
+    "team": "England",
+    "year": 1990,
+    "nation_code": "GB-ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_2018",
+    "team": "England",
+    "year": 2018,
+    "nation_code": "GB-ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "portugal_2006",
+    "team": "Portugal",
+    "year": 2006,
+    "nation_code": "PT",
+    "flag": "🇵🇹",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "portugal_2016",
+    "team": "Portugal",
+    "year": 2016,
+    "nation_code": "PT",
+    "flag": "🇵🇹",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "portugal_2022",
+    "team": "Portugal",
+    "year": 2022,
+    "nation_code": "PT",
+    "flag": "🇵🇹",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "croatia_2018",
+    "team": "Croatia",
+    "year": 2018,
+    "nation_code": "HR",
+    "flag": "🇭🇷",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "croatia_2022",
+    "team": "Croatia",
+    "year": 2022,
+    "nation_code": "HR",
+    "flag": "🇭🇷",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "belgium_2018",
+    "team": "Belgium",
+    "year": 2018,
+    "nation_code": "BE",
+    "flag": "🇧🇪",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "belgium_2022",
+    "team": "Belgium",
+    "year": 2022,
+    "nation_code": "BE",
+    "flag": "🇧🇪",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "uruguay_1970",
+    "team": "Uruguay",
+    "year": 1970,
+    "nation_code": "UY",
+    "flag": "🇺🇾",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "uruguay_2010",
+    "team": "Uruguay",
+    "year": 2010,
+    "nation_code": "UY",
+    "flag": "🇺🇾",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "cameroon_1990",
+    "team": "Cameroon",
+    "year": 1990,
+    "nation_code": "CM",
+    "flag": "🇨🇲",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "senegal_2002",
+    "team": "Senegal",
+    "year": 2002,
+    "nation_code": "SN",
+    "flag": "🇸🇳",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "morocco_2022",
+    "team": "Morocco",
+    "year": 2022,
+    "nation_code": "MA",
+    "flag": "🇲🇦",
+    "weight": 13,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "south_korea_2002",
+    "team": "South Korea",
+    "year": 2002,
+    "nation_code": "KR",
+    "flag": "🇰🇷",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "usa_2002",
+    "team": "USA",
+    "year": 2002,
+    "nation_code": "US",
+    "flag": "🇺🇸",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "poland_1974",
+    "team": "Poland",
+    "year": 1974,
+    "nation_code": "PL",
+    "flag": "🇵🇱",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "denmark_2002",
+    "team": "Denmark",
+    "year": 2002,
+    "nation_code": "DK",
+    "flag": "🇩🇰",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "sweden_1994",
+    "team": "Sweden",
+    "year": 1994,
+    "nation_code": "SE",
+    "flag": "🇸🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "colombia_2014",
+    "team": "Colombia",
+    "year": 2014,
+    "nation_code": "CO",
+    "flag": "🇨🇴",
+    "weight": 12,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "mexico_2006",
+    "team": "Mexico",
+    "year": 2006,
+    "nation_code": "MX",
+    "flag": "🇲🇽",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "hungary_1954",
+    "team": "Hungary",
+    "year": 1954,
+    "nation_code": "hu",
+    "flag": "🇭🇺",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "west_germany_1966",
+    "team": "West Germany",
+    "year": 1966,
+    "nation_code": "de",
+    "flag": "🇩🇪",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "west_germany_1970",
+    "team": "West Germany",
+    "year": 1970,
+    "nation_code": "de",
+    "flag": "🇩🇪",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "england_1970",
+    "team": "England",
+    "year": 1970,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_1982",
+    "team": "England",
+    "year": 1982,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_1986",
+    "team": "England",
+    "year": 1986,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_2006",
+    "team": "England",
+    "year": 2006,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_2010",
+    "team": "England",
+    "year": 2010,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "england_2014",
+    "team": "England",
+    "year": 2014,
+    "nation_code": "gb-eng",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "brazil_1958",
+    "team": "Brazil",
+    "year": 1958,
+    "nation_code": "br",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "brazil_1962",
+    "team": "Brazil",
+    "year": 1962,
+    "nation_code": "br",
+    "flag": "🇧🇷",
+    "weight": 2,
+    "tier": "powerhouse"
+  },
+  {
+    "key": "italy_1978",
+    "team": "Italy",
+    "year": 1978,
+    "nation_code": "it",
+    "flag": "🇮🇹",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "spain_2002",
+    "team": "Spain",
+    "year": 2002,
+    "nation_code": "es",
+    "flag": "🇪🇸",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "germany_2002",
+    "team": "Germany",
+    "year": 2002,
+    "nation_code": "de",
+    "flag": "🇩🇪",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "yugoslavia_1974",
+    "team": "Yugoslavia",
+    "year": 1974,
+    "nation_code": "rs",
+    "flag": "🇷🇸",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "yugoslavia_1982",
+    "team": "Yugoslavia",
+    "year": 1982,
+    "nation_code": "rs",
+    "flag": "🇷🇸",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "soviet_union_1966",
+    "team": "Soviet Union",
+    "year": 1966,
+    "nation_code": "ru",
+    "flag": "🇷🇺",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "soviet_union_1970",
+    "team": "Soviet Union",
+    "year": 1970,
+    "nation_code": "ru",
+    "flag": "🇷🇺",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "soviet_union_1982",
+    "team": "Soviet Union",
+    "year": 1982,
+    "nation_code": "ru",
+    "flag": "🇷🇺",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "soviet_union_1986",
+    "team": "Soviet Union",
+    "year": 1986,
+    "nation_code": "ru",
+    "flag": "🇷🇺",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "peru_1970",
+    "team": "Peru",
+    "year": 1970,
+    "nation_code": "pe",
+    "flag": "🇵🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "peru_1978",
+    "team": "Peru",
+    "year": 1978,
+    "nation_code": "pe",
+    "flag": "🇵🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "romania_1994",
+    "team": "Romania",
+    "year": 1994,
+    "nation_code": "ro",
+    "flag": "🇷🇴",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "bulgaria_1994",
+    "team": "Bulgaria",
+    "year": 1994,
+    "nation_code": "bg",
+    "flag": "🇧🇬",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "mexico_1986",
+    "team": "Mexico",
+    "year": 1986,
+    "nation_code": "mx",
+    "flag": "🇲🇽",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "turkey_2002",
+    "team": "Turkey",
+    "year": 2002,
+    "nation_code": "tr",
+    "flag": "🇹🇷",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "japan_2002",
+    "team": "Japan",
+    "year": 2002,
+    "nation_code": "jp",
+    "flag": "🇯🇵",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "japan_2010",
+    "team": "Japan",
+    "year": 2010,
+    "nation_code": "jp",
+    "flag": "🇯🇵",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "czech_republic_2006",
+    "team": "Czech Republic",
+    "year": 2006,
+    "nation_code": "cz",
+    "flag": "🇨🇿",
+    "weight": 4,
+    "tier": "strong"
+  },
+  {
+    "key": "australia_2006",
+    "team": "Australia",
+    "year": 2006,
+    "nation_code": "au",
+    "flag": "🇦🇺",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "ghana_2010",
+    "team": "Ghana",
+    "year": 2010,
+    "nation_code": "gh",
+    "flag": "🇬🇭",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "ivory_coast_2006",
+    "team": "Ivory Coast",
+    "year": 2006,
+    "nation_code": "ci",
+    "flag": "🇨🇮",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "ivory_coast_2010",
+    "team": "Ivory Coast",
+    "year": 2010,
+    "nation_code": "ci",
+    "flag": "🇨🇮",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "paraguay_2010",
+    "team": "Paraguay",
+    "year": 2010,
+    "nation_code": "py",
+    "flag": "🇵🇾",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "ecuador_2006",
+    "team": "Ecuador",
+    "year": 2006,
+    "nation_code": "ec",
+    "flag": "🇪🇨",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "usa_2014",
+    "team": "USA",
+    "year": 2014,
+    "nation_code": "us",
+    "flag": "🇺🇸",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "south_korea_2010",
+    "team": "South Korea",
+    "year": 2010,
+    "nation_code": "kr",
+    "flag": "🇰🇷",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "south_korea_2014",
+    "team": "South Korea",
+    "year": 2014,
+    "nation_code": "kr",
+    "flag": "🇰🇷",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "japan_2018",
+    "team": "Japan",
+    "year": 2018,
+    "nation_code": "jp",
+    "flag": "🇯🇵",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "mexico_2014",
+    "team": "Mexico",
+    "year": 2014,
+    "nation_code": "mx",
+    "flag": "🇲🇽",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "mexico_2018",
+    "team": "Mexico",
+    "year": 2018,
+    "nation_code": "mx",
+    "flag": "🇲🇽",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "nigeria_1994",
+    "team": "Nigeria",
+    "year": 1994,
+    "nation_code": "ng",
+    "flag": "🇳🇬",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "nigeria_1998",
+    "team": "Nigeria",
+    "year": 1998,
+    "nation_code": "ng",
+    "flag": "🇳🇬",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "rep_of_ireland_1990",
+    "team": "Rep. of Ireland",
+    "year": 1990,
+    "nation_code": "ie",
+    "flag": "🇮🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "scotland_1974",
+    "team": "Scotland",
+    "year": 1974,
+    "nation_code": "gb-sct",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "scotland_1978",
+    "team": "Scotland",
+    "year": 1978,
+    "nation_code": "gb-sct",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "scotland_1982",
+    "team": "Scotland",
+    "year": 1982,
+    "nation_code": "gb-sct",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "greece_2010",
+    "team": "Greece",
+    "year": 2010,
+    "nation_code": "gr",
+    "flag": "🇬🇷",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "sweden_1958",
+    "team": "Sweden",
+    "year": 1958,
+    "nation_code": "se",
+    "flag": "🇸🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "sweden_1978",
+    "team": "Sweden",
+    "year": 1978,
+    "nation_code": "se",
+    "flag": "🇸🇪",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "algeria_2014",
+    "team": "Algeria",
+    "year": 2014,
+    "nation_code": "dz",
+    "flag": "🇩🇿",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "costa_rica_2014",
+    "team": "Costa Rica",
+    "year": 2014,
+    "nation_code": "cr",
+    "flag": "🇨🇷",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "switzerland_2006",
+    "team": "Switzerland",
+    "year": 2006,
+    "nation_code": "ch",
+    "flag": "🇨🇭",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "switzerland_2014",
+    "team": "Switzerland",
+    "year": 2014,
+    "nation_code": "ch",
+    "flag": "🇨🇭",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "senegal_2022",
+    "team": "Senegal",
+    "year": 2022,
+    "nation_code": "sn",
+    "flag": "🇸🇳",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "tunisia_2022",
+    "team": "Tunisia",
+    "year": 2022,
+    "nation_code": "tn",
+    "flag": "🇹🇳",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "cameroon_2002",
+    "team": "Cameroon",
+    "year": 2002,
+    "nation_code": "cm",
+    "flag": "🇨🇲",
+    "weight": 10,
+    "tier": "dark_horse"
+  },
+  {
+    "key": "cameroon_2014",
+    "team": "Cameroon",
+    "year": 2014,
+    "nation_code": "cm",
+    "flag": "🇨🇲",
+    "weight": 10,
+    "tier": "dark_horse"
+  }
+]

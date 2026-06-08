@@ -1,0 +1,169 @@
+{
+  "team": "Argentina",
+  "year": 2014,
+  "nation_code": "AR",
+  "flag": "🇦🇷",
+  "players": [
+    {
+      "id": "argentina_2014_sergio_romero",
+      "name": "Sergio Romero",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_2014_ezequiel_garay",
+      "name": "Ezequiel Garay",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2014_hugo_campagnaro",
+      "name": "Hugo Campagnaro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2014_pablo_zabaleta",
+      "name": "Pablo Zabaleta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2014_fernando_gago",
+      "name": "Fernando Gago",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2014_lucas_biglia",
+      "name": "Lucas Biglia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2014_ngel_di_mar_a",
+      "name": "Ángel Di María",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2014_enzo_p_rez",
+      "name": "Enzo Pérez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "argentina_2014_gonzalo_higua_n",
+      "name": "Gonzalo Higuaín",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_2014_lionel_messi",
+      "name": "Lionel Messi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 97
+    },
+    {
+      "id": "argentina_2014_maxi_rodr_guez",
+      "name": "Maxi Rodríguez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2014_agust_n_ori_n",
+      "name": "Agustín Orión",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_2014_augusto_fern_ndez",
+      "name": "Augusto Fernández",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2014_javier_mascherano",
+      "name": "Javier Mascherano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_2014_mart_n_demichelis",
+      "name": "Martín Demichelis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2014_marcos_rojo",
+      "name": "Marcos Rojo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_2014_federico_fern_ndez",
+      "name": "Federico Fernández",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_2014_rodrigo_palacio",
+      "name": "Rodrigo Palacio",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2014_ricky_lvarez",
+      "name": "Ricky Álvarez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2014_sergio_ag_ero",
+      "name": "Sergio Agüero",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2014_mariano_and_jar",
+      "name": "Mariano Andújar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2014_ezequiel_lavezzi",
+      "name": "Ezequiel Lavezzi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2014_jos_mar_a_basanta",
+      "name": "José María Basanta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

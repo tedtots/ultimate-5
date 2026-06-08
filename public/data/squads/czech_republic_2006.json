@@ -1,0 +1,169 @@
+{
+  "team": "Czech Republic",
+  "year": 2006,
+  "nation_code": "cz",
+  "flag": "🇨🇿",
+  "players": [
+    {
+      "id": "czech_republic_2006_petr_ech",
+      "name": "Petr Čech",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "czech_republic_2006_zden_k_grygera",
+      "name": "Zdeněk Grygera",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "czech_republic_2006_pavel_mare",
+      "name": "Pavel Mareš",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "czech_republic_2006_tom_gal_sek",
+      "name": "Tomáš Galásek",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "czech_republic_2006_radoslav_kov",
+      "name": "Radoslav Kováč",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "czech_republic_2006_marek_jankulovski",
+      "name": "Marek Jankulovski",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "czech_republic_2006_libor_sionko",
+      "name": "Libor Sionko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "czech_republic_2006_karel_poborsk",
+      "name": "Karel Poborský",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "czech_republic_2006_jan_koller",
+      "name": "Jan Koller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "czech_republic_2006_tom_rosick",
+      "name": "Tomáš Rosický",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "czech_republic_2006_pavel_nedv_d",
+      "name": "Pavel Nedvěd",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "czech_republic_2006_vratislav_lokvenc",
+      "name": "Vratislav Lokvenc",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "czech_republic_2006_martin_jir_nek",
+      "name": "Martin Jiránek",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "czech_republic_2006_david_jarol_m",
+      "name": "David Jarolím",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "czech_republic_2006_milan_baro",
+      "name": "Milan Baroš",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "czech_republic_2006_jarom_r_bla_ek",
+      "name": "Jaromír Blažek",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "czech_republic_2006_ji_tajner",
+      "name": "Jiří Štajner",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "czech_republic_2006_marek_heinz",
+      "name": "Marek Heinz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "czech_republic_2006_jan_pol_k",
+      "name": "Jan Polák",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "czech_republic_2006_jaroslav_pla_il",
+      "name": "Jaroslav Plašil",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "czech_republic_2006_tom_ujfalu_i",
+      "name": "Tomáš Ujfaluši",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "czech_republic_2006_david_rozehnal",
+      "name": "David Rozehnal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "czech_republic_2006_anton_n_kinsk",
+      "name": "Antonín Kinský",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

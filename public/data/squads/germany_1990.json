@@ -1,0 +1,162 @@
+{
+  "team": "Germany",
+  "year": 1990,
+  "nation_code": "DE",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_1990_bodo_illgner",
+      "name": "Bodo Illgner",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_1990_stefan_reuter",
+      "name": "Stefan Reuter",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "germany_1990_andreas_brehme",
+      "name": "Andreas Brehme",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1990_j_rgen_kohler",
+      "name": "Jürgen Kohler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_1990_klaus_augenthaler",
+      "name": "Klaus Augenthaler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_1990_guido_buchwald",
+      "name": "Guido Buchwald",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "germany_1990_pierre_littbarski",
+      "name": "Pierre Littbarski",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_1990_thomas_h_ler",
+      "name": "Thomas Häßler",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_1990_rudi_v_ller",
+      "name": "Rudi Völler",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_1990_lothar_matth_us",
+      "name": "Lothar Matthäus",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "germany_1990_frank_mill",
+      "name": "Frank Mill",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "germany_1990_raimond_aumann",
+      "name": "Raimond Aumann",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1990_karl_heinz_riedle",
+      "name": "Karl-Heinz Riedle",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "germany_1990_thomas_berthold",
+      "name": "Thomas Berthold",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_1990_uwe_bein",
+      "name": "Uwe Bein",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_1990_paul_steiner",
+      "name": "Paul Steiner",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_1990_andreas_m_ller",
+      "name": "Andreas Möller",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_1990_j_rgen_klinsmann",
+      "name": "Jürgen Klinsmann",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1990_hans_pfl_gler",
+      "name": "Hans Pflügler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_1990_olaf_thon",
+      "name": "Olaf Thon",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "germany_1990_g_nter_hermann",
+      "name": "Günter Hermann",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "germany_1990_andreas_k_pke",
+      "name": "Andreas Köpke",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    }
+  ]
+}

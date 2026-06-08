@@ -1,0 +1,169 @@
+{
+  "team": "Netherlands",
+  "year": 2010,
+  "nation_code": "NL",
+  "flag": "🇳🇱",
+  "players": [
+    {
+      "id": "netherlands_2010_maarten_stekelenburg",
+      "name": "Maarten Stekelenburg",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_2010_gregory_van_der_wiel",
+      "name": "Gregory van der Wiel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "netherlands_2010_john_heitinga",
+      "name": "John Heitinga",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "netherlands_2010_joris_mathijsen",
+      "name": "Joris Mathijsen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "netherlands_2010_giovanni_van_bronckhorst",
+      "name": "Giovanni van Bronckhorst",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_2010_mark_van_bommel",
+      "name": "Mark van Bommel",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_2010_dirk_kuyt",
+      "name": "Dirk Kuyt",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_2010_nigel_de_jong",
+      "name": "Nigel de Jong",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_2010_robin_van_persie",
+      "name": "Robin van Persie",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "netherlands_2010_wesley_sneijder",
+      "name": "Wesley Sneijder",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "netherlands_2010_arjen_robben",
+      "name": "Arjen Robben",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_2010_khalid_boulahrouz",
+      "name": "Khalid Boulahrouz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "netherlands_2010_andr_ooijer",
+      "name": "André Ooijer",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_2010_demy_de_zeeuw",
+      "name": "Demy de Zeeuw",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_2010_edson_braafheid",
+      "name": "Edson Braafheid",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_2010_michel_vorm",
+      "name": "Michel Vorm",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_2010_eljero_elia",
+      "name": "Eljero Elia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_2010_stijn_schaars",
+      "name": "Stijn Schaars",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_2010_ryan_babel",
+      "name": "Ryan Babel",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "netherlands_2010_ibrahim_afellay",
+      "name": "Ibrahim Afellay",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_2010_klaas_jan_huntelaar",
+      "name": "Klaas-Jan Huntelaar",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "netherlands_2010_sander_boschker",
+      "name": "Sander Boschker",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_2010_rafael_van_der_vaart",
+      "name": "Rafael van der Vaart",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

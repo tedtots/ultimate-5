@@ -1,0 +1,162 @@
+{
+  "team": "Rep. of Ireland",
+  "year": 1990,
+  "nation_code": "ie",
+  "flag": "🇮🇪",
+  "players": [
+    {
+      "id": "rep_of_ireland_1990_pat_bonner",
+      "name": "Pat Bonner",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "rep_of_ireland_1990_chris_morris",
+      "name": "Chris Morris",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "rep_of_ireland_1990_steve_staunton",
+      "name": "Steve Staunton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "rep_of_ireland_1990_mick_mccarthy",
+      "name": "Mick McCarthy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "rep_of_ireland_1990_kevin_moran",
+      "name": "Kevin Moran",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "rep_of_ireland_1990_ronnie_whelan",
+      "name": "Ronnie Whelan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "rep_of_ireland_1990_paul_mcgrath",
+      "name": "Paul McGrath",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "rep_of_ireland_1990_ray_houghton",
+      "name": "Ray Houghton",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "rep_of_ireland_1990_john_aldridge",
+      "name": "John Aldridge",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "rep_of_ireland_1990_tony_cascarino",
+      "name": "Tony Cascarino",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "rep_of_ireland_1990_kevin_sheedy",
+      "name": "Kevin Sheedy",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "rep_of_ireland_1990_david_o_leary",
+      "name": "David O'Leary",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "rep_of_ireland_1990_andy_townsend",
+      "name": "Andy Townsend",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "rep_of_ireland_1990_chris_hughton",
+      "name": "Chris Hughton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "rep_of_ireland_1990_bernie_slaven",
+      "name": "Bernie Slaven",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "rep_of_ireland_1990_john_sheridan",
+      "name": "John Sheridan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "rep_of_ireland_1990_niall_quinn",
+      "name": "Niall Quinn",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "rep_of_ireland_1990_frank_stapleton",
+      "name": "Frank Stapleton",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "rep_of_ireland_1990_david_kelly",
+      "name": "David Kelly",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "rep_of_ireland_1990_john_byrne",
+      "name": "John Byrne",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "rep_of_ireland_1990_alan_mcloughlin",
+      "name": "Alan McLoughlin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "rep_of_ireland_1990_gerry_peyton",
+      "name": "Gerry Peyton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    }
+  ]
+}

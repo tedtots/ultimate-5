@@ -1,0 +1,169 @@
+{
+  "team": "Turkey",
+  "year": 2002,
+  "nation_code": "tr",
+  "flag": "🇹🇷",
+  "players": [
+    {
+      "id": "turkey_2002_r_t_re_ber",
+      "name": "Rüştü Reçber",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "turkey_2002_emre_a_k",
+      "name": "Emre Aşık",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "turkey_2002_b_lent_korkmaz",
+      "name": "Bülent Korkmaz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "turkey_2002_fatih_akyel",
+      "name": "Fatih Akyel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "turkey_2002_alpay_zalan",
+      "name": "Alpay Özalan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "turkey_2002_arif_erdem",
+      "name": "Arif Erdem",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "turkey_2002_okan_buruk",
+      "name": "Okan Buruk",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "turkey_2002_tugay_kerimo_lu",
+      "name": "Tugay Kerimoğlu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "turkey_2002_hakan_k_r",
+      "name": "Hakan Şükür",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "turkey_2002_y_ld_ray_ba_t_rk",
+      "name": "Yıldıray Baştürk",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "turkey_2002_hasan_a",
+      "name": "Hasan Şaş",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "turkey_2002_mer_atk",
+      "name": "Ömer Çatkıç",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "turkey_2002_muzzy_izzet",
+      "name": "Muzzy Izzet",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "turkey_2002_tayfur_havut_u",
+      "name": "Tayfur Havutçu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "turkey_2002_nihat_kahveci",
+      "name": "Nihat Kahveci",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "turkey_2002_mit_zat",
+      "name": "Ümit Özat",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "turkey_2002_i_lhan_mans_z",
+      "name": "İlhan Mansız",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "turkey_2002_erg_n_penbe",
+      "name": "Ergün Penbe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "turkey_2002_abdullah_ercan",
+      "name": "Abdullah Ercan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "turkey_2002_hakan_nsal",
+      "name": "Hakan Ünsal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "turkey_2002_emre_bel_zo_lu",
+      "name": "Emre Belözoğlu",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "turkey_2002_mit_davala",
+      "name": "Ümit Davala",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "turkey_2002_zafer_zg_ltekin",
+      "name": "Zafer Özgültekin",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "team": "Morocco",
+  "year": 2022,
+  "nation_code": "MA",
+  "flag": "🇲🇦",
+  "players": [
+    {
+      "id": "morocco_2022_yassine_bounou",
+      "name": "Yassine Bounou",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "morocco_2022_achraf_hakimi",
+      "name": "Achraf Hakimi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "morocco_2022_noussair_mazraoui",
+      "name": "Noussair Mazraoui",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "morocco_2022_sofyan_amrabat",
+      "name": "Sofyan Amrabat",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "morocco_2022_nayef_aguerd",
+      "name": "Nayef Aguerd",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "morocco_2022_romain_sa_ss",
+      "name": "Romain Saïss",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "morocco_2022_hakim_ziyech",
+      "name": "Hakim Ziyech",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "morocco_2022_azzedine_ounahi",
+      "name": "Azzedine Ounahi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "morocco_2022_abderrazak_hamdallah",
+      "name": "Abderrazak Hamdallah",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "morocco_2022_anass_zaroury",
+      "name": "Anass Zaroury",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "morocco_2022_abdelhamid_sabiri",
+      "name": "Abdelhamid Sabiri",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "morocco_2022_munir_mohamedi",
+      "name": "Munir Mohamedi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "morocco_2022_ilias_chair",
+      "name": "Ilias Chair",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "morocco_2022_zakaria_aboukhlal",
+      "name": "Zakaria Aboukhlal",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "morocco_2022_selim_amallah",
+      "name": "Selim Amallah",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "morocco_2022_abde_ezzalzouli",
+      "name": "Abde Ezzalzouli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "morocco_2022_sofiane_boufal",
+      "name": "Sofiane Boufal",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "morocco_2022_jawad_el_yamiq",
+      "name": "Jawad El Yamiq",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "morocco_2022_youssef_en_nesyri",
+      "name": "Youssef En-Nesyri",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "morocco_2022_achraf_dari",
+      "name": "Achraf Dari",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "morocco_2022_walid_cheddira",
+      "name": "Walid Cheddira",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "morocco_2022_ahmed_reda_tagnaouti",
+      "name": "Ahmed Reda Tagnaouti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "morocco_2022_bilal_el_khannous",
+      "name": "Bilal El Khannous",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "morocco_2022_badr_benoun",
+      "name": "Badr Benoun",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "morocco_2022_yahia_attiyat_allah",
+      "name": "Yahia Attiyat Allah",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "morocco_2022_yahya_jabrane",
+      "name": "Yahya Jabrane",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

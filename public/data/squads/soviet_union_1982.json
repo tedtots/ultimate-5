@@ -1,0 +1,162 @@
+{
+  "team": "Soviet Union",
+  "year": 1982,
+  "nation_code": "ru",
+  "flag": "🇷🇺",
+  "players": [
+    {
+      "id": "soviet_union_1982_rinat_dasayev",
+      "name": "Rinat Dasayev",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1982_tengiz_sulakvelidze",
+      "name": "Tengiz Sulakvelidze",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1982_aleksandr_chivadze",
+      "name": "Aleksandr Chivadze",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1982_vagiz_khidiyatullin",
+      "name": "Vagiz Khidiyatullin",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1982_sergei_baltacha",
+      "name": "Sergei Baltacha",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1982_anatoliy_demyanenko",
+      "name": "Anatoliy Demyanenko",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1982_ramaz_shengelia",
+      "name": "Ramaz Shengelia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1982_volodymyr_bezsonov",
+      "name": "Volodymyr Bezsonov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1982_yuri_gavrilov",
+      "name": "Yuri Gavrilov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1982_khoren_hovhannisyan",
+      "name": "Khoren Hovhannisyan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1982_oleh_blokhin",
+      "name": "Oleh Blokhin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1982_andriy_bal",
+      "name": "Andriy Bal",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1982_vitaly_daraselia",
+      "name": "Vitaly Daraselia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "soviet_union_1982_sergei_borovsky",
+      "name": "Sergei Borovsky",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "soviet_union_1982_sergey_andreyev",
+      "name": "Sergey Andreyev",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1982_sergey_rodionov",
+      "name": "Sergey Rodionov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1982_leonid_buryak",
+      "name": "Leonid Buryak",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1982_yuri_susloparov",
+      "name": "Yuri Susloparov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1982_vadym_yevtushenko",
+      "name": "Vadym Yevtushenko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "soviet_union_1982_oleg_romantsev",
+      "name": "Oleg Romantsev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "soviet_union_1982_viktor_chanov",
+      "name": "Viktor Chanov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1982_vyacheslav_chanov",
+      "name": "Vyacheslav Chanov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    }
+  ]
+}

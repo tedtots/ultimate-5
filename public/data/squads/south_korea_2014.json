@@ -1,0 +1,169 @@
+{
+  "team": "South Korea",
+  "year": 2014,
+  "nation_code": "kr",
+  "flag": "🇰🇷",
+  "players": [
+    {
+      "id": "south_korea_2014_sung_ryong_jung",
+      "name": "Sung-ryong Jung",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "south_korea_2014_chang_soo_kim",
+      "name": "Chang-soo Kim",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2014_suk_young_yun",
+      "name": "Suk-young Yun",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "south_korea_2014_tae_hwi_kwak",
+      "name": "Tae-hwi Kwak",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2014_young_gwon_kim",
+      "name": "Young-gwon Kim",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "south_korea_2014_seok_ho_hwang",
+      "name": "Seok-ho Hwang",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "south_korea_2014_bo_kyung_kim",
+      "name": "Bo-kyung Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "south_korea_2014_dae_sung_ha",
+      "name": "Dae-sung Ha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "south_korea_2014_heung_min_son",
+      "name": "Heung-min Son",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "south_korea_2014_chu_young_park",
+      "name": "Chu-young Park",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2014_keun_ho_lee",
+      "name": "Keun-ho Lee",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "south_korea_2014_yong_lee",
+      "name": "Yong Lee",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "south_korea_2014_ja_cheol_koo",
+      "name": "Ja-cheol Koo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "south_korea_2014_kook_young_han",
+      "name": "Kook-young Han",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "south_korea_2014_jong_woo_park",
+      "name": "Jong-woo Park",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "south_korea_2014_sung_yueng_ki",
+      "name": "Sung-yueng Ki",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "south_korea_2014_chung_yong_lee",
+      "name": "Chung-yong Lee",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "south_korea_2014_shin_wook_kim",
+      "name": "Shin-wook Kim",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "south_korea_2014_dong_won_ji",
+      "name": "Dong-won Ji",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "south_korea_2014_jeong_ho_hong",
+      "name": "Jeong-ho Hong",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "south_korea_2014_seung_gyu_kim",
+      "name": "Seung-gyu Kim",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "south_korea_2014_joo_ho_park",
+      "name": "Joo-ho Park",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "south_korea_2014_bum_young_lee",
+      "name": "Bum-young Lee",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 68
+    }
+  ]
+}

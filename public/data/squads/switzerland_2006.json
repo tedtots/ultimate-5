@@ -1,0 +1,169 @@
+{
+  "team": "Switzerland",
+  "year": 2006,
+  "nation_code": "ch",
+  "flag": "🇨🇭",
+  "players": [
+    {
+      "id": "switzerland_2006_pascal_zuberb_hler",
+      "name": "Pascal Zuberbühler",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "switzerland_2006_johan_djourou",
+      "name": "Johan Djourou",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "switzerland_2006_ludovic_magnin",
+      "name": "Ludovic Magnin",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2006_philippe_senderos",
+      "name": "Philippe Senderos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "switzerland_2006_xavier_margairaz",
+      "name": "Xavier Margairaz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2006_johann_vogel",
+      "name": "Johann Vogel",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2006_ricardo_cabanas",
+      "name": "Ricardo Cabanas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2006_rapha_l_wicky",
+      "name": "Raphaël Wicky",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "switzerland_2006_alexander_frei",
+      "name": "Alexander Frei",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "switzerland_2006_daniel_gygax",
+      "name": "Daniel Gygax",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "switzerland_2006_marco_streller",
+      "name": "Marco Streller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "switzerland_2006_diego_benaglio",
+      "name": "Diego Benaglio",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "switzerland_2006_st_phane_grichting",
+      "name": "Stéphane Grichting",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "switzerland_2006_david_degen",
+      "name": "David Degen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2006_blerim_d_emaili",
+      "name": "Blerim Džemaili",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2006_tranquillo_barnetta",
+      "name": "Tranquillo Barnetta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "switzerland_2006_christoph_spycher",
+      "name": "Christoph Spycher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "switzerland_2006_mauro_lustrinelli",
+      "name": "Mauro Lustrinelli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "switzerland_2006_valon_behrami",
+      "name": "Valon Behrami",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "switzerland_2006_patrick_m_ller",
+      "name": "Patrick Müller",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "switzerland_2006_fabio_coltorti",
+      "name": "Fabio Coltorti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "switzerland_2006_hakan_yakin",
+      "name": "Hakan Yakin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2006_philipp_degen",
+      "name": "Philipp Degen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    }
+  ]
+}

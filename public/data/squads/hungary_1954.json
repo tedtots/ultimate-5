@@ -1,0 +1,162 @@
+{
+  "team": "Hungary",
+  "year": 1954,
+  "nation_code": "hu",
+  "flag": "🇭🇺",
+  "players": [
+    {
+      "id": "hungary_1954_gyula_grosics",
+      "name": "Gyula Grosics",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "hungary_1954_jen_buz_nszky",
+      "name": "Jenő Buzánszky",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "hungary_1954_gyula_l_r_nt",
+      "name": "Gyula Lóránt",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "hungary_1954_mih_ly_lantos",
+      "name": "Mihály Lantos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "hungary_1954_j_zsef_bozsik",
+      "name": "József Bozsik",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "hungary_1954_j_zsef_zakari_s",
+      "name": "József Zakariás",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "hungary_1954_j_zsef_t_th",
+      "name": "József Tóth",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "hungary_1954_s_ndor_kocsis",
+      "name": "Sándor Kocsis",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "hungary_1954_n_ndor_hidegkuti",
+      "name": "Nándor Hidegkuti",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "hungary_1954_ferenc_pusk_s",
+      "name": "Ferenc Puskás",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "hungary_1954_zolt_n_czibor",
+      "name": "Zoltán Czibor",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "hungary_1954_b_la_k_rp_ti",
+      "name": "Béla Kárpáti",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "hungary_1954_p_l_v_rhidi",
+      "name": "Pál Várhidi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "hungary_1954_imre_kov_cs",
+      "name": "Imre Kovács",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "hungary_1954_ferenc_szojka",
+      "name": "Ferenc Szojka",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "hungary_1954_l_szl_budai",
+      "name": "László Budai",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "hungary_1954_ferenc_machos",
+      "name": "Ferenc Machos",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "hungary_1954_lajos_csord_s",
+      "name": "Lajos Csordás",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "hungary_1954_p_ter_palot_s",
+      "name": "Péter Palotás",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "hungary_1954_mih_ly_t_th",
+      "name": "Mihály Tóth",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "hungary_1954_s_ndor_gell_r",
+      "name": "Sándor Gellér",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "hungary_1954_g_za_guly_s",
+      "name": "Géza Gulyás",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    }
+  ]
+}

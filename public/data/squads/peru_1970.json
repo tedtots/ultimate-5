@@ -1,0 +1,162 @@
+{
+  "team": "Peru",
+  "year": 1970,
+  "nation_code": "pe",
+  "flag": "🇵🇪",
+  "players": [
+    {
+      "id": "peru_1970_luis_rubi_os",
+      "name": "Luis Rubiños",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "peru_1970_eloy_campos",
+      "name": "Eloy Campos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1970_orlando_de_la_torre",
+      "name": "Orlando de la Torre",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1970_h_ctor_chumpitaz",
+      "name": "Héctor Chumpitaz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "peru_1970_nicol_s_fuentes",
+      "name": "Nicolás Fuentes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "peru_1970_ram_n_mifflin",
+      "name": "Ramón Mifflin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "peru_1970_roberto_challe",
+      "name": "Roberto Challe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "peru_1970_julio_bayl_n",
+      "name": "Julio Baylón",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "peru_1970_pedro_pablo_le_n",
+      "name": "Pedro Pablo León",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1970_te_filo_cubillas",
+      "name": "Teófilo Cubillas",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "peru_1970_alberto_gallardo",
+      "name": "Alberto Gallardo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "peru_1970_rub_n_correa",
+      "name": "Rubén Correa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1970_pedro_gonz_lez",
+      "name": "Pedro González",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "peru_1970_jos_fern_ndez",
+      "name": "José Fernández",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1970_javier_gonz_lez",
+      "name": "Javier González",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1970_f_lix_salinas",
+      "name": "Félix Salinas",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "peru_1970_luis_cruzado",
+      "name": "Luis Cruzado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "peru_1970_jos_del_castillo",
+      "name": "José del Castillo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1970_eladio_reyes",
+      "name": "Eladio Reyes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "peru_1970_hugo_sotil",
+      "name": "Hugo Sotil",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "peru_1970_jesus_goyzueta",
+      "name": "Jesus Goyzueta",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "peru_1970_oswaldo_ram_rez",
+      "name": "Oswaldo Ramírez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

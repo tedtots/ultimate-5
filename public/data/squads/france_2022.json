@@ -1,0 +1,190 @@
+{
+  "team": "France",
+  "year": 2022,
+  "nation_code": "FR",
+  "flag": "🇫🇷",
+  "players": [
+    {
+      "id": "france_2022_hugo_lloris",
+      "name": "Hugo Lloris",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_2022_benjamin_pavard",
+      "name": "Benjamin Pavard",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "france_2022_axel_disasi",
+      "name": "Axel Disasi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "france_2022_rapha_l_varane",
+      "name": "Raphaël Varane",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_2022_jules_kound",
+      "name": "Jules Koundé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "france_2022_matteo_guendouzi",
+      "name": "Matteo Guendouzi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "france_2022_antoine_griezmann",
+      "name": "Antoine Griezmann",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2022_aur_lien_tchouam_ni",
+      "name": "Aurélien Tchouaméni",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_2022_olivier_giroud",
+      "name": "Olivier Giroud",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2022_kylian_mbapp",
+      "name": "Kylian Mbappé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "france_2022_ousmane_demb_l",
+      "name": "Ousmane Dembélé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2022_randal_kolo_muani",
+      "name": "Randal Kolo Muani",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "france_2022_youssouf_fofana",
+      "name": "Youssouf Fofana",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "france_2022_adrien_rabiot",
+      "name": "Adrien Rabiot",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2022_jordan_veretout",
+      "name": "Jordan Veretout",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "france_2022_steve_mandanda",
+      "name": "Steve Mandanda",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "france_2022_william_saliba",
+      "name": "William Saliba",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_2022_dayot_upamecano",
+      "name": "Dayot Upamecano",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "france_2022_karim_benzema",
+      "name": "Karim Benzema",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "france_2022_kingsley_coman",
+      "name": "Kingsley Coman",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "france_2022_lucas_hernandez",
+      "name": "Lucas Hernandez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "france_2022_th_o_hernandez",
+      "name": "Théo Hernandez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "france_2022_alphonse_areola",
+      "name": "Alphonse Areola",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "france_2022_ibrahima_konat",
+      "name": "Ibrahima Konaté",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "france_2022_eduardo_camavinga",
+      "name": "Eduardo Camavinga",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "france_2022_marcus_thuram",
+      "name": "Marcus Thuram",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    }
+  ]
+}

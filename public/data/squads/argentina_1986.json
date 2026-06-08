@@ -1,0 +1,162 @@
+{
+  "team": "Argentina",
+  "year": 1986,
+  "nation_code": "AR",
+  "flag": "🇦🇷",
+  "players": [
+    {
+      "id": "argentina_1986_sergio_almir_n",
+      "name": "Sergio Almirón",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "argentina_1986_sergio_batista",
+      "name": "Sergio Batista",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "argentina_1986_ricardo_bochini",
+      "name": "Ricardo Bochini",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_1986_claudio_borghi",
+      "name": "Claudio Borghi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "argentina_1986_jos_luis_brown",
+      "name": "José Luis Brown",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_1986_daniel_passarella",
+      "name": "Daniel Passarella",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_1986_jorge_burruchaga",
+      "name": "Jorge Burruchaga",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_1986_n_stor_clausen",
+      "name": "Néstor Clausen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_1986_jos_luis_cuciuffo",
+      "name": "José Luis Cuciuffo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1986_diego_maradona",
+      "name": "Diego Maradona",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 99
+    },
+    {
+      "id": "argentina_1986_jorge_valdano",
+      "name": "Jorge Valdano",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1986_h_ctor_enrique",
+      "name": "Héctor Enrique",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_1986_oscar_garr",
+      "name": "Oscar Garré",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "argentina_1986_ricardo_giusti",
+      "name": "Ricardo Giusti",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "argentina_1986_luis_islas",
+      "name": "Luis Islas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1986_julio_olarticoechea",
+      "name": "Julio Olarticoechea",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_1986_pedro_pasculli",
+      "name": "Pedro Pasculli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_1986_nery_pumpido",
+      "name": "Nery Pumpido",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1986_oscar_ruggeri",
+      "name": "Oscar Ruggeri",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_1986_carlos_tapia",
+      "name": "Carlos Tapia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "argentina_1986_marcelo_trobbiani",
+      "name": "Marcelo Trobbiani",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "argentina_1986_h_ctor_zelada",
+      "name": "Héctor Zelada",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

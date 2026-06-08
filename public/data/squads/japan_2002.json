@@ -1,0 +1,169 @@
+{
+  "team": "Japan",
+  "year": 2002,
+  "nation_code": "jp",
+  "flag": "🇯🇵",
+  "players": [
+    {
+      "id": "japan_2002_yoshikatsu_kawaguchi",
+      "name": "Yoshikatsu Kawaguchi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "japan_2002_yutaka_akita",
+      "name": "Yutaka Akita",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2002_naoki_matsuda",
+      "name": "Naoki Matsuda",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2002_ryuzo_morioka",
+      "name": "Ryuzo Morioka",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "japan_2002_junichi_inamoto",
+      "name": "Junichi Inamoto",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "japan_2002_toshihiro_hattori",
+      "name": "Toshihiro Hattori",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "japan_2002_hidetoshi_nakata",
+      "name": "Hidetoshi Nakata",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2002_hiroaki_morishima",
+      "name": "Hiroaki Morishima",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2002_akinori_nishizawa",
+      "name": "Akinori Nishizawa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "japan_2002_masashi_nakayama",
+      "name": "Masashi Nakayama",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "japan_2002_takayuki_suzuki",
+      "name": "Takayuki Suzuki",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "japan_2002_seigo_narazaki",
+      "name": "Seigo Narazaki",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "japan_2002_atsushi_yanagisawa",
+      "name": "Atsushi Yanagisawa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2002_alessandro_santos",
+      "name": "Alessandro Santos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "japan_2002_takashi_fukunishi",
+      "name": "Takashi Fukunishi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "japan_2002_k_ji_nakata",
+      "name": "Kōji Nakata",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "japan_2002_tsuneyasu_miyamoto",
+      "name": "Tsuneyasu Miyamoto",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "japan_2002_shinji_ono",
+      "name": "Shinji Ono",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2002_mitsuo_ogasawara",
+      "name": "Mitsuo Ogasawara",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "japan_2002_tomokazu_myojin",
+      "name": "Tomokazu Myojin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2002_kazuyuki_toda",
+      "name": "Kazuyuki Toda",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "japan_2002_daisuke_ichikawa",
+      "name": "Daisuke Ichikawa",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "japan_2002_hitoshi_sogahata",
+      "name": "Hitoshi Sogahata",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    }
+  ]
+}

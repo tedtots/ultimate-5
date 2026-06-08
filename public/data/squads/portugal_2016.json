@@ -1,0 +1,57 @@
+{
+  "team": "Portugal",
+  "year": 2016,
+  "nation_code": "PT",
+  "flag": "🇵🇹",
+  "players": [
+    {
+      "id": "ronaldo_cr_2016",
+      "name": "Cristiano Ronaldo",
+      "position": "FWD",
+      "age_at_tournament": 31,
+      "overall": 95
+    },
+    {
+      "id": "quaresma_2016",
+      "name": "Ricardo Quaresma",
+      "position": "MID",
+      "age_at_tournament": 32,
+      "overall": 78
+    },
+    {
+      "id": "renato_sanches_2016",
+      "name": "Renato Sanches",
+      "position": "MID",
+      "age_at_tournament": 18,
+      "overall": 77
+    },
+    {
+      "id": "joao_mario_2016",
+      "name": "João Mário",
+      "position": "MID",
+      "age_at_tournament": 23,
+      "overall": 78
+    },
+    {
+      "id": "fonte_2016",
+      "name": "José Fonte",
+      "position": "DEF",
+      "age_at_tournament": 32,
+      "overall": 78
+    },
+    {
+      "id": "carvalho_rc_2016",
+      "name": "Ricardo Carvalho",
+      "position": "DEF",
+      "age_at_tournament": 38,
+      "overall": 76
+    },
+    {
+      "id": "patricio_2016",
+      "name": "Rui Patrício",
+      "position": "GK",
+      "age_at_tournament": 28,
+      "overall": 82
+    }
+  ]
+}

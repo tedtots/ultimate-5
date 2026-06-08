@@ -1,0 +1,162 @@
+{
+  "team": "Yugoslavia",
+  "year": 1974,
+  "nation_code": "rs",
+  "flag": "🇷🇸",
+  "players": [
+    {
+      "id": "yugoslavia_1974_enver_mari",
+      "name": "Enver Marić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1974_ivan_buljan",
+      "name": "Ivan Buljan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1974_enver_had_iabdi",
+      "name": "Enver Hadžiabdić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "yugoslavia_1974_dra_en_mu_ini",
+      "name": "Dražen Mužinić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "yugoslavia_1974_josip_katalinski",
+      "name": "Josip Katalinski",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "yugoslavia_1974_vladislav_bogi_evi",
+      "name": "Vladislav Bogićević",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "yugoslavia_1974_ilija_petkovi",
+      "name": "Ilija Petković",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "yugoslavia_1974_branko_oblak",
+      "name": "Branko Oblak",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "yugoslavia_1974_ivica_urjak",
+      "name": "Ivica Šurjak",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "yugoslavia_1974_jovan_a_imovi",
+      "name": "Jovan Aćimović",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "yugoslavia_1974_dragan_d_aji",
+      "name": "Dragan Džajić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "yugoslavia_1974_jurica_jerkovi",
+      "name": "Jurica Jerković",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1974_miroslav_pavlovi",
+      "name": "Miroslav Pavlović",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1974_luka_peruzovi",
+      "name": "Luka Peruzović",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "yugoslavia_1974_kiril_doj_inovski",
+      "name": "Kiril Dojčinovski",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1974_franjo_vladi",
+      "name": "Franjo Vladić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "yugoslavia_1974_danilo_popivoda",
+      "name": "Danilo Popivoda",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "yugoslavia_1974_stanislav_karasi",
+      "name": "Stanislav Karasi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "yugoslavia_1974_du_an_bajevi",
+      "name": "Dušan Bajević",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "yugoslavia_1974_vladimir_petrovi",
+      "name": "Vladimir Petrović",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "yugoslavia_1974_ognjen_petrovi",
+      "name": "Ognjen Petrović",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "yugoslavia_1974_rizah_me_kovi",
+      "name": "Rizah Mešković",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

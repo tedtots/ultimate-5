@@ -1,0 +1,162 @@
+{
+  "team": "West Germany",
+  "year": 1970,
+  "nation_code": "de",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "west_germany_1970_sepp_maier",
+      "name": "Sepp Maier",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "west_germany_1970_horst_dieter_h_ttges",
+      "name": "Horst-Dieter Höttges",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "west_germany_1970_karl_heinz_schnellinger",
+      "name": "Karl-Heinz Schnellinger",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "west_germany_1970_franz_beckenbauer",
+      "name": "Franz Beckenbauer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "west_germany_1970_willi_schulz",
+      "name": "Willi Schulz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "west_germany_1970_wolfgang_weber",
+      "name": "Wolfgang Weber",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "west_germany_1970_berti_vogts",
+      "name": "Berti Vogts",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "west_germany_1970_helmut_haller",
+      "name": "Helmut Haller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "west_germany_1970_uwe_seeler",
+      "name": "Uwe Seeler",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "west_germany_1970_sigfried_held",
+      "name": "Sigfried Held",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "west_germany_1970_klaus_fichtel",
+      "name": "Klaus Fichtel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "west_germany_1970_wolfgang_overath",
+      "name": "Wolfgang Overath",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "west_germany_1970_gerd_m_ller",
+      "name": "Gerd Müller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "west_germany_1970_reinhard_libuda",
+      "name": "Reinhard Libuda",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "west_germany_1970_bernd_patzke",
+      "name": "Bernd Patzke",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "west_germany_1970_max_lorenz",
+      "name": "Max Lorenz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "west_germany_1970_hannes_l_hr",
+      "name": "Hannes Löhr",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "west_germany_1970_klaus_dieter_sieloff",
+      "name": "Klaus-Dieter Sieloff",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "west_germany_1970_peter_dietrich",
+      "name": "Peter Dietrich",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "west_germany_1970_j_rgen_grabowski",
+      "name": "Jürgen Grabowski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "west_germany_1970_manfred_manglitz",
+      "name": "Manfred Manglitz",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "west_germany_1970_horst_wolter",
+      "name": "Horst Wolter",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "team": "Portugal",
+  "year": 2006,
+  "nation_code": "PT",
+  "flag": "🇵🇹",
+  "players": [
+    {
+      "id": "portugal_2006_not_applicable_ricardo",
+      "name": "Ricardo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2006_paulo_ferreira",
+      "name": "Paulo Ferreira",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2006_marco_caneira",
+      "name": "Marco Caneira",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "portugal_2006_ricardo_costa",
+      "name": "Ricardo Costa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "portugal_2006_fernando_meira",
+      "name": "Fernando Meira",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "portugal_2006_not_applicable_costinha",
+      "name": "Costinha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "portugal_2006_lu_s_figo",
+      "name": "Luís Figo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "portugal_2006_not_applicable_petit",
+      "name": "Petit",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "portugal_2006_not_applicable_pauleta",
+      "name": "Pauleta",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "portugal_2006_hugo_viana",
+      "name": "Hugo Viana",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "portugal_2006_not_applicable_sim_o",
+      "name": "Simão",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "portugal_2006_not_applicable_quim",
+      "name": "Quim",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "portugal_2006_not_applicable_miguel",
+      "name": "Miguel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "portugal_2006_nuno_valente",
+      "name": "Nuno Valente",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "portugal_2006_lu_s_boa_morte",
+      "name": "Luís Boa Morte",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "portugal_2006_ricardo_carvalho",
+      "name": "Ricardo Carvalho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "portugal_2006_cristiano_ronaldo",
+      "name": "Cristiano Ronaldo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "portugal_2006_not_applicable_maniche",
+      "name": "Maniche",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "portugal_2006_not_applicable_tiago",
+      "name": "Tiago",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "portugal_2006_not_applicable_deco",
+      "name": "Deco",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "portugal_2006_nuno_gomes",
+      "name": "Nuno Gomes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "portugal_2006_paulo_santos",
+      "name": "Paulo Santos",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "portugal_2006_h_lder_postiga",
+      "name": "Hélder Postiga",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    }
+  ]
+}

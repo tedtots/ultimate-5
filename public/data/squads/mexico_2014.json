@@ -1,0 +1,169 @@
+{
+  "team": "Mexico",
+  "year": 2014,
+  "nation_code": "mx",
+  "flag": "🇲🇽",
+  "players": [
+    {
+      "id": "mexico_2014_jos_de_jes_s_corona",
+      "name": "José de Jesús Corona",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2014_francisco_javier_rodr_guez",
+      "name": "Francisco Javier Rodríguez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "mexico_2014_carlos_salcido",
+      "name": "Carlos Salcido",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2014_rafael_m_rquez",
+      "name": "Rafael Márquez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2014_diego_reyes",
+      "name": "Diego Reyes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_2014_h_ctor_herrera",
+      "name": "Héctor Herrera",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2014_miguel_lay_n",
+      "name": "Miguel Layún",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2014_marco_fabi_n",
+      "name": "Marco Fabián",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "mexico_2014_ra_l_jim_nez",
+      "name": "Raúl Jiménez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2014_giovani_dos_santos",
+      "name": "Giovani dos Santos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_2014_alan_pulido",
+      "name": "Alan Pulido",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2014_alfredo_talavera",
+      "name": "Alfredo Talavera",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2014_guillermo_ochoa",
+      "name": "Guillermo Ochoa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2014_javier_hern_ndez",
+      "name": "Javier Hernández",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2014_h_ctor_moreno",
+      "name": "Héctor Moreno",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2014_miguel_ngel_ponce",
+      "name": "Miguel Ángel Ponce",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "mexico_2014_isa_c_brizuela",
+      "name": "Isaác Brizuela",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "mexico_2014_andr_s_guardado",
+      "name": "Andrés Guardado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "mexico_2014_oribe_peralta",
+      "name": "Oribe Peralta",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "mexico_2014_javier_aquino",
+      "name": "Javier Aquino",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "mexico_2014_carlos_pe_a",
+      "name": "Carlos Peña",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2014_paul_aguilar",
+      "name": "Paul Aguilar",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "mexico_2014_jos_juan_v_zquez",
+      "name": "José Juan Vázquez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    }
+  ]
+}

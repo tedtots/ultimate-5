@@ -1,0 +1,169 @@
+{
+  "team": "Argentina",
+  "year": 2006,
+  "nation_code": "AR",
+  "flag": "🇦🇷",
+  "players": [
+    {
+      "id": "argentina_2006_roberto_abbondanzieri",
+      "name": "Roberto Abbondanzieri",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_2006_roberto_ayala",
+      "name": "Roberto Ayala",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_2006_juan_pablo_sor_n",
+      "name": "Juan Pablo Sorín",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2006_fabricio_coloccini",
+      "name": "Fabricio Coloccini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2006_esteban_cambiasso",
+      "name": "Esteban Cambiasso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "argentina_2006_gabriel_heinze",
+      "name": "Gabriel Heinze",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "argentina_2006_javier_saviola",
+      "name": "Javier Saviola",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_2006_javier_mascherano",
+      "name": "Javier Mascherano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_2006_hern_n_crespo",
+      "name": "Hernán Crespo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "argentina_2006_juan_rom_n_riquelme",
+      "name": "Juan Román Riquelme",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "argentina_2006_carlos_tevez",
+      "name": "Carlos Tevez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "argentina_2006_leo_franco",
+      "name": "Leo Franco",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_2006_lionel_scaloni",
+      "name": "Lionel Scaloni",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "argentina_2006_rodrigo_palacio",
+      "name": "Rodrigo Palacio",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "argentina_2006_gabriel_milito",
+      "name": "Gabriel Milito",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2006_pablo_aimar",
+      "name": "Pablo Aimar",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2006_leandro_cufr",
+      "name": "Leandro Cufré",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2006_maxi_rodr_guez",
+      "name": "Maxi Rodríguez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "argentina_2006_lionel_messi",
+      "name": "Lionel Messi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "argentina_2006_julio_cruz",
+      "name": "Julio Cruz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "argentina_2006_nicol_s_burdisso",
+      "name": "Nicolás Burdisso",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "argentina_2006_lucho_gonz_lez",
+      "name": "Lucho González",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "argentina_2006_scar_ustari",
+      "name": "Óscar Ustari",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    }
+  ]
+}

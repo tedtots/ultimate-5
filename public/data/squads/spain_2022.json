@@ -1,0 +1,190 @@
+{
+  "team": "Spain",
+  "year": 2022,
+  "nation_code": "ES",
+  "flag": "🇪🇸",
+  "players": [
+    {
+      "id": "spain_2022_robert_s_nchez",
+      "name": "Robert Sánchez",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2022_c_sar_azpilicueta",
+      "name": "César Azpilicueta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "spain_2022_eric_garc_a",
+      "name": "Eric García",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "spain_2022_pau_torres",
+      "name": "Pau Torres",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_sergio_busquets",
+      "name": "Sergio Busquets",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2022_marcos_llorente",
+      "name": "Marcos Llorente",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2022_lvaro_morata",
+      "name": "Álvaro Morata",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "spain_2022_not_applicable_koke",
+      "name": "Koke",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "spain_2022_not_applicable_gavi",
+      "name": "Gavi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2022_marco_asensio",
+      "name": "Marco Asensio",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_ferran_torres",
+      "name": "Ferran Torres",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_nico_williams",
+      "name": "Nico Williams",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_david_raya",
+      "name": "David Raya",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "spain_2022_alejandro_balde",
+      "name": "Alejandro Balde",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "spain_2022_hugo_guillam_n",
+      "name": "Hugo Guillamón",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2022_not_applicable_rodri",
+      "name": "Rodri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "spain_2022_yeremy_pino",
+      "name": "Yeremy Pino",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "spain_2022_jordi_alba",
+      "name": "Jordi Alba",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_carlos_soler",
+      "name": "Carlos Soler",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "spain_2022_dani_carvajal",
+      "name": "Dani Carvajal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "spain_2022_dani_olmo",
+      "name": "Dani Olmo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "spain_2022_pablo_sarabia",
+      "name": "Pablo Sarabia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2022_unai_sim_n",
+      "name": "Unai Simón",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "spain_2022_aymeric_laporte",
+      "name": "Aymeric Laporte",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "spain_2022_ansu_fati",
+      "name": "Ansu Fati",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "spain_2022_not_applicable_pedri",
+      "name": "Pedri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

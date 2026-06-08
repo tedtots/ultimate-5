@@ -1,0 +1,162 @@
+{
+  "team": "Mexico",
+  "year": 1986,
+  "nation_code": "mx",
+  "flag": "🇲🇽",
+  "players": [
+    {
+      "id": "mexico_1986_pablo_larios",
+      "name": "Pablo Larios",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "mexico_1986_mario_trejo",
+      "name": "Mario Trejo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_1986_fernando_quirarte",
+      "name": "Fernando Quirarte",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "mexico_1986_armando_manzo",
+      "name": "Armando Manzo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_1986_francisco_javier_cruz",
+      "name": "Francisco Javier Cruz",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_1986_carlos_de_los_cobos",
+      "name": "Carlos de los Cobos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "mexico_1986_miguel_espa_a",
+      "name": "Miguel España",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_1986_alejandro_dom_nguez",
+      "name": "Alejandro Domínguez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_1986_hugo_s_nchez",
+      "name": "Hugo Sánchez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "mexico_1986_tom_s_boy",
+      "name": "Tomás Boy",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_1986_carlos_hermosillo",
+      "name": "Carlos Hermosillo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_1986_ignacio_rodr_guez",
+      "name": "Ignacio Rodríguez",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_1986_javier_aguirre",
+      "name": "Javier Aguirre",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_1986_felix_cruz",
+      "name": "Felix Cruz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_1986_luis_flores",
+      "name": "Luis Flores",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "mexico_1986_carlos_mu_oz",
+      "name": "Carlos Muñoz",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "mexico_1986_ra_l_serv_n",
+      "name": "Raúl Servín",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "mexico_1986_rafael_amador",
+      "name": "Rafael Amador",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_1986_javier_hern_ndez",
+      "name": "Javier Hernández",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "mexico_1986_olaf_heredia",
+      "name": "Olaf Heredia",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_1986_crist_bal_ortega",
+      "name": "Cristóbal Ortega",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_1986_manuel_negrete",
+      "name": "Manuel Negrete",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

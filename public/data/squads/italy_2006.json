@@ -1,0 +1,169 @@
+{
+  "team": "Italy",
+  "year": 2006,
+  "nation_code": "IT",
+  "flag": "🇮🇹",
+  "players": [
+    {
+      "id": "italy_2006_gianluigi_buffon",
+      "name": "Gianluigi Buffon",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "italy_2006_cristian_zaccardo",
+      "name": "Cristian Zaccardo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "italy_2006_fabio_grosso",
+      "name": "Fabio Grosso",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "italy_2006_daniele_de_rossi",
+      "name": "Daniele De Rossi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "italy_2006_fabio_cannavaro",
+      "name": "Fabio Cannavaro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "italy_2006_andrea_barzagli",
+      "name": "Andrea Barzagli",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_2006_alessandro_del_piero",
+      "name": "Alessandro Del Piero",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "italy_2006_gennaro_gattuso",
+      "name": "Gennaro Gattuso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_2006_luca_toni",
+      "name": "Luca Toni",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_2006_francesco_totti",
+      "name": "Francesco Totti",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "italy_2006_alberto_gilardino",
+      "name": "Alberto Gilardino",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "italy_2006_angelo_peruzzi",
+      "name": "Angelo Peruzzi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_2006_alessandro_nesta",
+      "name": "Alessandro Nesta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "italy_2006_marco_amelia",
+      "name": "Marco Amelia",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "italy_2006_vincenzo_iaquinta",
+      "name": "Vincenzo Iaquinta",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "italy_2006_mauro_camoranesi",
+      "name": "Mauro Camoranesi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "italy_2006_simone_barone",
+      "name": "Simone Barone",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "italy_2006_filippo_inzaghi",
+      "name": "Filippo Inzaghi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_2006_gianluca_zambrotta",
+      "name": "Gianluca Zambrotta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "italy_2006_simone_perrotta",
+      "name": "Simone Perrotta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "italy_2006_andrea_pirlo",
+      "name": "Andrea Pirlo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "italy_2006_massimo_oddo",
+      "name": "Massimo Oddo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "italy_2006_marco_materazzi",
+      "name": "Marco Materazzi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    }
+  ]
+}

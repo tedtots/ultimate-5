@@ -1,0 +1,169 @@
+{
+  "team": "Australia",
+  "year": 2006,
+  "nation_code": "au",
+  "flag": "🇦🇺",
+  "players": [
+    {
+      "id": "australia_2006_mark_schwarzer",
+      "name": "Mark Schwarzer",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "australia_2006_lucas_neill",
+      "name": "Lucas Neill",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "australia_2006_craig_moore",
+      "name": "Craig Moore",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "australia_2006_tim_cahill",
+      "name": "Tim Cahill",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "australia_2006_jason_culina",
+      "name": "Jason Culina",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "australia_2006_tony_popovic",
+      "name": "Tony Popovic",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "australia_2006_brett_emerton",
+      "name": "Brett Emerton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "australia_2006_josip_skoko",
+      "name": "Josip Skoko",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "australia_2006_mark_viduka",
+      "name": "Mark Viduka",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "australia_2006_harry_kewell",
+      "name": "Harry Kewell",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "australia_2006_stan_lazaridis",
+      "name": "Stan Lazaridis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "australia_2006_ante_covic",
+      "name": "Ante Covic",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "australia_2006_vince_grella",
+      "name": "Vince Grella",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "australia_2006_scott_chipperfield",
+      "name": "Scott Chipperfield",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "australia_2006_john_aloisi",
+      "name": "John Aloisi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "australia_2006_michael_beauchamp",
+      "name": "Michael Beauchamp",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "australia_2006_archie_thompson",
+      "name": "Archie Thompson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "australia_2006_zeljko_kalac",
+      "name": "Zeljko Kalac",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "australia_2006_joshua_kennedy",
+      "name": "Joshua Kennedy",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "australia_2006_luke_wilkshire",
+      "name": "Luke Wilkshire",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "australia_2006_mile_sterjovski",
+      "name": "Mile Sterjovski",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "australia_2006_mark_milligan",
+      "name": "Mark Milligan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "australia_2006_mark_bresciano",
+      "name": "Mark Bresciano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    }
+  ]
+}

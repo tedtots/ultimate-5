@@ -1,0 +1,169 @@
+{
+  "team": "Brazil",
+  "year": 2006,
+  "nation_code": "BR",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_2006_not_applicable_dida",
+      "name": "Dida",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_2006_not_applicable_cafu",
+      "name": "Cafu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_2006_not_applicable_l_cio",
+      "name": "Lúcio",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_2006_not_applicable_juan",
+      "name": "Juan",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2006_not_applicable_emerson",
+      "name": "Emerson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_2006_roberto_carlos",
+      "name": "Roberto Carlos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2006_not_applicable_adriano",
+      "name": "Adriano",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_2006_not_applicable_kak",
+      "name": "Kaká",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2006_not_applicable_ronaldo",
+      "name": "Ronaldo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_2006_not_applicable_ronaldinho",
+      "name": "Ronaldinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_2006_not_applicable_z_roberto",
+      "name": "Zé Roberto",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2006_rog_rio_ceni",
+      "name": "Rogério Ceni",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2006_not_applicable_cicinho",
+      "name": "Cicinho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2006_not_applicable_luis_o",
+      "name": "Luisão",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2006_not_applicable_cris",
+      "name": "Cris",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2006_not_applicable_gilberto",
+      "name": "Gilberto",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_2006_gilberto_silva",
+      "name": "Gilberto Silva",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_2006_not_applicable_mineiro",
+      "name": "Mineiro",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2006_juninho_pernambucano",
+      "name": "Juninho Pernambucano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_2006_not_applicable_ricardinho",
+      "name": "Ricardinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_2006_not_applicable_fred",
+      "name": "Fred",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "brazil_2006_j_lio_c_sar",
+      "name": "Júlio César",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_2006_not_applicable_robinho",
+      "name": "Robinho",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    }
+  ]
+}

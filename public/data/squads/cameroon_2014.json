@@ -1,0 +1,169 @@
+{
+  "team": "Cameroon",
+  "year": 2014,
+  "nation_code": "cm",
+  "flag": "🇨🇲",
+  "players": [
+    {
+      "id": "cameroon_2014_lo_c_feudjou",
+      "name": "Loïc Feudjou",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "cameroon_2014_beno_t_assou_ekotto",
+      "name": "Benoît Assou-Ekotto",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "cameroon_2014_nicolas_nkoulou",
+      "name": "Nicolas Nkoulou",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "cameroon_2014_c_dric_djeugou",
+      "name": "Cédric Djeugoué",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "cameroon_2014_dany_nounkeu",
+      "name": "Dany Nounkeu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2014_alex_song",
+      "name": "Alex Song",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "cameroon_2014_landry_n_gu_mo",
+      "name": "Landry N'Guémo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2014_benjamin_moukandjo",
+      "name": "Benjamin Moukandjo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2014_samuel_eto_o",
+      "name": "Samuel Eto'o",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2014_vincent_aboubakar",
+      "name": "Vincent Aboubakar",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_2014_jean_makoun",
+      "name": "Jean Makoun",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "cameroon_2014_henri_bedimo",
+      "name": "Henri Bedimo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "cameroon_2014_eric_maxim_choupo_moting",
+      "name": "Eric Maxim Choupo-Moting",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "cameroon_2014_aur_lien_chedjou",
+      "name": "Aurélien Chedjou",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "cameroon_2014_pierre_web",
+      "name": "Pierre Webó",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "cameroon_2014_charles_itandje",
+      "name": "Charles Itandje",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "cameroon_2014_st_phane_mbia",
+      "name": "Stéphane Mbia",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 65
+    },
+    {
+      "id": "cameroon_2014_eyong_enoh",
+      "name": "Eyong Enoh",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "cameroon_2014_fabrice_olinga",
+      "name": "Fabrice Olinga",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "cameroon_2014_edgar_salli",
+      "name": "Edgar Salli",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 66
+    },
+    {
+      "id": "cameroon_2014_jo_l_matip",
+      "name": "Joël Matip",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 67
+    },
+    {
+      "id": "cameroon_2014_allan_nyom",
+      "name": "Allan Nyom",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 64
+    },
+    {
+      "id": "cameroon_2014_sammy_ndjock",
+      "name": "Sammy Ndjock",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 68
+    }
+  ]
+}

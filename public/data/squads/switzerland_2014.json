@@ -1,0 +1,169 @@
+{
+  "team": "Switzerland",
+  "year": 2014,
+  "nation_code": "ch",
+  "flag": "🇨🇭",
+  "players": [
+    {
+      "id": "switzerland_2014_diego_benaglio",
+      "name": "Diego Benaglio",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "switzerland_2014_stephan_lichtsteiner",
+      "name": "Stephan Lichtsteiner",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "switzerland_2014_reto_ziegler",
+      "name": "Reto Ziegler",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "switzerland_2014_philippe_senderos",
+      "name": "Philippe Senderos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2014_steve_von_bergen",
+      "name": "Steve von Bergen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2014_michael_lang",
+      "name": "Michael Lang",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "switzerland_2014_tranquillo_barnetta",
+      "name": "Tranquillo Barnetta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2014_g_khan_inler",
+      "name": "Gökhan Inler",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2014_haris_seferovic",
+      "name": "Haris Seferovic",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2014_granit_xhaka",
+      "name": "Granit Xhaka",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2014_valon_behrami",
+      "name": "Valon Behrami",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "switzerland_2014_yann_sommer",
+      "name": "Yann Sommer",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "switzerland_2014_ricardo_rodr_guez",
+      "name": "Ricardo Rodríguez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "switzerland_2014_valentin_stocker",
+      "name": "Valentin Stocker",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "switzerland_2014_blerim_d_emaili",
+      "name": "Blerim Džemaili",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2014_g_lson_fernandes",
+      "name": "Gélson Fernandes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "switzerland_2014_mario_gavranovi",
+      "name": "Mario Gavranović",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "switzerland_2014_admir_mehmedi",
+      "name": "Admir Mehmedi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "switzerland_2014_josip_drmi",
+      "name": "Josip Drmić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "switzerland_2014_johan_djourou",
+      "name": "Johan Djourou",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "switzerland_2014_roman_b_rki",
+      "name": "Roman Bürki",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "switzerland_2014_fabian_sch_r",
+      "name": "Fabian Schär",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "switzerland_2014_xherdan_shaqiri",
+      "name": "Xherdan Shaqiri",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    }
+  ]
+}

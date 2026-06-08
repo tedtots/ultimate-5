@@ -1,0 +1,162 @@
+{
+  "team": "Bulgaria",
+  "year": 1994,
+  "nation_code": "bg",
+  "flag": "🇧🇬",
+  "players": [
+    {
+      "id": "bulgaria_1994_borislav_mihaylov",
+      "name": "Borislav Mihaylov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "bulgaria_1994_emil_kremenliev",
+      "name": "Emil Kremenliev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "bulgaria_1994_trifon_ivanov",
+      "name": "Trifon Ivanov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "bulgaria_1994_tsanko_tsvetanov",
+      "name": "Tsanko Tsvetanov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "bulgaria_1994_petar_hubchev",
+      "name": "Petar Hubchev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "bulgaria_1994_zlatko_yankov",
+      "name": "Zlatko Yankov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "bulgaria_1994_emil_kostadinov",
+      "name": "Emil Kostadinov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "bulgaria_1994_hristo_stoichkov",
+      "name": "Hristo Stoichkov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "bulgaria_1994_yordan_letchkov",
+      "name": "Yordan Letchkov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "bulgaria_1994_nasko_sirakov",
+      "name": "Nasko Sirakov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "bulgaria_1994_daniel_borimirov",
+      "name": "Daniel Borimirov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "bulgaria_1994_plamen_nikolov",
+      "name": "Plamen Nikolov",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "bulgaria_1994_ivaylo_yordanov",
+      "name": "Ivaylo Yordanov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "bulgaria_1994_boncho_genchev",
+      "name": "Boncho Genchev",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "bulgaria_1994_nikolay_iliev",
+      "name": "Nikolay Iliev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "bulgaria_1994_iliyan_kiryakov",
+      "name": "Iliyan Kiryakov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "bulgaria_1994_petar_mihtarski",
+      "name": "Petar Mihtarski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "bulgaria_1994_petar_aleksandrov",
+      "name": "Petar Aleksandrov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "bulgaria_1994_georgi_georgiev",
+      "name": "Georgi Georgiev",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "bulgaria_1994_krasimir_balakov",
+      "name": "Krasimir Balakov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "bulgaria_1994_velko_yotov",
+      "name": "Velko Yotov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "bulgaria_1994_ivaylo_andonov",
+      "name": "Ivaylo Andonov",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    }
+  ]
+}

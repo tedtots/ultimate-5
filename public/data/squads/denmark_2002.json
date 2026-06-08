@@ -1,0 +1,169 @@
+{
+  "team": "Denmark",
+  "year": 2002,
+  "nation_code": "DK",
+  "flag": "🇩🇰",
+  "players": [
+    {
+      "id": "denmark_2002_thomas_s_rensen",
+      "name": "Thomas Sørensen",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "denmark_2002_stig_t_fting",
+      "name": "Stig Tøfting",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "denmark_2002_ren_henriksen",
+      "name": "René Henriksen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "denmark_2002_martin_laursen",
+      "name": "Martin Laursen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "denmark_2002_jan_heintze",
+      "name": "Jan Heintze",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "denmark_2002_thomas_helveg",
+      "name": "Thomas Helveg",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "denmark_2002_thomas_gravesen",
+      "name": "Thomas Gravesen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "denmark_2002_jesper_gr_nkj_r",
+      "name": "Jesper Grønkjær",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "denmark_2002_jon_dahl_tomasson",
+      "name": "Jon Dahl Tomasson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "denmark_2002_martin_j_rgensen",
+      "name": "Martin Jørgensen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "denmark_2002_ebbe_sand",
+      "name": "Ebbe Sand",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "denmark_2002_niclas_jensen",
+      "name": "Niclas Jensen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "denmark_2002_steven_lust",
+      "name": "Steven Lustü",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "denmark_2002_claus_jensen",
+      "name": "Claus Jensen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "denmark_2002_jan_michaelsen",
+      "name": "Jan Michaelsen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "denmark_2002_peter_kj_r",
+      "name": "Peter Kjær",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "denmark_2002_christian_poulsen",
+      "name": "Christian Poulsen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "denmark_2002_peter_l_venkrands",
+      "name": "Peter Løvenkrands",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "denmark_2002_dennis_rommedahl",
+      "name": "Dennis Rommedahl",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "denmark_2002_kasper_b_gelund",
+      "name": "Kasper Bøgelund",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "denmark_2002_peter_madsen",
+      "name": "Peter Madsen",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "denmark_2002_jesper_christiansen",
+      "name": "Jesper Christiansen",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "denmark_2002_brian_steen_nielsen",
+      "name": "Brian Steen Nielsen",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    }
+  ]
+}

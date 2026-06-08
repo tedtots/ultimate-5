@@ -1,0 +1,162 @@
+{
+  "team": "Brazil",
+  "year": 1962,
+  "nation_code": "br",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_1962_not_applicable_gilmar",
+      "name": "Gilmar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1962_djalma_santos",
+      "name": "Djalma Santos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1962_mauro_ramos",
+      "name": "Mauro Ramos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1962_not_applicable_zito",
+      "name": "Zito",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1962_not_applicable_z_zimo",
+      "name": "Zózimo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1962_n_lton_santos",
+      "name": "Nílton Santos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1962_not_applicable_garrincha",
+      "name": "Garrincha",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1962_not_applicable_didi",
+      "name": "Didi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1962_not_applicable_coutinho",
+      "name": "Coutinho",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1962_not_applicable_pel",
+      "name": "Pelé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1962_not_applicable_pepe",
+      "name": "Pepe",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1962_jair_marinho",
+      "name": "Jair Marinho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1962_hilderaldo_bellini",
+      "name": "Hilderaldo Bellini",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1962_not_applicable_jurandir",
+      "name": "Jurandir",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1962_not_applicable_altair",
+      "name": "Altair",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1962_not_applicable_zequinha",
+      "name": "Zequinha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1962_not_applicable_meng_lvio",
+      "name": "Mengálvio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1962_jair_da_costa",
+      "name": "Jair da Costa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1962_not_applicable_vav",
+      "name": "Vavá",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1962_not_applicable_amarildo",
+      "name": "Amarildo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "brazil_1962_m_rio_zagallo",
+      "name": "Mário Zagallo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "brazil_1962_carlos_jos_castilho",
+      "name": "Carlos José Castilho",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

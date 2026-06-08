@@ -1,0 +1,169 @@
+{
+  "team": "Mexico",
+  "year": 2006,
+  "nation_code": "MX",
+  "flag": "🇲🇽",
+  "players": [
+    {
+      "id": "mexico_2006_oswaldo_s_nchez",
+      "name": "Oswaldo Sánchez",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "mexico_2006_claudio_su_rez",
+      "name": "Claudio Suárez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "mexico_2006_carlos_salcido",
+      "name": "Carlos Salcido",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2006_rafael_m_rquez",
+      "name": "Rafael Márquez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "mexico_2006_ricardo_osorio",
+      "name": "Ricardo Osorio",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "mexico_2006_gerardo_torrado",
+      "name": "Gerardo Torrado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2006_not_applicable_sinha",
+      "name": "Sinha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "mexico_2006_p_vel_pardo",
+      "name": "Pável Pardo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "mexico_2006_jared_borgetti",
+      "name": "Jared Borgetti",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "mexico_2006_guillermo_franco",
+      "name": "Guillermo Franco",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "mexico_2006_ram_n_morales",
+      "name": "Ramón Morales",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "mexico_2006_jos_de_jes_s_corona",
+      "name": "José de Jesús Corona",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "mexico_2006_guillermo_ochoa",
+      "name": "Guillermo Ochoa",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "mexico_2006_gonzalo_pineda",
+      "name": "Gonzalo Pineda",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2006_jos_antonio_castro",
+      "name": "José Antonio Castro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "mexico_2006_mario_m_ndez",
+      "name": "Mario Méndez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2006_francisco_fonseca",
+      "name": "Francisco Fonseca",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "mexico_2006_andr_s_guardado",
+      "name": "Andrés Guardado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "mexico_2006_omar_bravo",
+      "name": "Omar Bravo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "mexico_2006_rafael_garc_a",
+      "name": "Rafael García",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "mexico_2006_jes_s_arellano",
+      "name": "Jesús Arellano",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "mexico_2006_francisco_javier_rodr_guez",
+      "name": "Francisco Javier Rodríguez",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "mexico_2006_luis_ernesto_p_rez",
+      "name": "Luis Ernesto Pérez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

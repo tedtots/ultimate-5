@@ -1,0 +1,169 @@
+{
+  "team": "England",
+  "year": 2006,
+  "nation_code": "gb-eng",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_2006_paul_robinson",
+      "name": "Paul Robinson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_2006_gary_neville",
+      "name": "Gary Neville",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2006_ashley_cole",
+      "name": "Ashley Cole",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2006_steven_gerrard",
+      "name": "Steven Gerrard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_2006_rio_ferdinand",
+      "name": "Rio Ferdinand",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2006_john_terry",
+      "name": "John Terry",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_2006_david_beckham",
+      "name": "David Beckham",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2006_frank_lampard",
+      "name": "Frank Lampard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2006_wayne_rooney",
+      "name": "Wayne Rooney",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_2006_michael_owen",
+      "name": "Michael Owen",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2006_joe_cole",
+      "name": "Joe Cole",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_2006_sol_campbell",
+      "name": "Sol Campbell",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "england_2006_david_james",
+      "name": "David James",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_2006_wayne_bridge",
+      "name": "Wayne Bridge",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_2006_jamie_carragher",
+      "name": "Jamie Carragher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_2006_owen_hargreaves",
+      "name": "Owen Hargreaves",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "england_2006_jermaine_jenas",
+      "name": "Jermaine Jenas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_2006_michael_carrick",
+      "name": "Michael Carrick",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_2006_aaron_lennon",
+      "name": "Aaron Lennon",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_2006_stewart_downing",
+      "name": "Stewart Downing",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_2006_peter_crouch",
+      "name": "Peter Crouch",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_2006_scott_carson",
+      "name": "Scott Carson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "england_2006_theo_walcott",
+      "name": "Theo Walcott",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

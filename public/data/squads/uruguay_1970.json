@@ -1,0 +1,162 @@
+{
+  "team": "Uruguay",
+  "year": 1970,
+  "nation_code": "UY",
+  "flag": "🇺🇾",
+  "players": [
+    {
+      "id": "uruguay_1970_ladislao_mazurkiewicz",
+      "name": "Ladislao Mazurkiewicz",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "uruguay_1970_atilio_ancheta",
+      "name": "Atilio Ancheta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "uruguay_1970_roberto_matosas",
+      "name": "Roberto Matosas",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "uruguay_1970_luis_ubi_a",
+      "name": "Luis Ubiña",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "uruguay_1970_julio_montero_castillo",
+      "name": "Julio Montero Castillo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "uruguay_1970_juan_mujica",
+      "name": "Juan Mujica",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "uruguay_1970_luis_cubilla",
+      "name": "Luis Cubilla",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "uruguay_1970_pedro_rocha",
+      "name": "Pedro Rocha",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "uruguay_1970_v_ctor_esp_rrago",
+      "name": "Víctor Espárrago",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "uruguay_1970_ildo_maneiro",
+      "name": "Ildo Maneiro",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "uruguay_1970_julio_morales",
+      "name": "Julio Morales",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "uruguay_1970_h_ctor_santos",
+      "name": "Héctor Santos",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "uruguay_1970_rodolfo_sandoval",
+      "name": "Rodolfo Sandoval",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "uruguay_1970_francisco_c_mera",
+      "name": "Francisco Cámera",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "uruguay_1970_dagoberto_fontes",
+      "name": "Dagoberto Fontes",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "uruguay_1970_omar_caetano",
+      "name": "Omar Caetano",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "uruguay_1970_r_ben_bare_o",
+      "name": "Rúben Bareño",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "uruguay_1970_alberto_g_mez",
+      "name": "Alberto Gómez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "uruguay_1970_oscar_zubia",
+      "name": "Oscar Zubia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "uruguay_1970_julio_c_sar_cort_s",
+      "name": "Julio César Cortés",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "uruguay_1970_julio_losada",
+      "name": "Julio Losada",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "uruguay_1970_walter_corbo",
+      "name": "Walter Corbo",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    }
+  ]
+}

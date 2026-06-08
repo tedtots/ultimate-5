@@ -1,0 +1,169 @@
+{
+  "team": "USA",
+  "year": 2002,
+  "nation_code": "US",
+  "flag": "🇺🇸",
+  "players": [
+    {
+      "id": "usa_2002_brad_friedel",
+      "name": "Brad Friedel",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "usa_2002_frankie_hejduk",
+      "name": "Frankie Hejduk",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "usa_2002_gregg_berhalter",
+      "name": "Gregg Berhalter",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "usa_2002_pablo_mastroeni",
+      "name": "Pablo Mastroeni",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "usa_2002_john_o_brien",
+      "name": "John O'Brien",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "usa_2002_david_regis",
+      "name": "David Regis",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "usa_2002_eddie_lewis",
+      "name": "Eddie Lewis",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2002_earnie_stewart",
+      "name": "Earnie Stewart",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2002_joe_max_moore",
+      "name": "Joe-Max Moore",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "usa_2002_claudio_reyna",
+      "name": "Claudio Reyna",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "usa_2002_clint_mathis",
+      "name": "Clint Mathis",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "usa_2002_jeff_agoos",
+      "name": "Jeff Agoos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "usa_2002_cobi_jones",
+      "name": "Cobi Jones",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "usa_2002_steve_cherundolo",
+      "name": "Steve Cherundolo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "usa_2002_josh_wolff",
+      "name": "Josh Wolff",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "usa_2002_carlos_llamosa",
+      "name": "Carlos Llamosa",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "usa_2002_damarcus_beasley",
+      "name": "DaMarcus Beasley",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "usa_2002_kasey_keller",
+      "name": "Kasey Keller",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "usa_2002_tony_meola",
+      "name": "Tony Meola",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "usa_2002_brian_mcbride",
+      "name": "Brian McBride",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "usa_2002_landon_donovan",
+      "name": "Landon Donovan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "usa_2002_tony_sanneh",
+      "name": "Tony Sanneh",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "usa_2002_eddie_pope",
+      "name": "Eddie Pope",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    }
+  ]
+}

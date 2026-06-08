@@ -1,0 +1,162 @@
+{
+  "team": "Sweden",
+  "year": 1958,
+  "nation_code": "se",
+  "flag": "🇸🇪",
+  "players": [
+    {
+      "id": "sweden_1958_kalle_svensson",
+      "name": "Kalle Svensson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "sweden_1958_orvar_bergmark",
+      "name": "Orvar Bergmark",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "sweden_1958_sven_axbom",
+      "name": "Sven Axbom",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "sweden_1958_nils_liedholm",
+      "name": "Nils Liedholm",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "sweden_1958_ke_johansson",
+      "name": "Åke Johansson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "sweden_1958_sigge_parling",
+      "name": "Sigge Parling",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "sweden_1958_kurt_hamrin",
+      "name": "Kurt Hamrin",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "sweden_1958_gunnar_gren",
+      "name": "Gunnar Gren",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1958_agne_simonsson",
+      "name": "Agne Simonsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "sweden_1958_arne_selmosson",
+      "name": "Arne Selmosson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "sweden_1958_lennart_skoglund",
+      "name": "Lennart Skoglund",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "sweden_1958_tore_svensson",
+      "name": "Tore Svensson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "sweden_1958_prawitz_berg",
+      "name": "Prawitz Öberg",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "sweden_1958_bengt_gustavsson",
+      "name": "Bengt Gustavsson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1958_reino_b_rjesson",
+      "name": "Reino Börjesson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "sweden_1958_ingemar_haraldsson",
+      "name": "Ingemar Haraldsson",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "sweden_1958_olle_h_kansson",
+      "name": "Olle Håkansson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "sweden_1958_g_sta_l_fgren",
+      "name": "Gösta Löfgren",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "sweden_1958_henry_k_llgren",
+      "name": "Henry Källgren",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "sweden_1958_bror_mellberg",
+      "name": "Bror Mellberg",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "sweden_1958_bengt_berndtsson",
+      "name": "Bengt Berndtsson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "sweden_1958_owe_ohlsson",
+      "name": "Owe Ohlsson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    }
+  ]
+}

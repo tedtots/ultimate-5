@@ -1,0 +1,169 @@
+{
+  "team": "Spain",
+  "year": 2014,
+  "nation_code": "ES",
+  "flag": "🇪🇸",
+  "players": [
+    {
+      "id": "spain_2014_iker_casillas",
+      "name": "Iker Casillas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "spain_2014_ra_l_albiol",
+      "name": "Raúl Albiol",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "spain_2014_gerard_piqu",
+      "name": "Gerard Piqué",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2014_javi_mart_nez",
+      "name": "Javi Martínez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "spain_2014_not_applicable_juanfran",
+      "name": "Juanfran",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "spain_2014_andr_s_iniesta",
+      "name": "Andrés Iniesta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "spain_2014_david_villa",
+      "name": "David Villa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2014_not_applicable_xavi",
+      "name": "Xavi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "spain_2014_fernando_torres",
+      "name": "Fernando Torres",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "spain_2014_cesc_f_bregas",
+      "name": "Cesc Fàbregas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2014_not_applicable_pedro",
+      "name": "Pedro",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "spain_2014_david_de_gea",
+      "name": "David de Gea",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "spain_2014_juan_mata",
+      "name": "Juan Mata",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2014_xabi_alonso",
+      "name": "Xabi Alonso",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "spain_2014_sergio_ramos",
+      "name": "Sergio Ramos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "spain_2014_sergio_busquets",
+      "name": "Sergio Busquets",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "spain_2014_not_applicable_koke",
+      "name": "Koke",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "spain_2014_jordi_alba",
+      "name": "Jordi Alba",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "spain_2014_diego_costa",
+      "name": "Diego Costa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "spain_2014_santi_cazorla",
+      "name": "Santi Cazorla",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "spain_2014_david_silva",
+      "name": "David Silva",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "spain_2014_c_sar_azpilicueta",
+      "name": "César Azpilicueta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "spain_2014_pepe_reina",
+      "name": "Pepe Reina",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    }
+  ]
+}

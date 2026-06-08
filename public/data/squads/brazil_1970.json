@@ -1,0 +1,162 @@
+{
+  "team": "Brazil",
+  "year": 1970,
+  "nation_code": "BR",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_1970_not_applicable_f_lix",
+      "name": "Félix",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1970_not_applicable_brito",
+      "name": "Brito",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1970_not_applicable_piazza",
+      "name": "Piazza",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1970_carlos_alberto",
+      "name": "Carlos Alberto",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1970_not_applicable_clodoaldo",
+      "name": "Clodoaldo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1970_marco_ant_nio",
+      "name": "Marco Antônio",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1970_not_applicable_jairzinho",
+      "name": "Jairzinho",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1970_not_applicable_g_rson",
+      "name": "Gérson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1970_not_applicable_tost_o",
+      "name": "Tostão",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1970_not_applicable_pel",
+      "name": "Pelé",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "brazil_1970_not_applicable_rivellino",
+      "name": "Rivellino",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1970_not_applicable_ado",
+      "name": "Ado",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1970_not_applicable_roberto",
+      "name": "Roberto",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "brazil_1970_not_applicable_baldocchi",
+      "name": "Baldocchi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1970_not_applicable_fontana",
+      "name": "Fontana",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_1970_not_applicable_everaldo",
+      "name": "Everaldo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1970_not_applicable_joel",
+      "name": "Joel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1970_not_applicable_caju",
+      "name": "Caju",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1970_not_applicable_edu",
+      "name": "Edu",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1970_not_applicable_dario",
+      "name": "Dario",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1970_not_applicable_z_maria",
+      "name": "Zé Maria",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1970_not_applicable_le_o",
+      "name": "Leão",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    }
+  ]
+}

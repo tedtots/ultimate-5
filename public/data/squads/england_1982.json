@@ -1,0 +1,162 @@
+{
+  "team": "England",
+  "year": 1982,
+  "nation_code": "gb-eng",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_1982_ray_clemence",
+      "name": "Ray Clemence",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1982_viv_anderson",
+      "name": "Viv Anderson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_1982_trevor_brooking",
+      "name": "Trevor Brooking",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_terry_butcher",
+      "name": "Terry Butcher",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1982_steve_coppell",
+      "name": "Steve Coppell",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_steve_foster",
+      "name": "Steve Foster",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_1982_kevin_keegan",
+      "name": "Kevin Keegan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1982_trevor_francis",
+      "name": "Trevor Francis",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_1982_glenn_hoddle",
+      "name": "Glenn Hoddle",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_terry_mcdermott",
+      "name": "Terry McDermott",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_1982_paul_mariner",
+      "name": "Paul Mariner",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_mick_mills",
+      "name": "Mick Mills",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "england_1982_joe_corrigan",
+      "name": "Joe Corrigan",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "england_1982_phil_neal",
+      "name": "Phil Neal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1982_graham_rix",
+      "name": "Graham Rix",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_bryan_robson",
+      "name": "Bryan Robson",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_kenny_sansom",
+      "name": "Kenny Sansom",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1982_phil_thompson",
+      "name": "Phil Thompson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "england_1982_ray_wilkins",
+      "name": "Ray Wilkins",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1982_peter_withe",
+      "name": "Peter Withe",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1982_tony_woodcock",
+      "name": "Tony Woodcock",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1982_peter_shilton",
+      "name": "Peter Shilton",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    }
+  ]
+}

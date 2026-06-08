@@ -1,0 +1,162 @@
+{
+  "team": "Yugoslavia",
+  "year": 1982,
+  "nation_code": "rs",
+  "flag": "🇷🇸",
+  "players": [
+    {
+      "id": "yugoslavia_1982_dragan_panteli",
+      "name": "Dragan Pantelić",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1982_ive_jerolimov",
+      "name": "Ive Jerolimov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "yugoslavia_1982_ivan_gudelj",
+      "name": "Ivan Gudelj",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "yugoslavia_1982_velimir_zajec",
+      "name": "Velimir Zajec",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1982_nenad_stojkovi",
+      "name": "Nenad Stojković",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "yugoslavia_1982_zlatko_krmpoti",
+      "name": "Zlatko Krmpotić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1982_vladimir_petrovi",
+      "name": "Vladimir Petrović",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "yugoslavia_1982_edhem_ljivo",
+      "name": "Edhem Šljivo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1982_zoran_vujovi",
+      "name": "Zoran Vujović",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "yugoslavia_1982_zvonko_ivkovi",
+      "name": "Zvonko Živković",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "yugoslavia_1982_zlatko_vujovi",
+      "name": "Zlatko Vujović",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "yugoslavia_1982_ivan_pudar",
+      "name": "Ivan Pudar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1982_safet_su_i",
+      "name": "Safet Sušić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "yugoslavia_1982_nikola_jovanovi",
+      "name": "Nikola Jovanović",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "yugoslavia_1982_milo_hrsti",
+      "name": "Miloš Hrstić",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "yugoslavia_1982_milo_esti",
+      "name": "Miloš Šestić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "yugoslavia_1982_jurica_jerkovi",
+      "name": "Jurica Jerković",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "yugoslavia_1982_stjepan_deveri",
+      "name": "Stjepan Deverić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "yugoslavia_1982_vahid_halilhod_i",
+      "name": "Vahid Halilhodžić",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "yugoslavia_1982_ivica_urjak",
+      "name": "Ivica Šurjak",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "yugoslavia_1982_predrag_pa_i",
+      "name": "Predrag Pašić",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "yugoslavia_1982_ratko_svilar",
+      "name": "Ratko Svilar",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

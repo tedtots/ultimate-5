@@ -1,0 +1,162 @@
+{
+  "team": "Brazil",
+  "year": 1994,
+  "nation_code": "BR",
+  "flag": "🇧🇷",
+  "players": [
+    {
+      "id": "brazil_1994_cl_udio_taffarel",
+      "name": "Cláudio Taffarel",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1994_not_applicable_jorginho",
+      "name": "Jorginho",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "brazil_1994_ricardo_rocha",
+      "name": "Ricardo Rocha",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1994_not_applicable_ronald_o",
+      "name": "Ronaldão",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1994_mauro_silva",
+      "name": "Mauro Silva",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "brazil_1994_not_applicable_branco",
+      "name": "Branco",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1994_not_applicable_bebeto",
+      "name": "Bebeto",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "brazil_1994_not_applicable_dunga",
+      "name": "Dunga",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "brazil_1994_not_applicable_zinho",
+      "name": "Zinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "brazil_1994_not_applicable_ra",
+      "name": "Raí",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1994_not_applicable_rom_rio",
+      "name": "Romário",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "brazil_1994_not_applicable_zetti",
+      "name": "Zetti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_1994_not_applicable_aldair",
+      "name": "Aldair",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "brazil_1994_not_applicable_cafu",
+      "name": "Cafu",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "brazil_1994_m_rcio_santos",
+      "name": "Márcio Santos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "brazil_1994_not_applicable_leonardo",
+      "name": "Leonardo",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "brazil_1994_not_applicable_mazinho",
+      "name": "Mazinho",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "brazil_1994_paulo_s_rgio",
+      "name": "Paulo Sérgio",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "brazil_1994_not_applicable_m_ller",
+      "name": "Müller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "brazil_1994_not_applicable_ronaldo",
+      "name": "Ronaldo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "brazil_1994_not_applicable_viola",
+      "name": "Viola",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "brazil_1994_gilmar_rinaldi",
+      "name": "Gilmar Rinaldi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    }
+  ]
+}

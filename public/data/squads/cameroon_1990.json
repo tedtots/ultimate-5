@@ -1,0 +1,162 @@
+{
+  "team": "Cameroon",
+  "year": 1990,
+  "nation_code": "CM",
+  "flag": "🇨🇲",
+  "players": [
+    {
+      "id": "cameroon_1990_joseph_antoine_bell",
+      "name": "Joseph-Antoine Bell",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "cameroon_1990_andr_kana_biyik",
+      "name": "André Kana-Biyik",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "cameroon_1990_jules_onana",
+      "name": "Jules Onana",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "cameroon_1990_benjamin_massing",
+      "name": "Benjamin Massing",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "cameroon_1990_bertin_ebwell",
+      "name": "Bertin Ebwellé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "cameroon_1990_emmanuel_kund",
+      "name": "Emmanuel Kundé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "cameroon_1990_fran_ois_omam_biyik",
+      "name": "François Omam-Biyik",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "cameroon_1990_mile_mbouh",
+      "name": "Émile Mbouh",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "cameroon_1990_roger_milla",
+      "name": "Roger Milla",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "cameroon_1990_louis_paul_m_f_d",
+      "name": "Louis-Paul M'Fédé",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "cameroon_1990_eug_ne_ek_k",
+      "name": "Eugène Ekéké",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "cameroon_1990_alphonse_yombi",
+      "name": "Alphonse Yombi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "cameroon_1990_jean_claude_pagal",
+      "name": "Jean-Claude Pagal",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "cameroon_1990_stephen_tataw",
+      "name": "Stephen Tataw",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "cameroon_1990_thomas_libiih",
+      "name": "Thomas Libiih",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "cameroon_1990_thomas_n_kono",
+      "name": "Thomas N'Kono",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "cameroon_1990_victor_n_dip",
+      "name": "Victor N'Dip",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "cameroon_1990_bonaventure_djonkep",
+      "name": "Bonaventure Djonkep",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "cameroon_1990_roger_feutmba",
+      "name": "Roger Feutmba",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "cameroon_1990_cyrille_makanaky",
+      "name": "Cyrille Makanaky",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "cameroon_1990_emmanuel_maboang",
+      "name": "Emmanuel Maboang",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "cameroon_1990_jacques_songo_o",
+      "name": "Jacques Songo'o",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

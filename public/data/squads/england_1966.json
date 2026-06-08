@@ -1,0 +1,162 @@
+{
+  "team": "England",
+  "year": 1966,
+  "nation_code": "GB-ENG",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "players": [
+    {
+      "id": "england_1966_gordon_banks",
+      "name": "Gordon Banks",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "england_1966_george_cohen",
+      "name": "George Cohen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1966_ray_wilson",
+      "name": "Ray Wilson",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "england_1966_nobby_stiles",
+      "name": "Nobby Stiles",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1966_jack_charlton",
+      "name": "Jack Charlton",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "england_1966_bobby_moore",
+      "name": "Bobby Moore",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "england_1966_alan_ball",
+      "name": "Alan Ball",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1966_jimmy_greaves",
+      "name": "Jimmy Greaves",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "england_1966_bobby_charlton",
+      "name": "Bobby Charlton",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 93
+    },
+    {
+      "id": "england_1966_geoff_hurst",
+      "name": "Geoff Hurst",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_1966_john_connelly",
+      "name": "John Connelly",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_1966_ron_springett",
+      "name": "Ron Springett",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "england_1966_peter_bonetti",
+      "name": "Peter Bonetti",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1966_jimmy_armfield",
+      "name": "Jimmy Armfield",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "england_1966_gerry_byrne",
+      "name": "Gerry Byrne",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1966_martin_peters",
+      "name": "Martin Peters",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "england_1966_ron_flowers",
+      "name": "Ron Flowers",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "england_1966_norman_hunter",
+      "name": "Norman Hunter",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "england_1966_terry_paine",
+      "name": "Terry Paine",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "england_1966_ian_callaghan",
+      "name": "Ian Callaghan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "england_1966_roger_hunt",
+      "name": "Roger Hunt",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "england_1966_george_eastham",
+      "name": "George Eastham",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    }
+  ]
+}

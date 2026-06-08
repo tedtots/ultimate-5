@@ -1,0 +1,169 @@
+{
+  "team": "Germany",
+  "year": 2014,
+  "nation_code": "DE",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_2014_manuel_neuer",
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "germany_2014_kevin_gro_kreutz",
+      "name": "Kevin Großkreutz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "germany_2014_matthias_ginter",
+      "name": "Matthias Ginter",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "germany_2014_benedikt_h_wedes",
+      "name": "Benedikt Höwedes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "germany_2014_mats_hummels",
+      "name": "Mats Hummels",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2014_sami_khedira",
+      "name": "Sami Khedira",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "germany_2014_bastian_schweinsteiger",
+      "name": "Bastian Schweinsteiger",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "germany_2014_mesut_zil",
+      "name": "Mesut Özil",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "germany_2014_andr_sch_rrle",
+      "name": "André Schürrle",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "germany_2014_lukas_podolski",
+      "name": "Lukas Podolski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_2014_miroslav_klose",
+      "name": "Miroslav Klose",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2014_ron_robert_zieler",
+      "name": "Ron-Robert Zieler",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2014_thomas_m_ller",
+      "name": "Thomas Müller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "germany_2014_julian_draxler",
+      "name": "Julian Draxler",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_2014_erik_durm",
+      "name": "Erik Durm",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2014_philipp_lahm",
+      "name": "Philipp Lahm",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_2014_per_mertesacker",
+      "name": "Per Mertesacker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "germany_2014_toni_kroos",
+      "name": "Toni Kroos",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_2014_mario_g_tze",
+      "name": "Mario Götze",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "germany_2014_j_r_me_boateng",
+      "name": "Jérôme Boateng",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2014_shkodran_mustafi",
+      "name": "Shkodran Mustafi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_2014_roman_weidenfeller",
+      "name": "Roman Weidenfeller",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_2014_christoph_kramer",
+      "name": "Christoph Kramer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    }
+  ]
+}

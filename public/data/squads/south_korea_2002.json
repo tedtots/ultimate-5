@@ -1,0 +1,169 @@
+{
+  "team": "South Korea",
+  "year": 2002,
+  "nation_code": "KR",
+  "flag": "🇰🇷",
+  "players": [
+    {
+      "id": "south_korea_2002_woon_jae_lee",
+      "name": "Woon-jae Lee",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "south_korea_2002_young_min_hyun",
+      "name": "Young-min Hyun",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "south_korea_2002_sung_yong_choi",
+      "name": "Sung-yong Choi",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "south_korea_2002_jin_cheul_choi",
+      "name": "Jin-cheul Choi",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2002_nam_il_kim",
+      "name": "Nam-il Kim",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "south_korea_2002_sang_chul_yoo",
+      "name": "Sang-chul Yoo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2002_tae_young_kim",
+      "name": "Tae-young Kim",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "south_korea_2002_tae_uk_choi",
+      "name": "Tae-uk Choi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "south_korea_2002_ki_hyeon_seol",
+      "name": "Ki-hyeon Seol",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "south_korea_2002_young_pyo_lee",
+      "name": "Young-pyo Lee",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "south_korea_2002_yong_soo_choi",
+      "name": "Yong-soo Choi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2002_byung_ji_kim",
+      "name": "Byung-ji Kim",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "south_korea_2002_eul_yong_lee",
+      "name": "Eul-yong Lee",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "south_korea_2002_chun_soo_lee",
+      "name": "Chun-soo Lee",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "south_korea_2002_min_sung_lee",
+      "name": "Min-sung Lee",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "south_korea_2002_du_ri_cha",
+      "name": "Du-ri Cha",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "south_korea_2002_jong_hwan_yoon",
+      "name": "Jong-hwan Yoon",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "south_korea_2002_sun_hong_hwang",
+      "name": "Sun-hong Hwang",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "south_korea_2002_jung_hwan_ahn",
+      "name": "Jung-hwan Ahn",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "south_korea_2002_myung_bo_hong",
+      "name": "Myung-bo Hong",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "south_korea_2002_ji_sung_park",
+      "name": "Ji-sung Park",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "south_korea_2002_chong_gug_song",
+      "name": "Chong-gug Song",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "south_korea_2002_eun_sung_choi",
+      "name": "Eun-sung Choi",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

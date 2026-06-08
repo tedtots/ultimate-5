@@ -1,0 +1,162 @@
+{
+  "team": "Soviet Union",
+  "year": 1970,
+  "nation_code": "ru",
+  "flag": "🇷🇺",
+  "players": [
+    {
+      "id": "soviet_union_1970_leonid_shmuts",
+      "name": "Leonid Shmuts",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1970_anzor_kavazashvili",
+      "name": "Anzor Kavazashvili",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "soviet_union_1970_valentin_afonin",
+      "name": "Valentin Afonin",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1970_revaz_dzodzuashvili",
+      "name": "Revaz Dzodzuashvili",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1970_vladimir_kaplichny",
+      "name": "Vladimir Kaplichny",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1970_evgeny_lovchev",
+      "name": "Evgeny Lovchev",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "soviet_union_1970_gennady_logofet",
+      "name": "Gennady Logofet",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1970_murtaz_khurtsilava",
+      "name": "Murtaz Khurtsilava",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1970_albert_shesternyov",
+      "name": "Albert Shesternyov",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "soviet_union_1970_valery_zykov",
+      "name": "Valery Zykov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "soviet_union_1970_kakhi_asatiani",
+      "name": "Kakhi Asatiani",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "soviet_union_1970_nikolay_kiselyov",
+      "name": "Nikolay Kiselyov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "soviet_union_1970_lev_yashin",
+      "name": "Lev Yashin",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "soviet_union_1970_vladimir_muntyan",
+      "name": "Vladimir Muntyan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "soviet_union_1970_viktor_serebryanikov",
+      "name": "Viktor Serebryanikov",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1970_anatoliy_byshovets",
+      "name": "Anatoliy Byshovets",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "soviet_union_1970_gennady_yevriuzhikin",
+      "name": "Gennady Yevriuzhikin",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "soviet_union_1970_slava_metreveli",
+      "name": "Slava Metreveli",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "soviet_union_1970_givi_nodia",
+      "name": "Givi Nodia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "soviet_union_1970_anatoliy_puzach",
+      "name": "Anatoliy Puzach",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "soviet_union_1970_vitaly_khmelnitsky",
+      "name": "Vitaly Khmelnitsky",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 87
+    },
+    {
+      "id": "soviet_union_1970_valeriy_porkujan",
+      "name": "Valeriy Porkujan",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    }
+  ]
+}

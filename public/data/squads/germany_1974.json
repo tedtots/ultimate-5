@@ -1,0 +1,162 @@
+{
+  "team": "Germany",
+  "year": 1974,
+  "nation_code": "DE",
+  "flag": "🇩🇪",
+  "players": [
+    {
+      "id": "germany_1974_sepp_maier",
+      "name": "Sepp Maier",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "germany_1974_berti_vogts",
+      "name": "Berti Vogts",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "germany_1974_paul_breitner",
+      "name": "Paul Breitner",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_1974_hans_georg_schwarzenbeck",
+      "name": "Hans-Georg Schwarzenbeck",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 92
+    },
+    {
+      "id": "germany_1974_franz_beckenbauer",
+      "name": "Franz Beckenbauer",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 97
+    },
+    {
+      "id": "germany_1974_horst_dieter_h_ttges",
+      "name": "Horst-Dieter Höttges",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1974_herbert_wimmer",
+      "name": "Herbert Wimmer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1974_bernhard_cullmann",
+      "name": "Bernhard Cullmann",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 95
+    },
+    {
+      "id": "germany_1974_j_rgen_grabowski",
+      "name": "Jürgen Grabowski",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_1974_g_nter_netzer",
+      "name": "Günter Netzer",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_1974_jupp_heynckes",
+      "name": "Jupp Heynckes",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_1974_wolfgang_overath",
+      "name": "Wolfgang Overath",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "germany_1974_gerd_m_ller",
+      "name": "Gerd Müller",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 96
+    },
+    {
+      "id": "germany_1974_uli_hoene",
+      "name": "Uli Hoeneß",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "germany_1974_heinz_flohe",
+      "name": "Heinz Flohe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "germany_1974_rainer_bonhof",
+      "name": "Rainer Bonhof",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "germany_1974_bernd_h_lzenbein",
+      "name": "Bernd Hölzenbein",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "germany_1974_dieter_herzog",
+      "name": "Dieter Herzog",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_1974_jupp_kapellmann",
+      "name": "Jupp Kapellmann",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_1974_helmut_kremers",
+      "name": "Helmut Kremers",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "germany_1974_norbert_nigbur",
+      "name": "Norbert Nigbur",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "germany_1974_wolfgang_kleff",
+      "name": "Wolfgang Kleff",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    }
+  ]
+}

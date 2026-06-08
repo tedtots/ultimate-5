@@ -1,0 +1,169 @@
+{
+  "team": "Colombia",
+  "year": 2014,
+  "nation_code": "CO",
+  "flag": "🇨🇴",
+  "players": [
+    {
+      "id": "colombia_2014_david_ospina",
+      "name": "David Ospina",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "colombia_2014_cristi_n_zapata",
+      "name": "Cristián Zapata",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "colombia_2014_mario_yepes",
+      "name": "Mario Yepes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "colombia_2014_santiago_arias",
+      "name": "Santiago Arias",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "colombia_2014_carlos_carbonero",
+      "name": "Carlos Carbonero",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "colombia_2014_carlos_s_nchez",
+      "name": "Carlos Sánchez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "colombia_2014_pablo_armero",
+      "name": "Pablo Armero",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "colombia_2014_abel_aguilar",
+      "name": "Abel Aguilar",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "colombia_2014_te_filo_guti_rrez",
+      "name": "Teófilo Gutiérrez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "colombia_2014_james_rodr_guez",
+      "name": "James Rodríguez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "colombia_2014_juan_cuadrado",
+      "name": "Juan Cuadrado",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "colombia_2014_camilo_vargas",
+      "name": "Camilo Vargas",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "colombia_2014_fredy_guar_n",
+      "name": "Fredy Guarín",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "colombia_2014_v_ctor_ibarbo",
+      "name": "Víctor Ibarbo",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "colombia_2014_alexander_mej_a",
+      "name": "Alexander Mejía",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "colombia_2014_der_lvarez_balanta",
+      "name": "Éder Álvarez Balanta",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "colombia_2014_carlos_bacca",
+      "name": "Carlos Bacca",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "colombia_2014_juan_camilo_z_iga",
+      "name": "Juan Camilo Zúñiga",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "colombia_2014_adri_n_ramos",
+      "name": "Adrián Ramos",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "colombia_2014_juan_fernando_quintero",
+      "name": "Juan Fernando Quintero",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "colombia_2014_jackson_mart_nez",
+      "name": "Jackson Martínez",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 91
+    },
+    {
+      "id": "colombia_2014_faryd_mondrag_n",
+      "name": "Faryd Mondragón",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "colombia_2014_carlos_vald_s",
+      "name": "Carlos Valdés",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 77
+    }
+  ]
+}

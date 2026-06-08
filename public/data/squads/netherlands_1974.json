@@ -1,0 +1,162 @@
+{
+  "team": "Netherlands",
+  "year": 1974,
+  "nation_code": "NL",
+  "flag": "🇳🇱",
+  "players": [
+    {
+      "id": "netherlands_1974_ruud_geels",
+      "name": "Ruud Geels",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_1974_arie_haan",
+      "name": "Arie Haan",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "netherlands_1974_willem_van_hanegem",
+      "name": "Willem van Hanegem",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 94
+    },
+    {
+      "id": "netherlands_1974_kees_van_ierssel",
+      "name": "Kees van Ierssel",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "netherlands_1974_rinus_isra_l",
+      "name": "Rinus Israël",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_1974_wim_jansen",
+      "name": "Wim Jansen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_1974_theo_de_jong",
+      "name": "Theo de Jong",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "netherlands_1974_jan_jongbloed",
+      "name": "Jan Jongbloed",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_1974_piet_keizer",
+      "name": "Piet Keizer",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_1974_ren_van_de_kerkhof",
+      "name": "René van de Kerkhof",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_1974_willy_van_de_kerkhof",
+      "name": "Willy van de Kerkhof",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "netherlands_1974_ruud_krol",
+      "name": "Ruud Krol",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_1974_johan_neeskens",
+      "name": "Johan Neeskens",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "netherlands_1974_johan_cruyff",
+      "name": "Johan Cruyff",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 99
+    },
+    {
+      "id": "netherlands_1974_rob_rensenbrink",
+      "name": "Rob Rensenbrink",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_1974_johnny_rep",
+      "name": "Johnny Rep",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "netherlands_1974_wim_rijsbergen",
+      "name": "Wim Rijsbergen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "netherlands_1974_piet_schrijvers",
+      "name": "Piet Schrijvers",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "netherlands_1974_pleun_strik",
+      "name": "Pleun Strik",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "netherlands_1974_wim_suurbier",
+      "name": "Wim Suurbier",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "netherlands_1974_eddy_treijtel",
+      "name": "Eddy Treijtel",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "netherlands_1974_harry_vos",
+      "name": "Harry Vos",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 87
+    }
+  ]
+}

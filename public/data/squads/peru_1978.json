@@ -1,0 +1,162 @@
+{
+  "team": "Peru",
+  "year": 1978,
+  "nation_code": "pe",
+  "flag": "🇵🇪",
+  "players": [
+    {
+      "id": "peru_1978_ottorino_sartor",
+      "name": "Ottorino Sartor",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1978_jaime_duarte",
+      "name": "Jaime Duarte",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1978_rodolfo_manzo",
+      "name": "Rodolfo Manzo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "peru_1978_h_ctor_chumpitaz",
+      "name": "Héctor Chumpitaz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "peru_1978_rub_n_toribio_d_az",
+      "name": "Rubén Toribio Díaz",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "peru_1978_jos_vel_squez",
+      "name": "José Velásquez",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "peru_1978_juan_mu_ante",
+      "name": "Juan Muñante",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "peru_1978_c_sar_cueto",
+      "name": "César Cueto",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "peru_1978_percy_rojas",
+      "name": "Percy Rojas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1978_te_filo_cubillas",
+      "name": "Teófilo Cubillas",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "peru_1978_carlos_juan_oblitas",
+      "name": "Carlos Juan Oblitas",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "peru_1978_roberto_mosquera",
+      "name": "Roberto Mosquera",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 77
+    },
+    {
+      "id": "peru_1978_juan_c_ceres",
+      "name": "Juan Cáceres",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "peru_1978_jos_navarro",
+      "name": "José Navarro",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 69
+    },
+    {
+      "id": "peru_1978_germ_n_legu_a",
+      "name": "Germán Leguía",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1978_ra_l_gorriti",
+      "name": "Raúl Gorriti",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "peru_1978_alfredo_quesada",
+      "name": "Alfredo Quesada",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "peru_1978_ernesto_labarthe",
+      "name": "Ernesto Labarthe",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 75
+    },
+    {
+      "id": "peru_1978_guillermo_la_rosa",
+      "name": "Guillermo La Rosa",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "peru_1978_hugo_sotil",
+      "name": "Hugo Sotil",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "peru_1978_ram_n_quiroga",
+      "name": "Ramón Quiroga",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "peru_1978_roberto_rojas",
+      "name": "Roberto Rojas",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    }
+  ]
+}

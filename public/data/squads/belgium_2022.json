@@ -1,0 +1,190 @@
+{
+  "team": "Belgium",
+  "year": 2022,
+  "nation_code": "BE",
+  "flag": "🇧🇪",
+  "players": [
+    {
+      "id": "belgium_2022_thibaut_courtois",
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2022_toby_alderweireld",
+      "name": "Toby Alderweireld",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "belgium_2022_arthur_theate",
+      "name": "Arthur Theate",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "belgium_2022_wout_faes",
+      "name": "Wout Faes",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "belgium_2022_jan_vertonghen",
+      "name": "Jan Vertonghen",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 79
+    },
+    {
+      "id": "belgium_2022_axel_witsel",
+      "name": "Axel Witsel",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "belgium_2022_kevin_de_bruyne",
+      "name": "Kevin De Bruyne",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2022_youri_tielemans",
+      "name": "Youri Tielemans",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2022_romelu_lukaku",
+      "name": "Romelu Lukaku",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2022_eden_hazard",
+      "name": "Eden Hazard",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "belgium_2022_yannick_carrasco",
+      "name": "Yannick Carrasco",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 88
+    },
+    {
+      "id": "belgium_2022_simon_mignolet",
+      "name": "Simon Mignolet",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "belgium_2022_koen_casteels",
+      "name": "Koen Casteels",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 89
+    },
+    {
+      "id": "belgium_2022_dries_mertens",
+      "name": "Dries Mertens",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "belgium_2022_thomas_meunier",
+      "name": "Thomas Meunier",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "belgium_2022_thorgan_hazard",
+      "name": "Thorgan Hazard",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "belgium_2022_leandro_trossard",
+      "name": "Leandro Trossard",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "belgium_2022_amadou_onana",
+      "name": "Amadou Onana",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 85
+    },
+    {
+      "id": "belgium_2022_leander_dendoncker",
+      "name": "Leander Dendoncker",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "belgium_2022_hans_vanaken",
+      "name": "Hans Vanaken",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 83
+    },
+    {
+      "id": "belgium_2022_timothy_castagne",
+      "name": "Timothy Castagne",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "belgium_2022_charles_de_ketelaere",
+      "name": "Charles De Ketelaere",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 82
+    },
+    {
+      "id": "belgium_2022_michy_batshuayi",
+      "name": "Michy Batshuayi",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 90
+    },
+    {
+      "id": "belgium_2022_lo_s_openda",
+      "name": "Loïs Openda",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 86
+    },
+    {
+      "id": "belgium_2022_j_r_my_doku",
+      "name": "Jérémy Doku",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "belgium_2022_zeno_debast",
+      "name": "Zeno Debast",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    }
+  ]
+}

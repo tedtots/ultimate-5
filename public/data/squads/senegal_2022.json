@@ -1,0 +1,190 @@
+{
+  "team": "Senegal",
+  "year": 2022,
+  "nation_code": "sn",
+  "flag": "🇸🇳",
+  "players": [
+    {
+      "id": "senegal_2022_seny_dieng",
+      "name": "Seny Dieng",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 84
+    },
+    {
+      "id": "senegal_2022_formose_mendy",
+      "name": "Formose Mendy",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2022_kalidou_koulibaly",
+      "name": "Kalidou Koulibaly",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "senegal_2022_pape_abou_ciss",
+      "name": "Pape Abou Cissé",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "senegal_2022_idrissa_gueye",
+      "name": "Idrissa Gueye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "senegal_2022_nampalys_mendy",
+      "name": "Nampalys Mendy",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "senegal_2022_nicolas_jackson",
+      "name": "Nicolas Jackson",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 80
+    },
+    {
+      "id": "senegal_2022_cheikhou_kouyat",
+      "name": "Cheikhou Kouyaté",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2022_boulaye_dia",
+      "name": "Boulaye Dia",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2022_moussa_n_diaye",
+      "name": "Moussa N'Diaye",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2022_path_ciss",
+      "name": "Pathé Ciss",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "senegal_2022_fod_ballo_tour",
+      "name": "Fodé Ballo-Touré",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2022_iliman_ndiaye",
+      "name": "Iliman Ndiaye",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "senegal_2022_ismail_jakobs",
+      "name": "Ismail Jakobs",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "senegal_2022_kr_pin_diatta",
+      "name": "Krépin Diatta",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2022_douard_mendy",
+      "name": "Édouard Mendy",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 70
+    },
+    {
+      "id": "senegal_2022_pape_matar_sarr",
+      "name": "Pape Matar Sarr",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 74
+    },
+    {
+      "id": "senegal_2022_isma_la_sarr",
+      "name": "Ismaïla Sarr",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 81
+    },
+    {
+      "id": "senegal_2022_famara_di_dhiou",
+      "name": "Famara Diédhiou",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 78
+    },
+    {
+      "id": "senegal_2022_bamba_dieng",
+      "name": "Bamba Dieng",
+      "position": "FWD",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2022_youssouf_sabaly",
+      "name": "Youssouf Sabaly",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 73
+    },
+    {
+      "id": "senegal_2022_abdou_diallo",
+      "name": "Abdou Diallo",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 71
+    },
+    {
+      "id": "senegal_2022_alfred_gomis",
+      "name": "Alfred Gomis",
+      "position": "GK",
+      "age_at_tournament": 26,
+      "overall": 72
+    },
+    {
+      "id": "senegal_2022_moustapha_name",
+      "name": "Moustapha Name",
+      "position": "DEF",
+      "age_at_tournament": 26,
+      "overall": 68
+    },
+    {
+      "id": "senegal_2022_mamadou_loum",
+      "name": "Mamadou Loum",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 76
+    },
+    {
+      "id": "senegal_2022_pape_gueye",
+      "name": "Pape Gueye",
+      "position": "MID",
+      "age_at_tournament": 26,
+      "overall": 70
+    }
+  ]
+}
