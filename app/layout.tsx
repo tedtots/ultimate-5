@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -24,6 +25,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="min-h-dvh flex flex-col">
         <main className="flex-1">{children}</main>
+        <Analytics />
         <footer
           className="text-center py-4 px-4 text-[11px] border-t"
           style={{ borderColor: "var(--border)", color: "var(--text-dim)" }}
