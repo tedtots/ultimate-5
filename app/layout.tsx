@@ -13,6 +13,21 @@ export const metadata: Metadata = {
     title: "Ultimate 5",
     description: "Build your dream team from across football history and simulate The Cup.",
     type: "website",
+    url: "https://www.ultimate-5.app",
+    images: [
+      {
+        url: "https://www.ultimate-5.app/og-image.png",
+        width: 1200,
+        height: 766,
+        alt: "Ultimate 5",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ultimate 5",
+    description: "Build your dream team from across football history and simulate The Cup.",
+    images: ["https://www.ultimate-5.app/og-image.png"],
   },
 };
 
