@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { FORMATIONS } from "@/lib/formations";
 import { Formation } from "@/lib/types";
@@ -44,6 +44,10 @@ export default function FormationSelect({ onSelect }: Props) {
   const [minYearIdx, setMinYearIdx] = useState(0);
   const [maxYear, setMaxYear]       = useState(2022);
   const minYear = WC_YEARS[minYearIdx];
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }, []);
 
   return (
     <div className="flex flex-col min-h-dvh px-4 pb-8">

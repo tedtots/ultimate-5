@@ -257,25 +257,6 @@ export default function Landing({ expertMode, isDark, onToggleTheme, onToggleExp
         </motion.button>
       </div>
 
-      {/* ── Footer ── */}
-      <footer className="pt-6 border-t text-center" style={{ borderColor: "var(--border)" }}>
-        <p className="text-[11px] mb-1" style={{ color: "var(--text-dim)" }}>
-          © 2026{" "}
-          <a
-            href="https://x.com/PartTimePundit"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: "var(--text-muted)" }}
-            className="underline underline-offset-2"
-          >
-            Part-time Pundit
-          </a>
-        </p>
-        <p className="text-[11px]" style={{ color: "var(--text-dimmer)" }}>
-          Built with love for the beautiful game.
-        </p>
-      </footer>
-
     </div>
   );
 }

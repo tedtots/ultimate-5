@@ -55,11 +55,13 @@ export default function Game() {
   function handleNewGame(champion: boolean) {
     if (champion) setStreak((s) => s + 1);
     else setStreak(0);
+    window.scrollTo({ top: 0, behavior: "instant" });
     setPhase("formation");
   }
 
   function handleRestart() {
     setStreak(0);
+    window.scrollTo({ top: 0, behavior: "instant" });
     setPhase("landing");
   }
 
