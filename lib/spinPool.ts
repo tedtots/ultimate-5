@@ -10,10 +10,22 @@ export async function loadSpinPool(): Promise<TeamYearMeta[]> {
 }
 
 export function weightedSpin(pool: TeamYearMeta[]): TeamYearMeta {
-  // Pick a random nation first (so England's 9 entries don't outweigh Morocco's 1),
-  // then pick a random year from that nation — true variance across the whole pool.
-  const nations = [...new Set(pool.map((t) => t.team))];
-  const nation = nations[Math.floor(Math.random() * nations.length)];
+  // Inverse-frequency weighting: nations with fewer squads in the pool get
+  // proportionally higher probability, surfacing obscure teams more often.
+  const nationCounts = new Map<string, number>();
+  for (const t of pool) nationCounts.set(t.team, (nationCounts.get(t.team) ?? 0) + 1);
+
+  const nations = [...nationCounts.keys()];
+  const weights = nations.map((n) => 1 / nationCounts.get(n)!);
+  const total   = weights.reduce((s, w) => s + w, 0);
+
+  let r = Math.random() * total;
+  let nation = nations[0];
+  for (let i = 0; i < nations.length; i++) {
+    r -= weights[i];
+    if (r <= 0) { nation = nations[i]; break; }
+  }
+
   const entries = pool.filter((t) => t.team === nation);
   return entries[Math.floor(Math.random() * entries.length)];
 }

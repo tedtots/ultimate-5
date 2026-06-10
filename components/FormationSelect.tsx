@@ -40,7 +40,7 @@ function posBadgeStyle(pos: string): React.CSSProperties {
 }
 
 export default function FormationSelect({ onSelect }: Props) {
-  const [teamName, setTeamName]     = useState("");
+  const [teamName, setTeamName]     = useState(() => localStorage.getItem("teamName") ?? "");
   const [minYearIdx, setMinYearIdx] = useState(0);
   const [maxYear, setMaxYear]       = useState(2022);
   const minYear = WC_YEARS[minYearIdx];
@@ -48,6 +48,11 @@ export default function FormationSelect({ onSelect }: Props) {
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, []);
+
+  function handleTeamNameChange(v: string) {
+    setTeamName(v);
+    localStorage.setItem("teamName", v);
+  }
 
   return (
     <div className="flex flex-col min-h-dvh px-4 pb-8">
@@ -69,7 +74,7 @@ export default function FormationSelect({ onSelect }: Props) {
         <input
           type="text"
           value={teamName}
-          onChange={(e) => setTeamName(e.target.value)}
+          onChange={(e) => handleTeamNameChange(e.target.value)}
           placeholder="e.g. Galaxy XI, The Underdogs…"
           maxLength={30}
           className="w-full rounded-2xl px-4 py-3 text-sm font-semibold focus:outline-none transition-colors"
