@@ -365,7 +365,7 @@ export default function DraftPage({
             >
               <div className="flex items-center justify-between mb-4">
                 <p className="text-[10px] uppercase tracking-widest" style={{ color: "var(--text-muted)" }}>Cup Odds</p>
-                <p className="text-[10px]" style={{ color: "var(--text-dim)" }}>Based on your XI</p>
+                <p className="text-[10px]" style={{ color: "var(--text-dim)" }}>Based on your 5</p>
               </div>
 
               <div className="flex items-start justify-between mb-5">
