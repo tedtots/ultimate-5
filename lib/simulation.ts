@@ -227,28 +227,115 @@ function headline(
   teamName: string
 ): string {
   const stageName = STAGE_LABELS[stage];
+  const score = `${goalsFor}–${goalsAgainst}`;
+  const pick = (arr: string[]) => arr[Math.floor(rng.next() * arr.length)];
 
   if (outcome === "pen_win") {
-    return `🥅 ${topPlayer} steps up — penalty saved! ${teamName} advance on penalties in the ${stageName}!`;
+    return pick([
+      `🥅 ${opponentName} step up — penalty saved! ${teamName} advance on penalties in the ${stageName}!`,
+      `🎉 Sudden death. ${topPlayer} keeps their nerve — ${teamName} through to the ${stageName}!`,
+      `🧤 Penalty shootout thriller — ${teamName} edge through 5-4 after ${opponentName} miss the final kick!`,
+    ]);
   }
+
   if (outcome === "pen_loss") {
-    return `💔 ${teamName} crash out on penalties in the ${stageName} against ${opponentName}.`;
+    return pick([
+      `💔 ${teamName} crash out on penalties in the ${stageName} — ${opponentName} hold their nerve.`,
+      `😰 ${topPlayer} fires over the bar — ${opponentName} advance on penalties in the ${stageName}.`,
+      `😤 Three misses. ${teamName} bow out on penalties despite a dominant display against ${opponentName}.`,
+    ]);
   }
+
   if (outcome === "win") {
+    if (goalsFor >= 4) {
+      return pick([
+        `🎯 ${topPlayer} slots home a hat-trick — ${teamName} demolish ${opponentName} ${score} in the ${stageName}!`,
+        `🎩 Hat-trick hero! ${topPlayer} single-handedly dismantles ${opponentName} — ${teamName} win ${score}!`,
+        `💥 ${topPlayer} with an absolute thunderbolt — ${teamName} blow past ${opponentName} ${score}!`,
+        `🥇 Flawless. ${teamName} dominate ${opponentName} from start to finish — ${score}, no contest.`,
+        `🏆 ${teamName} march on. ${opponentName} had no answers for ${topPlayer} tonight — ${score}, ${stageName}.`,
+      ]);
+    }
     if (goalsFor >= 3) {
-      const verbs = ["runs riot", "tears apart", "dismantles"];
-      return `⚽ ${topPlayer} ${verbs[Math.floor(rng.next() * verbs.length)]} ${opponentName} — ${goalsFor}-${goalsAgainst} in the ${stageName}!`;
+      return pick([
+        `💥 ${topPlayer} with an absolute thunderbolt — ${teamName} blow past ${opponentName} ${score}!`,
+        `🌍 What a tournament for ${topPlayer} — their goal seals a famous ${score} win for ${teamName}!`,
+        `🥇 Flawless. ${teamName} dominate ${opponentName} from start to finish — ${score}, no contest.`,
+        `🌪️ Two goals in three minutes — ${teamName} complete a stunning ${score} victory against ${opponentName}!`,
+        `🏆 ${teamName} march on. ${opponentName} had no answers for ${topPlayer} tonight — ${score}, ${stageName}.`,
+      ]);
+    }
+    if (goalsFor === 1 && goalsAgainst === 0) {
+      return pick([
+        `⚽ ${topPlayer} pulls off a screamer from 30 yards — ${teamName} stun ${opponentName} 1–0!`,
+        `🤏 ${topPlayer} with a cheeky chip — ${teamName} edge through 1–0 in the ${stageName}!`,
+        `👟 ${topPlayer} fires home from the spot — ${teamName} seal a nervy 1–0 win over ${opponentName}!`,
+        `😮‍💨 ${teamName} hang on after ${opponentName} hit the woodwork twice — 1–0, job done.`,
+        `👴 Football doesn't care about age — ${topPlayer} scores the only goal. ${teamName} edge ${opponentName} 1–0!`,
+      ]);
     }
     if (goalsFor - goalsAgainst === 1) {
-      const moments = ["a late winner", "an injury-time strike", "a moment of magic"];
-      return `⚽ ${topPlayer} with ${moments[Math.floor(rng.next() * moments.length)]} — ${teamName} edge past ${opponentName} ${goalsFor}-${goalsAgainst}!`;
+      return pick([
+        `🏹 ${topPlayer} bends one into the top corner — ${teamName} snatch a ${score} winner in extra time!`,
+        `🌀 ${topPlayer} ghosts past three defenders and finishes — ${teamName} take the ${stageName} ${score}!`,
+        `🌪️ Two goals in three minutes — ${teamName} complete a stunning comeback against ${opponentName}!`,
+        `🏆 ${teamName} march on. ${opponentName} had no answers for ${topPlayer} tonight — ${score}, ${stageName}.`,
+      ]);
     }
-    return `⚽ ${teamName} defeat ${opponentName} ${goalsFor}-${goalsAgainst} in the ${stageName}.`;
+    return pick([
+      `⚽ ${teamName} defeat ${opponentName} ${score} in the ${stageName}.`,
+      `🌍 What a tournament for ${topPlayer} — their goal seals a famous win for ${teamName}!`,
+      `🏆 ${teamName} march on. ${opponentName} had no answers for ${topPlayer} tonight — ${score}, ${stageName}.`,
+    ]);
   }
+
   if (outcome === "loss") {
-    return `💔 ${teamName} fall ${goalsFor}-${goalsAgainst} to ${opponentName} in the ${stageName}.`;
+    if (goalsAgainst >= 4) {
+      return pick([
+        `💀 No way back. ${teamName} hammered ${score} by ${opponentName} in the ${stageName}.`,
+        `💔 ${teamName} bow out of the ${stageName} — ${opponentName} too strong on the night, ${score}.`,
+      ]);
+    }
+    if (goalsAgainst >= 3) {
+      return pick([
+        `😞 ${topPlayer} with a rare off night — ${teamName} fall flat in a shock ${score} defeat to ${opponentName}.`,
+        `💔 ${teamName} bow out of the ${stageName} — ${opponentName} too strong on the night, ${score}.`,
+        `📉 ${teamName} dominated possession but couldn't find the net — ${opponentName} win ${score}.`,
+      ]);
+    }
+    if (goalsFor === 0 && goalsAgainst === 1) {
+      return pick([
+        `🙈 Disaster at the back — ${teamName} concede an own goal and crash out 1–0 to ${opponentName}.`,
+        `📉 ${teamName} dominated possession but couldn't find the net — ${opponentName} win 1–0 on the counter.`,
+        `😬 ${opponentName} snatch a late winner — ${teamName} eliminated in gut-wrenching fashion.`,
+      ]);
+    }
+    if (goalsAgainst - goalsFor === 1) {
+      return pick([
+        `😬 ${opponentName} snatch a late winner — ${teamName} eliminated in gut-wrenching fashion.`,
+        `🔴 ${topPlayer} sees red in the second half — ${teamName} crumble to ${opponentName} ${score}, down to 4.`,
+        `💔 ${teamName} bow out of the ${stageName} — ${opponentName} too strong on the night, ${score}.`,
+      ]);
+    }
+    return pick([
+      `💔 ${teamName} fall ${score} to ${opponentName} in the ${stageName}.`,
+      `😬 ${opponentName} are too good — ${teamName} eliminated in the ${stageName}.`,
+      `📉 ${teamName} dominated possession but couldn't find the net — ${opponentName} win ${score}.`,
+    ]);
   }
-  return `⚖️ ${teamName} draw ${goalsFor}-${goalsAgainst} with ${opponentName} in the Group Stage.`;
+
+  // draw
+  if (goalsFor === 0) {
+    return `😤 ${teamName} held to a frustrating 0–0 by ${opponentName} in the ${stageName}.`;
+  }
+  if (goalsFor >= 3) {
+    return `🤝 Honours even — ${teamName} and ${opponentName} share the spoils in a wild ${score} draw.`;
+  }
+  return pick([
+    `💨 ${topPlayer} hits the post in the dying seconds — ${teamName} escape with a ${score} draw.`,
+    `🚨 VAR overturns the winner — ${teamName} and ${opponentName} finish level at ${score}.`,
+    `⚖️ ${teamName} draw ${score} with ${opponentName} in the ${stageName}.`,
+  ]);
 }
 
 function pickTopScorer(players: (DraftedPlayer | null)[]): string {
