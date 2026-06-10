@@ -178,6 +178,17 @@ export default function Landing({ expertMode, isDark, onToggleTheme, onToggleExp
         <p className="text-center text-[11px]" style={{ color: "var(--text-muted)" }}>
           No sign-up required · Free to play
         </p>
+
+        {/* Cross-link to Ultimate 11 */}
+        <a
+          href="https://www.ultimate-11.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center justify-center gap-2 rounded-2xl py-3 font-semibold text-sm border transition-colors"
+          style={{ borderColor: "var(--border)", color: "var(--text-muted)", backgroundColor: "var(--bg-card)" }}
+        >
+          🏟️ Want the full team? Try Ultimate 11
+        </a>
       </div>
 
       {/* ── What is Ultimate 5? ── */}
