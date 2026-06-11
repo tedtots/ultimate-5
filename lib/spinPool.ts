@@ -16,7 +16,7 @@ export function weightedSpin(pool: TeamYearMeta[]): TeamYearMeta {
   for (const t of pool) nationCounts.set(t.team, (nationCounts.get(t.team) ?? 0) + 1);
 
   const nations = [...nationCounts.keys()];
-  const weights = nations.map((n) => 1 / nationCounts.get(n)!);
+  const weights = nations.map((n) => Math.sqrt(nationCounts.get(n)!));
   const total   = weights.reduce((s, w) => s + w, 0);
 
   let r = Math.random() * total;
